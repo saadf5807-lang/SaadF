@@ -9,7 +9,7 @@ Applied identically to every lecture. Reference format: `L1 Anatomy.pdf.pdf` (pl
 ## Fixed section order
 1. **Title / Objectives** — lecture aims + what is likely tested.
 2. **Main Content Sections** — slide-faithful, original lecture order; each section labeled by lecture part.
-   Between every two consecutive topics, insert a **Transition Bridge** block:
+   Between every two consecutive **major** topics (not every slide), insert a **Transition Bridge** block:
    > 🔁 **Recap — <finished topic>:** 3–5 bullets, the core takeaways only.
    > 🔗 **Link:** 1–2 sentences on *why* the next topic follows (cause→effect, structure→function, normal→abnormal, earlier→later stage).
    > ▶️ **Up next — <next topic>:** 1–2 sentences on what it covers and what to watch for.
@@ -28,3 +28,5 @@ Applied identically to every lecture. Reference format: `L1 Anatomy.pdf.pdf` (pl
 - Preserve every specific detail, number, and named structure from the slides.
 - Precise and exam-focused; no filler.
 - Content not in the lecture (added clinical context, mnemonics) is flagged as *[added]* so it is never confused with slide content.
+- One summary file per lecture; no cross-lecture bridges unless requested.
+- Image-only slides (ECGs, algorithms, tables) must be rendered and read, not skipped.

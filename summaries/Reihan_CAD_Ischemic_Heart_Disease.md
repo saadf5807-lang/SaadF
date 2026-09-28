@@ -2,7 +2,7 @@
 **Dr. Muhammad Reihan, Internal Medicine** | Source: `Reihan_CAD.pdf` (67 slides)
 
 > **Legend:** ⭐ = high-yield / likely exam target · *[added]* = not on slides (context, mnemonic, or reconstruction). Everything else comes from the lecture.
-> Some slide symbols (arrows, ♂/♀) were lost in the PDF. Where the meaning was reconstructed, it is marked *[reconstructed]*.
+> Some slide symbols (♂/♀) were lost in the PDF. Where the meaning was reconstructed, it is marked *[reconstructed]*.
 
 ---
 
@@ -35,6 +35,9 @@
 | **Right coronary artery (RCA)** | Sinoatrial nodal branch, conus arteriosus branch, right atrial branches, right ventricular branches, right marginal branches, **AV nodal branch**, right posterolateral branch, **posterior interventricular (descending) artery, PDA** |
 | **Left coronary artery (LCA)** | Conus arteriosus branch, **LAD** (diagonal branch, interventricular septal branches), **circumflex (LCX)** (left marginal branch, left posterior ventricular branch) |
 
+![Slide 6: Coronary artery anatomy, anterior and diaphragmatic views](../figures/cad/s06.jpg)
+
+
 ⭐ On the slide's diagram, the **PDA, AV nodal branch and SA nodal branch** arise from the **RCA** (right-dominant pattern). This explains why an **inferior MI (RCA)** can cause **bradycardia/AV block** *[added clinical link]*.
 
 > 🔁 **Recap: Anatomy.** Two main arteries: RCA (right heart, inferior wall, PDA, SA/AV nodal branches) and LCA → LAD (anterior wall + septum) and LCX (lateral wall).
@@ -56,11 +59,22 @@ CAD
       └── STEMI
 ```
 
-| Entity | Mechanism *[arrows reconstructed]* |
+| Entity | Mechanism (Slide 8) |
 |---|---|
 | **Stable angina** | ↑ O₂ **demand** with a fixed ↓ **supply** |
 | **Unstable angina** | Demand **unchanged**, ↓ **supply** |
 | **Myocardial infarction** | **Necrosis** of myocardium due to ↓ supply |
+
+**The four entities side by side (Slide 8 infographic):**
+| | Stable angina | Unstable angina | NSTEMI | STEMI |
+|---|---|---|---|---|
+| Mechanism | ↑ demand on a **stable plaque** (vessel can't dilate enough) | Plaque **ruptures**, thrombus → **partial occlusion**; pain at rest or rapidly progressive | Rupture + thrombus → partial occlusion | **Complete occlusion** of the lumen |
+| Result | **Demand ischemia, no infarct** | **Supply ischemia, no infarct** | **Subendocardial infarct** | **Transmural infarct** |
+| ECG | Normal | Normal, inverted T, or ST↓ | Normal, inverted T, or ST↓ | **Hyperacute T or ST↑** |
+| Troponin | Normal | **Normal** | **Elevated** | **Elevated** |
+
+![Slide 8: Stable angina → UA → NSTEMI → STEMI (mechanism, ECG, troponin)](../figures/cad/s08.jpg)
+
 
 ⭐ **Chest pain classification (Slide 9)**. The 3 characteristics:
 1. **Substernal** chest discomfort of characteristic **quality and duration**
@@ -84,6 +98,9 @@ CAD
 - CVD = **37% of all deaths in KSA (2018)** (WHO NCD country profile)
 - ⭐ Overall **CAD prevalence in KSA = 5.5%** (Al-Nozha et al., 2004)
   - **Males 6.6%** vs **females 4.4%**
+
+![Slide 10: Saudi Arabia CVD burden (WHO 2018 country profile)](../figures/cad/s10.jpg)
+
 
 > 🔁 **Recap: Epidemiology.** Top global killer. 37% of KSA deaths. KSA prevalence 5.5% (♂ 6.6 > ♀ 4.4).
 > 🔗 **Link:** Burden raises the question of cause. The dominant cause is atherosclerosis, which is driven by risk factors.
@@ -116,13 +133,28 @@ CAD
 ---
 
 ### 2.5 Pathophysiology (Slides 12–18)
-**Arterial wall:** 3 structural components (intima with endothelium, media with smooth-muscle bundles, adventitia *[layer names added; slide is a diagram]*).
+**Arterial wall (Slide 12): three structural components**
+| Layer | Function (slide) |
+|---|---|
+| **Adventitia** | Vascularization, innervation |
+| **Media** | **Vascular tone** |
+| **Intima**, lined by **endothelium** | **Hemostasis vs thrombosis**, **vascular tone regulation**, **vascular permeability regulation**; expresses **adhesion molecules** |
+
+![Slide 12: The arterial wall: three structural components](../figures/cad/s12.jpg)
+
+![Slide 13: Healthy artery, intact endothelium (SEM)](../figures/cad/s13.jpg) ![Slide 15: Endothelial erosion, exposed smooth muscle (SEM)](../figures/cad/s15.jpg)
+
 
 **Sequence:**
 1. Healthy artery: **intact endothelium**, intima, smooth-muscle bundles (SEM)
 2. **Atherosclerosis = an inflammatory disease** (Slide 14)
 3. **Endothelial erosion** → exposed smooth-muscle bundles (SEM)
 4. **Plaque rupture → thrombosis** (Slide 16) → the ACS mechanism
+
+![Slide 14: Atherosclerosis: an inflammatory disease](../figures/cad/s14.jpg)
+
+![Slide 16: From plaque to thrombosis: partial vs occlusive thrombus](../figures/cad/s16.jpg)
+
 
 ⭐ **Stable plaque cascade (Slide 17), in order:**
 1. Stable atherosclerotic plaque
@@ -132,10 +164,16 @@ CAD
 5. → **O₂ supply–demand mismatch**
 6. → **Myocardial ischemia**
 
+![Slide 17: Stable plaque → stenosis → ischemia](../figures/cad/s17.jpg)
+
+
 ⭐ **Coronary steal syndrome (Slide 18):**
 - In CAD, arterioles distal to a stenosis are **already fully dilated** (autoregulation). Normal areas keep **normal arteriolar tone**.
 - A **vasodilator** (e.g., adenosine, dipyridamole) dilates only the **normal** bed, which has room to dilate → **flow to normal area ↑**, **flow to ischemic area ↓** (blood is "stolen", including through collaterals).
 - This is the **basis of pharmacologic vasodilator stress testing**.
+
+![Slide 18: Coronary steal: vasodilator diverts flow from the ischemic bed](../figures/cad/s18.jpg)
+
 
 > 🔁 **Recap: Pathophysiology.** Inflammation → endothelial erosion → plaque. Stable plaque = fixed stenosis → demand ischemia. Rupture + thrombosis = ACS. Vasodilators "steal" flow from already-maximally-dilated ischemic beds.
 > 🔗 **Link:** Ischemia is the mechanism. Next is what the patient actually feels and shows.
@@ -151,6 +189,9 @@ CAD
 - Restlessness, anxiety
 - **Autonomic**: diaphoresis, nausea, vomiting, syncope
 
+![Slide 19: Typical and atypical pain radiation sites](../figures/cad/s19.jpg)
+
+
 > 🔁 **Recap: Clinical features.** Retrosternal pressure plus autonomic symptoms. The elderly, women and diabetics may have no pain.
 > 🔗 **Link:** Symptoms raise suspicion. Diagnostics confirm it. For stable angina, the choice of test depends on how likely CAD is beforehand.
 > ▶️ **Up next: Stable angina diagnostics.** ECG → pretest probability → stress testing → CT → catheterization.
@@ -162,6 +203,9 @@ CAD
 - **Usually normal** in stable CAD
 - May show **Q waves** (prior MI)
 - **Nonspecific T-wave changes** (inversion, flattening). Slide 21 shows T-wave inversions in II, III, aVF and V1–V6.
+
+![Slide 21: Stable CAD ECG: T-wave inversions](../figures/cad/s21.jpg)
+
 
 ⭐⭐ **Pretest probability (PTP) of CAD (Slide 22):**
 | PTP | Clinical presentation | Recommendation |
@@ -179,6 +223,9 @@ CAD
   3. Significant **cardiac arrhythmia**
   4. **Patient unable** to complete
 
+![Slide 25: When a stress test is stopped](../figures/cad/s25.jpg)
+
+
 **Types of stress (Slide 24):**
 - **Exercise**: "Everyone who can exercise should!" Must reach 85% of predicted HR.
 - **Pharmacologic, vasodilators** (adenosine, dipyridamole, regadenoson): ↑ cAMP → vascular smooth-muscle relaxation → coronary vasodilation.
@@ -186,16 +233,25 @@ CAD
 - **Pharmacologic, inotropes** (**dobutamine**, β1 + β2 agonist)
   - ⭐ Contraindication: **ventricular arrhythmias**
 
+![Slide 24: Types of stress and stress diagnostics (note the circled contraindications and the VWDDL mnemonic)](../figures/cad/s24.jpg)
+
+
 ⭐ **Mnemonic (on slide): "VolksWagen Drivers Don't Litter"** = ECG alone is **not enough** (baseline ECG uninterpretable for ischemia) with:
 **V**-paced · **W**PW · baseline **S**T **D**epression · **D**igoxin · **L**BBB → add imaging (echo/nuclear).
 
 **Other non-invasive tests (Slide 26):** Coronary **CT angiography** · **Coronary artery calcium (CAC) scoring**
+
+![Slide 26: Coronary CT angiography and calcium scoring](../figures/cad/s26.jpg)
+
 
 **Cardiac catheterization = gold standard** ⭐ (Slide 27). Indications:
 1. **Acute MI**
 2. **Positive stress test**
 3. Non-invasive tests **non-diagnostic / contraindicated**
 4. Angina **despite medical therapy**
+
+![Slide 27: Cardiac catheterization: the gold standard](../figures/cad/s27.jpg)
+
 
 > 🔁 **Recap: Stable angina diagnostics.** ECG first (usually normal). PTP decides the next step: low → no test, intermediate → exercise stress, high → stress or cath. Target 85% of (220 − age). Vasodilators are contraindicated in asthma/COPD and heart block, dobutamine in ventricular arrhythmias. Cath is the gold standard.
 > 🔗 **Link:** Once stable CAD is confirmed, every patient needs a treatment plan. Diagnosis tells us who has the disease, management tells us how to reduce ischemia and future events.
@@ -223,12 +279,18 @@ CAD
 | ⭐ **Both antianginal + secondary prevention** | **Beta-blockers** |
 | **Secondary prevention only** | ACEi/ARB (selected patients), lipid-lowering agents, antiplatelet agents |
 
+![Slide 30: Medical therapy: antianginal vs secondary prevention](../figures/cad/s30.jpg)
+
+
 **Secondary-prevention meds (Slide 31):**
 - **Aspirin**
 - **Clopidogrel** (P2Y12 antagonist) **if aspirin is contraindicated**
 - **ACEi/ARB** if **HTN, DM, CKD, or LVEF < 40%**
 - **High-intensity statin**
 - **PCSK9 inhibitor** if LDL not at goal on statin
+
+![Slide 31: Stable angina drug ladder and contraindications](../figures/cad/s31.jpg)
+
 
 **Revascularization in stable CAD (Slide 32):**
 - **Controversial**
@@ -257,6 +319,9 @@ CAD
 - ⭐ **"Silent MI" in diabetics** due to **polyneuropathy**
 - ⭐ **RV infarction triad:** **Hypotension + elevated JVP + clear lung fields**
 
+![Slide 35: Typical vs atypical (women) presentations of ACS](../figures/cad/s35.jpg)
+
+
 **Diagnostics:**
 1. ⭐ **ECG immediately** when ACS is suspected (**best initial test**)
 2. **Administer ASA + obtain ECG** →
@@ -269,6 +334,20 @@ CAD
    - Indications: **cardiogenic shock**, infarct-like symptoms with **inconclusive ECG**, evaluation for **MI complications**
    - Findings: **wall-motion abnormalities**, ↓ LV function
 
+![Slide 36: ACS suspected → ASA + ECG → STEMI vs NSTEMI pathway](../figures/cad/s36.jpg)
+
+**Cardiac marker kinetics (Slide 37 graph):**
+| Marker | Rises | Peaks | Back to normal |
+|---|---|---|---|
+| **Myoglobin** | First (hours) | ~6–12 h | ~1 day |
+| **CK-MB** | ~3–6 h | ~18–24 h | ~2–3 days (so it is useful for **reinfarction**) |
+| ⭐ **Troponin** | ~3–6 h | ~day 1–2 (up to ~50× ULN in extensive MI) | ~1–2 weeks |
+| **LDH** | ~day 1 | ~day 4 | ~2–3 weeks |
+*Times are read off the slide's graph (approximate).*
+
+![Slide 37: Cardiac biomarker curves after ACS](../figures/cad/s37.jpg)
+
+
 ⭐ **STEMI ECG evolution (Slide 39):**
 | # | Time | Changes |
 |---|---|---|
@@ -280,6 +359,9 @@ CAD
 | 6 | **Weeks later** | ST & T normal, ⭐ **Q wave persists** |
 *With successful early reperfusion, ST returns to baseline **without** T inversion or Q waves.*
 
+![Slide 39: ECG evolution in STEMI](../figures/cad/s39.jpg)
+
+
 ⭐⭐ **STEMI localization (Slide 42):**
 | Infarct location | Leads (ST↑ or Q) | Vessel |
 |---|---|---|
@@ -290,7 +372,17 @@ CAD
 | **Inferior** | **II, III, aVF** | **RCA** |
 | **Posterior** | **V7–V9** | **PDA** |
 
+![Slide 40: Which leads look at which wall](../figures/cad/s40.jpg)
+
+![Slide 41: Coronary territories: RCA, AMA, LAD, LCX, PDA](../figures/cad/s41.jpg)
+
+
 Example ECGs: Slide 43 shows an **inferior** STEMI pattern (ST↑ II, III, aVF). Slide 44 shows an **anterior/anteroseptal** STEMI (ST↑ V1–V5) *[interpretation added]*.
+
+![Slide 43: Inferior STEMI (ST↑ II, III, aVF)](../figures/cad/s43.jpg)
+
+![Slide 44: Anterior / anteroseptal STEMI (ST↑ V1–V5)](../figures/cad/s44.jpg)
+
 
 *Mnemonic [added]:* **"2-4-6 → S-A-L"**: V1–**2** **S**eptal, V3–**4** **A**pical, V5–**6** **L**ateral. **"I Love aVL → Lateral"**; **"II, III, aVF → Inferior → RCA"**.
 
@@ -310,6 +402,18 @@ Pillars: **Oxygen (SpO₂ < 90%)** · **Revascularization** · **Medications**
 | Indication | Within **12 h** of symptom onset **AND** ≤ **90 min** from first medical contact (**PCI-capable** facility) **OR** ≤ **120 min** (**non-PCI-capable**, i.e., transfer) | PCI **cannot** be done **≤ 120 min** from first medical contact **AND** **no contraindications** |
 | Procedure / agents | **Balloon dilatation + stent implantation** | **Tenecteplase, Alteplase, Reteplase, Streptokinase** |
 
+**Reperfusion strategy details (Slide 45):**
+- ⭐ **FMC → STEMI diagnosis < 10 min** (at any site)
+- At a **PCI centre**: FMC → primary PCI **< 90 min**
+- At a **non-PCI centre**: if FMC → PCI **< 120 min**, **transfer for PCI** (transfer time **≤ 60 min**)
+- If PCI can't happen within 120 min → **fibrinolysis, FMC → needle < 30 min** (the slide prints "30 h"; this is a typo for minutes)
+- After lysis: **routine rapid transfer**. **Failed fibrinolysis → immediate PCI**. **Successful → routine PCI within 24 h** (the **pharmacoinvasive strategy**)
+
+![Slide 45: Reperfusion strategy in STEMI](../figures/cad/s45.jpg)
+
+![Added diagram: STEMI reperfusion numbers](../figures/added/stemi_reperfusion.svg)
+
+
 ⭐ **Fibrinolysis contraindications (Slide 47):**
 | Absolute | Relative |
 |---|---|
@@ -326,6 +430,9 @@ Pillars: **Oxygen (SpO₂ < 90%)** · **Revascularization** · **Medications**
 *Pattern:* stroke **≤ 3 mo = absolute**, **≥ 3 mo = relative**.
 
 Slide 48: drug-eluting (sirolimus) stent, angiographic patency sustained at 4, 12, 24, 48 months.
+
+![Slide 48: Drug-eluting stent: patency out to 48 months](../figures/cad/s48.jpg)
+
 
 ⭐ **STEMI medications (Slide 49):** mnemonic ***"MONA + BASH C"*** *[added]*
 | Drug | Note |
@@ -349,6 +456,9 @@ Slide 48: drug-eluting (sirolimus) stent, angiographic patency sustained at 4, 1
 ### 2.11 NSTEMI / Unstable Angina (Slides 50–55)
 **ECG:** **No ST elevation.** Nonspecific ischemia may be present: **ST depression, T-wave inversion**. Slide 51 shows ST depression/T inversion in the lateral leads *[interpretation added]*.
 
+![Slide 51: NSTEMI/UA ECG: ST depression and T-wave inversion](../figures/cad/s51.jpg)
+
+
 **Medications (Slide 52):** **same list as STEMI** (morphine, O₂ if SpO₂ < 90%, nitrates, ASA, β-blockers only if no HF/shock risk, ACEi for **HTN, DM, HFrEF**, high-intensity statin, heparin 48 h, clopidogrel).
 *Only difference on the slides:* for STEMI, ACEi indications include **"STEMI"** itself. For NSTEMI, only HTN/DM/HFrEF.
 
@@ -359,11 +469,29 @@ Slide 48: drug-eluting (sirolimus) stent, angiographic patency sustained at 4, 1
 | **Intermediate** | **3–4** | **109–140** | **Delayed invasive** | **25–72 h** (consider angiography) |
 | **Low** | **0–2** | **1–108** | **Ischemia-guided** | → **Stress testing** |
 
+![Slide 53: NSTE-ACS risk stratification algorithm](../figures/cad/s53.jpg)
+
+
 All strata: **antiplatelet** (aspirin + clopidogrel **or** ticagrelor) + **anticoagulant** (UFH or LMWH; alternatively **fondaparinux**).
 Low-risk pathway: stress test **normal/low-risk + no recurrent pain → discharge with follow-up**. **Abnormal or recurrent symptoms → coronary angiography.**
 
 - ⭐ **> 90%** improve with medical regimen within **1–2 days** (Slide 54)
 - Further management depends on **mortality risk (TIMI)**, clinical findings, resources → **invasive vs ischemia-guided**
+
+⭐ **TIMI UA/NSTEMI risk score (Slide 54):** 1 point each, 7 items
+1. **Age ≥ 65**
+2. **≥ 3 risk factors for CAD**
+3. **Use of ASA in the last 7 days**
+4. **Known CAD (prior stenosis ≥ 50%)**
+5. **> 1 episode of rest angina in < 24 h**
+6. **ST-segment deviation**
+7. **Elevated cardiac markers**
+
+*Mnemonic [added]:* **"AGE-3-ASA-CAD-2-ST-Marker"**, or count **7 items for TIMI 0–7**.
+**GRACE** (also on the slide) uses age, HR, SBP, creatinine, Killip/CHF class, cardiac arrest at admission, ST deviation, elevated enzymes.
+
+![Slide 54: GRACE ACS risk model and TIMI UA/NSTEMI score](../figures/cad/s54.jpg)
+
 
 ⭐ **Urgent revascularization indications in NSTEMI (Slide 55):**
 1. **Hemodynamic instability**
@@ -389,6 +517,9 @@ Low-risk pathway: stress test **normal/low-risk + no recurrent pain → discharg
 
 *Mnemonic [added]:* **"Electric → Inflamed → Rupture → Remodel"** (24 h → 1–3 d → 3–14 d → weeks). The 3–14 d rupture window corresponds to macrophage clearance of necrotic tissue, when the wall is weakest *[added]*.
 
+![Added diagram: MI complications timeline](../figures/added/mi_timeline.svg)
+
+
 **Post-cardiac injury syndrome, PCIS (Slide 57):**
 - **Acute pericarditis**: **≥ 2 of 4**: (1) pericarditic chest pain, (2) pericardial rub, (3) **diffuse ST elevation or PR depression**, (4) new/worsening pericardial effusion
 - **Incessant pericarditis**: continuous symptoms **> 4–6 weeks and < 3 months**
@@ -400,6 +531,9 @@ Low-risk pathway: stress test **normal/low-risk + no recurrent pain → discharg
   - **Transient**: reversible after anti-inflammatory therapy
   - **Effusive-constrictive**: **RA pressure > 10 mm** persistent after pericardiocentesis
   - **Chronic constrictive**: persists after **3–6 months** of medical therapy
+
+![Slide 57: Post-cardiac injury syndrome spectrum](../figures/cad/s57.jpg)
+
 
 > 🔁 **Recap: MI complications.** 0–24 h arrhythmia/death/shock. 1–3 d pericarditis. 3–14 d ruptures (papillary → MR, free wall → tamponade, septum → VSD, pseudoaneurysm). Weeks: aneurysm, Dressler, HF. PCIS subtypes are defined by duration cut-offs (4–6 wk, 3 mo).
 > 🔗 **Link:** Everything so far came from atherosclerotic plaque. The last topic is an angina variant where the arteries can be normal and the problem is spasm, so the rules (risk factors, drugs) partly invert.
@@ -415,6 +549,9 @@ Low-risk pathway: stress test **normal/low-risk + no recurrent pain → discharg
 - Triggers: **cigarette smoking**; **stimulants (cocaine, amphetamines)**, **alcohol**, **triptans**; **stress, hyperventilation, cold**
 - Associated with other vasospastic disorders: **Raynaud phenomenon, migraine**
 - ⭐ **Common atherosclerotic risk factors do NOT apply, except smoking**
+
+![Slide 58: Coronary artery spasm](../figures/cad/s58.jpg)
+
 
 **Diagnostics:**
 - **Resting ECG**: ⭐ **transient ST elevation**, **U waves**
@@ -435,6 +572,11 @@ Low-risk pathway: stress test **normal/low-risk + no recurrent pain → discharg
 ---
 
 ### 2.14 Summary: ACS Treatment Algorithm (Slides 61–62)
+
+![Slide 61: ACS algorithm, part 1: EMS and ED (first 10 minutes)](../figures/cad/s61.jpg)
+
+![Slide 62: ACS algorithm, part 2: read the ECG](../figures/cad/s62.jpg)
+
 **EMS / pre-hospital (immediately):**
 1. Monitor/support **ABCs**; be ready for CPR/defibrillation
 2. **12-lead ECG**; report STEMI to the receiving facility

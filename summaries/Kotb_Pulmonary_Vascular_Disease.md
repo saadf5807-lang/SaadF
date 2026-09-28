@@ -27,10 +27,16 @@
 ### 2.1 PE: Definition & Etiology (Slides 5–6)
 ⭐ **PE = blockage of the pulmonary artery or its branches by an embolus** (blood clot, tumor, fat fragment, or air) **that originates somewhere else in the body**.
 
+![Slide 5: Pulmonary embolism: definition](../figures/pv/s05.jpg)
+
+
 ⭐ **Source:** most PEs arise from **DVT of the lower extremities *above the knee***:
 1. **Iliac**
 2. **Femoral**
 3. **Popliteal**
+
+![Slide 6: Clot travels from leg veins → IVC → right heart → pulmonary artery](../figures/pv/s06.jpg)
+
 
 ⭐ **Etiology mnemonic (on slide): "PE is FATAL"**
 | Letter | Embolus |
@@ -51,6 +57,9 @@
 1. **Stasis**
 2. **Vessel wall injury** (endothelial injury)
 3. **Hypercoagulability**
+
+![Slide 7: Virchow's triad](../figures/pv/s07.jpg)
+
 
 ⭐ **VTE risk factors (Slide 8):**
 | Risk factor | Triad arm *[mapping added]* |
@@ -81,6 +90,9 @@
 | **2. Impaired gas exchange** | ↓ Perfusion with preserved ventilation → **↑ V/Q (dead space)** → **↓ PaO₂, ↑ A-a gradient** → hyperventilation → **↓ PaCO₂ → respiratory alkalosis** | **Dyspnea, cough, wheezing** |
 | **3. Cardiac compromise** | **RV overload** → **↑ pulmonary artery pressure** → **↓ cardiac output** | **Tachycardia, shock/syncope** |
 
+![Slide 9: Three mechanisms: infarction, impaired gas exchange, cardiac compromise](../figures/pv/s09.jpg)
+
+
 **Pathogenesis cascade (Slide 11, Calgary Guide):**
 1. Virchow's triad → **DVT** (source of **95% of PE**)
 2. Clot dislodges → **IVC → right atrium → right ventricle → pulmonary artery**
@@ -97,6 +109,9 @@
 - ⭐ **CT-PA = current diagnostic test for PE**
 - **V/Q scan when CT contrast is contraindicated**
 - ⭐ **X-ray is usually normal** (except Hampton hump: rare but specific)
+
+![Slide 11: Calgary Guide: PE pathogenesis and laboratory findings](../figures/pv/s11.jpg)
+
 
 > 🔁 **Recap: Pathogenesis.** Infarction → pleuritic pain, hemoptysis, fever. Dead space → hypoxemia, ↑ A-a gradient, respiratory alkalosis. RV overload → tachycardia, shock, S1Q3T3, ↑ troponin/BNP.
 > 🔗 **Link:** Knowing the three mechanisms, you can predict the clinical picture and separate common from massive PE.
@@ -125,6 +140,9 @@
 | | **L**ungs clear |
 | | **Y**ou better not miss it |
 
+![Slide 34: DEAD SUDDENLY mnemonic](../figures/pv/s34.jpg)
+
+
 > 🔁 **Recap: Features.** Sudden dyspnea + tachycardia/tachypnea + pleuritic pain ± hemoptysis ± DVT signs, often with clear lungs. Massive PE = syncope, JVD/Kussmaul, obstructive shock.
 > 🔗 **Link:** The presentation is nonspecific (many conditions cause dyspnea and tachycardia), so the diagnosis rests on tests. Each has a defined role.
 > ▶️ **Up next: Diagnostics.** CXR, CTPA, V/Q, ECG.
@@ -138,10 +156,16 @@
   - **Hampton hump**: pleural-based wedge-shaped opacity (infarct)
   - **Westermark sign**: regional oligemia (↓ vascular markings distal to the clot) *[descriptions added]*
 
+![Slide 12: CXR: Hampton hump (left) and Westermark sign (right)](../figures/pv/s12.jpg)
+
+
 **2. CT pulmonary angiography (CTA/CTPA) (Slide 13)**
 - ⭐ **Sensitivity > 90%**, good specificity
 - Finding: ⭐ **intraluminal filling defects** in central, segmental, or lobular pulmonary arteries
 - ⭐ **Cannot be done in significant renal insufficiency** (contrast)
+
+![Slide 13: CTPA: intraluminal filling defects (circled)](../figures/pv/s13.jpg)
+
 
 **3. V/Q scan (Slide 14)**. Used when **CTA is contraindicated**:
 1. History of **anaphylaxis** (to contrast)
@@ -150,10 +174,18 @@
 4. **Hyperthyroidism** (iodinated contrast)
 - Finding: **V/Q mismatch** (ventilation normal, perfusion absent)
 
+![Slide 14: V/Q scan: ventilation normal, perfusion defects (mismatch)](../figures/pv/s14.jpg)
+
+
 **4. ECG (Slides 15–16)**
 - ⭐ **Most common: sinus tachycardia**
 - **Less common: S1Q3T3**: **large S in lead I, Q wave in lead III, inverted T in lead III**
 - Other signs shown: **T-wave inversion V1–V3 (V2–V3)**, **late transition** (RV strain)
+
+![Slide 15: ECG in PE: sinus tachycardia (most common) vs S1Q3T3 (less common)](../figures/pv/s15.jpg)
+
+![Slide 16: S1Q3T3 and T-wave inversion V1–V3 on real ECGs](../figures/pv/s16.jpg)
+
 
 *Mnemonic [added]:* **"CTA if kidneys OK; V/Q if kidneys (or contrast) not OK."**
 
@@ -176,6 +208,9 @@
 | **Malignancy** | **1.0** |
 | **Interpretation** | ⭐ **> 4 = PE likely; ≤ 4 = PE unlikely** |
 
+![Slide 17: Modified Wells criteria for PE](../figures/pv/s17.jpg)
+
+
 *Mnemonic [added]:* **"3-3, 1.5 × 3, 1-1"**: two 3s (DVT signs, PE most likely), three 1.5s (HR, immobile/surgery, prior VTE), two 1s (hemoptysis, cancer).
 
 ⭐⭐ **Diagnostic algorithm (Slide 18):**
@@ -189,6 +224,8 @@ Calculate Wells for all patients
       ├── Inconclusive → lower-extremity duplex ultrasound
       └── Positive → ANTICOAGULATE
 ```
+
+![Slide 18: Wells-based diagnostic algorithm (note: the slide's '↓ Probability' label on >4 is an error)](../figures/pv/s18.jpg)
 
 > 🔁 **Recap: Wells.** 3 + 3 + 1.5 × 3 + 1 + 1. ≤4 → D-dimer (≤500 rules out, >500 → CTA). >4 → straight to CTA. Negative rules out, inconclusive → leg duplex, positive → anticoagulate.
 > 🔗 **Link:** This algorithm assumes a standard patient. Pregnancy breaks two of its tools: Wells isn't validated, and radiation/contrast matter. So there is a separate pathway.
@@ -229,6 +266,9 @@ Calculate Wells for all patients
 | **Low / none** | ⭐ **Thrombolytic therapy → alteplase** |
 | **High** (contraindication to lysis) | ⭐ **Surgical embolectomy** or **percutaneous catheter-directed therapy** |
 
+![Slide 21: Unstable PE pathway and contraindications to anticoagulation](../figures/pv/s21.jpg)
+
+
 ⭐ **Contraindications to all anticoagulation (Table 10.4):**
 | Absolute | Relative |
 |---|---|
@@ -258,6 +298,9 @@ Calculate Wells for all patients
 - ⚠️ **Hepatic impairment → DOACs contraindicated**
 - ⚠️ **Suspected larger emboli → heparin or fondaparinux**
 
+![Slide 22: Three-tier Wells → anticoagulant choice](../figures/pv/s22.jpg)
+
+
 ⭐⭐ **Anticoagulation regimens (Slide 24):**
 | Approach | Regimen |
 |---|---|
@@ -265,7 +308,13 @@ Calculate Wells for all patients
 | **New, option 1** | **LMWH or UFH ≥ 5 days** → then **dabigatran ≥ 3 months** |
 | **New, option 2** | **Rivaroxaban or apixaban ≥ 3 months** (no heparin lead-in needed) |
 
+![Slide 24: Anticoagulation regimens: standard vs new approaches](../figures/pv/s24.jpg)
+
+
 *Key rule:* **minimum treatment duration = 3 months**. Warfarin needs heparin overlap (≥5 days, until INR 2–3). **Dabigatran needs a heparin lead-in**. **Rivaroxaban/apixaban can be started alone.**
+
+![Added diagram: the whole PE pathway on one page](../figures/added/pe_master_algorithm.svg)
+
 
 > 🔁 **Recap: Stable PE.** Low PTP → PERC/D-dimer. Intermediate → D-dimer. High → image. Treat with a DOAC (not with liver disease; heparin/fondaparinux for large clots). Warfarin needs ≥5 d heparin overlap to INR 2–3. Dabigatran needs a heparin lead-in; riva/apixaban are standalone. All for ≥3 months.
 > 🔗 **Link:** PE is the complication. DVT is the source. The lecture now looks at the leg clot itself: how to recognize it, score it, and when anticoagulation isn't possible.
@@ -279,6 +328,9 @@ Calculate Wells for all patients
 - **Palpable cord**
 - **Low-grade fever**
 - **Tender calf muscle** (calf pain on dorsiflexion, the Homans sign, is in Case 1 *[name added]*)
+
+![Slide 25: DVT: swollen, erythematous leg](../figures/pv/s25.jpg)
+
 
 ⭐⭐ **Wells criteria for DVT (Table 10.6):**
 | Finding | Points |
@@ -294,6 +346,9 @@ Calculate Wells for all patients
 | Previously documented DVT | 1 |
 | ⭐ **Alternative diagnosis at least as likely as DVT** | ⭐ **−2** |
 | **Interpretation** | **< 0 low · 1–2 moderate · ≥ 3 high** |
+
+![Slide 26: Wells criteria for DVT](../figures/pv/s26.jpg)
+
 
 **Diagnostics (per slide):**
 - ⭐ **DVT Wells > 1 → duplex ultrasonography**
@@ -322,6 +377,11 @@ Calculate Wells for all patients
 | 5 *[added]* | Unclear/multifactorial | *Not on slide* (e.g., sarcoidosis, hematologic disorders) |
 
 *Mnemonic [added]:* **"PAH – Left – Lung – Clot – Misc" → 1-2-3-4-5.**
+
+![Slide 27: Normal vs narrowed pulmonary artery; enlarged right ventricle](../figures/pv/s27.jpg)
+
+![Added diagram: PH groups converge on the right ventricle](../figures/added/ph_groups.svg)
+
 
 > 🔁 **Recap: PH definition.** mPAP >20 at rest. Group 1 PAH (idiopathic/hereditary/drugs/CTD/Eisenmenger), 2 left heart, 3 lung/hypoxia, 4 chronic thromboembolic.
 > 🔗 **Link:** Different causes, but they all converge on the same end-point: raised pulmonary vascular resistance or flow → a pressure-loaded right ventricle.
@@ -357,6 +417,9 @@ Calculate Wells for all patients
 - ⭐ **RV heave** (sign of RV dilatation)
 - ⭐ **Right-sided HF: JVD, hepatomegaly, ascites, peripheral edema**
 
+![Slide 29: Digital clubbing: normal vs clubbed](../figures/pv/s29.jpg)
+
+
 > 🔁 **Recap: PH features.** Exertional dyspnea, fatigue, chest pain, syncope. Loud P2 + RV heave. Right HF (JVD, hepatomegaly, ascites, edema).
 > 🔗 **Link:** These signs raise suspicion. Confirmation needs a pressure measurement, and the lecture builds from ECG to CXR to echo to the only confirmatory test.
 > ▶️ **Up next: PH diagnostics.**
@@ -371,6 +434,13 @@ Calculate Wells for all patients
 | **Echo** | ⭐ **Dilated pulmonary artery**; **RA/RV dilatation/hypertrophy**; **abnormal interventricular septal motion** (from ↑ RV volume) |
 | ⭐⭐ **Right heart catheterization** | ⭐ **Required for confirmatory diagnosis** (measures mPAP) |
 
+![Slide 30: Right axis deviation: lead I negative, aVF positive](../figures/pv/s30.jpg)
+
+![Slide 31: CXR in PAH: prominent central PAs, peripheral hypovascularity, RV enlargement](../figures/pv/s31.jpg)
+
+![Slide 32: Right heart (pulmonary artery) catheterization](../figures/pv/s32.jpg)
+
+
 > 🔁 **Recap: PH diagnostics.** ECG: RVH/RAD. CXR: big pulmonary arteries. Echo: dilated PA, RA/RV, septal shift (screening). Right heart cath confirms.
 > 🔗 **Link:** Treatment follows the classification: for most groups, treat the underlying disease. Only Group 1 gets PH-specific vasoactive drugs.
 > ▶️ **Up next: PH management.**
@@ -384,7 +454,20 @@ Calculate Wells for all patients
 
 **Cause-directed:**
 - ⭐ If PH is **secondary** (e.g., **recurrent PE, HF**) → **treat and optimize the underlying disease**
-- ⭐ **Vasoactive agents: typically used in PAH (Group 1)** *[examples added, not on slide: endothelin-receptor antagonists (bosentan), PDE-5 inhibitors (sildenafil), prostacyclin analogues (epoprostenol), CCB only if vasoreactivity-test positive]*
+- ⭐ **Vasoactive agents: typically used in PAH (Group 1)**
+
+⭐⭐ **PAH vasoactive drugs (Slide 33 table):**
+| Class | Drugs |
+|---|---|
+| **Calcium channel blockers** | e.g., **amlodipine** |
+| **Endothelin receptor antagonists** | **Ambrisentan, bosentan, macitentan** |
+| **PDE-5 inhibitors** (NO pathway) | **Sildenafil, tadalafil** |
+| **Guanylate cyclase stimulators** (NO pathway) | **Riociguat** |
+| **Prostacyclin analogues** | **Epoprostenol (IV)**, **iloprost (inhaled)**, **treprostinil (SC)** |
+
+*Mnemonic [added]:* **"-sentan" = endothelin antagonist · "-afil" = PDE-5 · "-ciguat" = guanylate cyclase · "-prost" = prostacyclin.** *[added: CCBs help only the minority who respond to vasoreactivity testing.]*
+
+![Slide 33: PH management and PAH drug classes](../figures/pv/s33.jpg)
 
 > 🔁 **Recap: PH management.** O₂ if COPD with PaO₂ <60, diuretics for overload, treat the cause (PE → anticoagulate; HF → optimize). Vasoactive drugs are reserved for Group 1 PAH.
 > 🔗 **Link:** The lecture ends with a summary mnemonic (DEAD SUDDENLY, §2.4) and two cases, one for each half of the lecture: acute post-op PE and chronic recurrent PE leading to right heart failure.

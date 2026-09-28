@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="430" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Who gets a statin? Work down the questions in order</text>
+  <g font-size="13">
+    <g id="q">
+    </g>
+    <rect x="40" y="50" width="520" height="42" rx="7" fill="#dde8f3" stroke="#0b3d6b"/><text x="55" y="76">① Clinical ASCVD (prior MI, stroke, PAD…)?</text>
+    <rect x="40" y="110" width="520" height="42" rx="7" fill="#dde8f3" stroke="#0b3d6b"/><text x="55" y="136">② LDL ≥ 190 mg/dL and age ≥ 21?</text>
+    <rect x="40" y="170" width="520" height="42" rx="7" fill="#dde8f3" stroke="#0b3d6b"/><text x="55" y="196">③ Diabetes, age 40–75, LDL 70–189?</text>
+    <rect x="40" y="230" width="520" height="42" rx="7" fill="#dde8f3" stroke="#0b3d6b"/><text x="55" y="256">④ 10-year ASCVD risk ≥ 20%?</text>
+    <rect x="40" y="290" width="520" height="54" rx="7" fill="#fff7e8" stroke="#d9822b"/><text x="55" y="312">⑤ Risk 7.5–20% AND a risk enhancer?</text>
+    <text x="70" y="332" font-size="11.5" fill="#555">premature FHx · metabolic syndrome · CKD · inflammation · ↑Lp(a)/hs-CRP</text>
+    <g stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#a)">
+      <line x1="560" y1="71" x2="640" y2="71"/><line x1="560" y1="131" x2="640" y2="131"/>
+      <line x1="560" y1="191" x2="640" y2="191"/><line x1="560" y1="251" x2="640" y2="251"/><line x1="560" y1="317" x2="640" y2="317"/>
+    </g>
+    <text x="575" y="64" font-size="11" fill="#2e7d32" font-weight="bold">YES</text>
+    <rect x="645" y="50" width="220" height="294" rx="10" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="755" y="180" text-anchor="middle" font-size="18" font-weight="bold" fill="#2e7d32">STATIN</text>
+    <text x="755" y="205" text-anchor="middle" font-size="12">+ lifestyle</text>
+    <text x="755" y="235" text-anchor="middle" font-size="11.5">Max tolerated dose</text>
+    <text x="755" y="251" text-anchor="middle" font-size="11.5">if clinical ASCVD</text>
+    <text x="755" y="280" text-anchor="middle" font-size="11.5">Not at goal / very high</text>
+    <text x="755" y="296" text-anchor="middle" font-size="11.5">risk → add PCSK9i</text>
+    <g stroke="#b3261e" stroke-width="1.5" marker-end="url(#a)"><line x1="300" y1="92" x2="300" y2="108"/><line x1="300" y1="152" x2="300" y2="168"/><line x1="300" y1="212" x2="300" y2="228"/><line x1="300" y1="272" x2="300" y2="288"/><line x1="300" y1="344" x2="300" y2="366"/></g>
+    <text x="310" y="104" font-size="10.5" fill="#b3261e">no</text>
+    <rect x="40" y="368" width="520" height="40" rx="7" fill="#f2f2f2" stroke="#999"/><text x="55" y="393">None of the above → <tspan font-weight="bold">lifestyle only</tspan>, reassess risk</text>
+  </g>
+</svg>

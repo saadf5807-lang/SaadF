@@ -27,6 +27,9 @@
 - US: an **MI every 34 seconds**; **one death each minute** from a major coronary event
 - ⭐ CVD = **leading cause of mortality globally**. It includes **HTN, CAD, HF, congenital defects, strokes**.
 
+![Slide 7: Leading causes of death, US 2020–2022 (heart disease #1)](../figures/cvd/s07.jpg)
+
+
 ⭐ **Why MI death rates have declined:**
 1. Heightened public awareness
 2. ↑ Availability of **AEDs**
@@ -67,13 +70,35 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 
 *Mnemonic [added]:* **"5 – 7.5 – 20"**, the three cut-offs.
 
+![Slide 29: Risk bands → lifestyle for all, statin above threshold](../figures/cvd/s29.jpg)
+
+
 > 🔁 **Recap: 10-y ASCVD.** Ages 40–75. Low <5, borderline 5–7.4, intermediate 7.5–19.9, high ≥20%.
 > 🔗 **Link:** Whatever the risk category, **lifestyle is the foundation for everyone**. Drugs are added on top based on risk. The lecture therefore starts treatment with lifestyle, beginning with diet.
 > ▶️ **Up next: Diet.** Specific intake targets, the Mediterranean diet, and tailored counseling.
 
 ---
 
-### 2.4 Lifestyle: Diet (Slides 11–15)
+### 2.4 Lifestyle: Life's Simple 7 & Diet (Slides 11–15)
+
+⭐⭐ **Orientation: AHA Life's Simple 7 (Slide 11)**
+| # | Goal | Ideal target (slide) |
+|---|---|---|
+| 1 | **Get active** | **≥ 150 min/week moderate** or **≥ 75 min/week vigorous** activity |
+| 2 | **Eat better** | Healthy diet: **4–5 components** of the healthy diet score* |
+| 3 | **Lose weight** | **BMI < 25** |
+| 4 | **Stop smoking** | **Never smoked or quit > 1 year ago** |
+| 5 | **Control cholesterol** | **Total cholesterol < 200 mg/dL** |
+| 6 | **Manage blood pressure** | **BP < 120/80 mm Hg** |
+| 7 | **Reduce blood sugar** | **Fasting glucose < 100 mg/dL** |
+
+*Healthy diet score components: (1) **≥ 4.5 cups/day** fruit & vegetables; (2) **≥ 2 servings (3.5 oz) of fish/week**; (3) **≥ 3 servings/day whole grains**; (4) **sodium < 1500 mg/day**; (5) **≤ 36 oz/week sugar-sweetened beverages** (Lloyd-Jones, Circulation 2010).
+
+*Mnemonic [added]:* the first 4 are **behaviours** (active, eat, weight, smoking) and the last 3 are **numbers** (cholesterol 200, BP 120/80, glucose 100).
+⚠️ Don't mix up the **ideal** BP in Life's Simple 7 (**< 120/80**) with the **treatment target** (**< 130/80**).
+
+![Slide 11: AHA Life's Simple 7](../figures/cvd/s11.jpg)
+
 ⭐ **Recommended intakes (Slide 12):**
 | Component | Target |
 |---|---|
@@ -85,12 +110,21 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 | **Vegetables** | **200 g/day** (2–3 servings) |
 | **Fish** | **≥ 2×/week, one oily** |
 
+![Slide 13: Mediterranean diet and the PREDIMED trial](../figures/cvd/s13.jpg)
+
+
 - ⭐ **Mediterranean diet**: observational benefit for CV risk reduction. **PREDIMED** (NEJM 2018): primary prevention with a Mediterranean diet supplemented with **extra-virgin olive oil or nuts**.
 - Nutritional counseling: food pyramid (base = daily exercise, portion & weight control, then vegetables/fruit/whole grains/healthy oils; top = limit **red meat, butter, sugary drinks, sweets, salt**).
+
+![Slide 14: Nutritional counseling: healthy pyramid vs junk food](../figures/cvd/s14.jpg)
+
 - ⭐ **Tailored dietary intervention** combines 3 inputs:
   1. **Individual factors**: genetics, sex, age, BMI, physical activity (job/leisure), cultural habits
   2. **CV risk factors & comorbidities**: HTN, DM, dyslipidemia, CKD
   3. **CV disease**: IHD, HF
+
+![Slide 15: Tailored dietary intervention: three inputs](../figures/cvd/s15.jpg)
+
 
 *Mnemonic [added]:* the **"<10, <1, <5"** rule: sat fat <10%, trans fat <1%, salt <5 g.
 
@@ -105,6 +139,9 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 - ⭐ **Stable angina or stable chronic HF**: **moderate-to-vigorous** aerobic training **≥ 3×/week, 30 min/session**
 - **Sedentary** patients: strongly encourage starting **light-intensity** programs
 
+![Slide 16: Physical activity pyramid for adults](../figures/cvd/s16.jpg)
+
+
 ⭐ **Typical exercise session:**
 1. **Warm-up: 5–10 min**
 2. **Aerobic conditioning: up to 30 min or more** (walking, jogging, cycling, stairs)
@@ -114,6 +151,9 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 | Highest insufficiency | Lowest insufficiency |
 |---|---|
 | **Hail 91%**, **Madinah 90%**, **Qasim 88%** | **Tabuk 64%**, **Bahah 65%** |
+
+![Slide 18: Physical activity insufficiency by Saudi region](../figures/cvd/s18.jpg)
+
 
 ⭐ **Take-home:**
 - Lifestyle improvement should **begin early** and underlie **all** preventive efforts
@@ -198,6 +238,9 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 | 4 | **10-y ASCVD risk ≥ 20%** |
 | (+) | **ASCVD 7.5–20% + risk enhancers**: family history of **premature** ASCVD · **metabolic syndrome** · **CKD** · **inflammatory conditions** · **elevated biomarkers** (lipoproteins, **hs-CRP**) |
 
+![Added diagram: Statin decision ladder](../figures/added/statin_decision.svg)
+
+
 *Mnemonic [added]:* **"A-190-DM-20"**: **A**SCVD, LDL **190**, **DM** 40–75, risk **20**%.
 
 ⭐ **Take-home (Slide 30):**
@@ -221,6 +264,9 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 - **Dapagliflozin** (SGLT-2i) is added if **metformin monotherapy** fails to reach **HbA1c < 7%**. In the lecture's case (HbA1c **6.2%** on metformin, no ASCVD/HF/CKD) it is **not needed**.
 - ADA: **lifestyle management + medications**, including nutrition therapy, physical activity, smoking cessation
 
+![Slide 33: Reducing diabetes complications: multifactorial approach](../figures/cvd/s33.jpg)
+
+
 > 🔁 **Recap: DM.** 2–3× CVD risk. The goal of treatment is preventing CV events. SGLT-2i/GLP-1 RA for ASCVD, HF, or CKD regardless of HbA1c. Otherwise add them only if HbA1c is ≥7% on metformin.
 > 🔗 **Link:** The last preventive tool is the most commonly misused: aspirin. Unlike statins, its benefit is small and it carries a bleeding risk, so the rules are restrictive.
 > ▶️ **Up next: Aspirin for primary prevention (USPSTF 2023).**
@@ -232,6 +278,9 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 |---|---|---|
 | **Adults 40–59** with **≥ 10%** 10-y CVD risk | **Individual decision**. Net benefit **small**. More likely to benefit if **not at ↑ bleeding risk** and willing to take it daily. | ⭐ **C** |
 | **Adults ≥ 60** | **Recommend AGAINST** initiating low-dose aspirin for primary prevention | ⭐ **D** |
+
+![Slide 34: USPSTF 2023 aspirin recommendation](../figures/cvd/s34.jpg)
+
 
 *Mnemonic [added]:* **"40-59 & 10 = maybe (C); 60+ = don't (D)."**
 
@@ -245,7 +294,7 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 - CVD is the **leading cause of death worldwide**
 - **Assess every patient's CV risk**
 - ⭐ **Lifestyle = the most important component** of prevention and risk-factor control (**"Life's Simple 7"**)
-  - *[added: AHA Life's Simple 7 = don't smoke, be active, eat healthy, lose weight, manage BP, control cholesterol, reduce blood sugar. AHA updated it to "Life's Essential 8" (adds sleep) in 2022.]*
+  - See §2.4 for the 7 goals and targets (Slide 11). *[added: AHA updated it to "Life's Essential 8" (adds sleep) in 2022.]*
 - **Statins** + lifestyle in higher-risk patients; **PCSK9i** for the **very highest** risk
 - ⭐ **BP target < 130/80** for most
 - ⭐ **Low-dose aspirin only in higher-risk** patients **if benefit > bleeding risk**. **Avoid in low-risk patients and the elderly.**
@@ -340,7 +389,7 @@ Estimates the risk of **MI or stroke over 10 years**. Used for ages ⭐ **40–7
 - PCSK9i = add-on for very-high-risk patients. **Lower is better.**
 - DM = **2–3×** CVD. **SGLT-2i/GLP-1 RA** if ASCVD/HF/CKD, **regardless of HbA1c**.
 - Aspirin (USPSTF 2023): **40–59 & ≥10% → C (individual)**; **≥60 → D (against)**.
-- **Life's Simple 7**.
+- **Life's Simple 7**: active ≥150 min/wk · healthy diet · BMI <25 · no smoking (>1 y) · TC <200 · BP <120/80 · FBG <100.
 
 ---
 

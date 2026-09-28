@@ -30,3 +30,7 @@ Applied identically to every lecture. Reference format: `L1 Anatomy.pdf.pdf` (pl
 - Content not in the lecture (added clinical context, mnemonics) is flagged as *[added]* so it is never confused with slide content.
 - One summary file per lecture; no cross-lecture bridges unless requested.
 - Image-only slides (ECGs, algorithms, tables) must be rendered and read, not skipped.
+- **Visuals (user is a visual learner):** keep the lecturers' images. Crop each useful slide at 150 dpi without the title bar (`tools/extract_figures.py`), place it next to the matching text as `![Slide N: caption](../figures/<tag>/sNN.jpg)`, and put two related images on one line to show them side by side.
+- Add your own SVG diagrams (`figures/added/`) where a picture beats text (timelines, decision pathways, classifications). Caption them "Added diagram".
+- Read text inside images (tables, algorithms, infographics) and put it into the notes; don't only paste the picture.
+- **Final deliverable is always a PDF:** `python3 tools/build_pdf.py` → `pdf/`.

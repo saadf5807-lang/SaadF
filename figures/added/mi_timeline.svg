@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="330" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">MI complications: when each one appears</text>
+  <line x1="40" y1="90" x2="870" y2="90" stroke="#0b3d6b" stroke-width="4"/>
+  <polygon points="870,82 888,90 870,98" fill="#0b3d6b"/>
+  <g font-size="13" font-weight="bold" fill="#fff">
+    <rect x="40" y="70" width="190" height="40" rx="6" fill="#b3261e"/><text x="135" y="95" text-anchor="middle">0–24 hours</text>
+    <rect x="240" y="70" width="180" height="40" rx="6" fill="#d9822b"/><text x="330" y="95" text-anchor="middle">1–3 days</text>
+    <rect x="430" y="70" width="200" height="40" rx="6" fill="#7a1f8f"/><text x="530" y="95" text-anchor="middle">3–14 days</text>
+    <rect x="640" y="70" width="225" height="40" rx="6" fill="#2b6cb0"/><text x="752" y="95" text-anchor="middle">2 weeks → months</text>
+  </g>
+  <g font-size="12.5" fill="#1a1a1a">
+    <text x="135" y="135" text-anchor="middle" font-weight="bold" fill="#b3261e">ELECTRICAL / PUMP</text>
+    <text x="48" y="160">• Sudden cardiac death</text>
+    <text x="48" y="182">• Arrhythmias ★ #1 cause</text>
+    <text x="60" y="199">  of death in first 24 h</text>
+    <text x="48" y="221">• Acute LHF</text>
+    <text x="48" y="243">• Cardiogenic shock</text>
+    <text x="330" y="135" text-anchor="middle" font-weight="bold" fill="#d9822b">INFLAMMATORY</text>
+    <text x="248" y="160">• Acute pericarditis</text>
+    <text x="260" y="180" font-size="11" fill="#555">(pleuritic pain, rub,</text>
+    <text x="260" y="196" font-size="11" fill="#555">diffuse ST↑ / PR↓)</text>
+    <text x="530" y="135" text-anchor="middle" font-weight="bold" fill="#7a1f8f">RUPTURE (wall weakest)</text>
+    <text x="438" y="160">• Papillary muscle → acute MR</text>
+    <text x="438" y="182">• Free wall → tamponade</text>
+    <text x="438" y="204">• Ventricular septum → VSD</text>
+    <text x="438" y="226">• LV pseudoaneurysm</text>
+    <text x="752" y="135" text-anchor="middle" font-weight="bold" fill="#2b6cb0">REMODELLING / IMMUNE</text>
+    <text x="648" y="160">• Atrial &amp; ventricular aneurysm</text>
+    <text x="648" y="182">• Dressler syndrome</text>
+    <text x="648" y="204">• Arrhythmias</text>
+    <text x="648" y="226">• Heart failure</text>
+  </g>
+  <rect x="40" y="272" width="825" height="38" rx="6" fill="#fff7e8" stroke="#d9822b"/>
+  <text x="452" y="296" text-anchor="middle" font-size="13.5" fill="#1a1a1a">Memory hook: <tspan font-weight="bold">Electric → Inflamed → Rupture → Remodel</tspan>  (24 h → 1–3 d → 3–14 d → weeks)</text>
+</svg>

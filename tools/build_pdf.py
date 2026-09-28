@@ -25,7 +25,22 @@ th strong { color: inherit; }
 hr { border: 0; border-top: 1px solid #ccc; margin: 14px 0; }
 ul, ol { margin: 4px 0 6px; padding-left: 20px; }
 li { margin: 1px 0; }
+.figrow { display: flex; gap: 8px; justify-content: center; align-items: flex-end; margin: 8px 0 12px; page-break-inside: avoid; }
+.figrow figure { margin: 0; flex: 1 1 0; text-align: center; }
+.figrow.n1 figure { max-width: 100%; }
+figure img { max-width: 100%; max-height: 105mm; border: 1px solid #c9d3de; border-radius: 3px; }
+figcaption { font-size: 8.3pt; color: #4a5a6a; font-style: italic; margin-top: 2px; }
 """
+
+IMG = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)\)")
+
+def figure_html(line):
+    """A line holding only images becomes a figure row (side by side if several)."""
+    imgs = IMG.findall(line)
+    if not imgs or IMG.sub("", line).strip():
+        return None
+    cells = "".join(f'<figure><img src="{src}"><figcaption>{cap}</figcaption></figure>' for cap, src in imgs)
+    return f'<div class="figrow n{len(imgs)}">{cells}</div>'
 
 LIST = re.compile(r"^\s*([-*+]|\d+\.)\s")
 
@@ -33,6 +48,11 @@ def normalize(text):
     """Python-Markdown needs a blank line before tables/lists; split blockquote lines into paragraphs."""
     out, prev = [], ""
     for line in text.split("\n"):
+        fig = figure_html(line)
+        if fig:
+            out += ["", fig, ""]
+            prev = ""
+            continue
         m = re.match(r"^( +)([-*+]|\d+\.)\s", line)
         if m:  # re-indent nested list items to 4 spaces per level
             line = "    " * ((len(m.group(1)) + 2) // 3) + line.lstrip()

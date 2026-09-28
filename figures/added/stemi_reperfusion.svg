@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="400" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">STEMI reperfusion: the numbers in one picture</text>
+  <g font-size="13">
+    <rect x="330" y="45" width="240" height="50" rx="8" fill="#dde8f3" stroke="#0b3d6b"/>
+    <text x="450" y="67" text-anchor="middle" font-weight="bold">STEMI on ECG</text>
+    <text x="450" y="85" text-anchor="middle" font-size="11.5">FMC → diagnosis &lt; 10 min · give ASA</text>
+    <rect x="300" y="125" width="300" height="50" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="147" text-anchor="middle" font-weight="bold">Symptom onset ≤ 12 h?</text>
+    <text x="450" y="165" text-anchor="middle" font-size="11.5">then: can PCI be done ≤ 120 min from FMC?</text>
+    <line x1="450" y1="95" x2="450" y2="123" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="380" y1="175" x2="190" y2="220" stroke="#2e7d32" stroke-width="2" marker-end="url(#a)"/>
+    <text x="250" y="192" font-weight="bold" fill="#2e7d32">YES</text>
+    <line x1="520" y1="175" x2="710" y2="220" stroke="#b3261e" stroke-width="2" marker-end="url(#a)"/>
+    <text x="620" y="192" font-weight="bold" fill="#b3261e">NO</text>
+    <rect x="40" y="222" width="330" height="120" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="205" y="246" text-anchor="middle" font-weight="bold" fill="#2e7d32">PRIMARY PCI (preferred)</text>
+    <text x="55" y="270">• At PCI centre: FMC → PCI ≤ 90 min</text>
+    <text x="55" y="292">• Transfer from non-PCI site:</text>
+    <text x="70" y="310">FMC → PCI ≤ 120 min (transfer ≤ 60)</text>
+    <text x="55" y="332">• Balloon + stent</text>
+    <rect x="530" y="222" width="330" height="120" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="695" y="246" text-anchor="middle" font-weight="bold" fill="#b3261e">FIBRINOLYSIS</text>
+    <text x="545" y="270">• Door/FMC → needle ≤ 30 min</text>
+    <text x="545" y="292">• Only if no contraindication</text>
+    <text x="545" y="314">• TNK · alteplase · reteplase · SK</text>
+    <text x="545" y="334" font-size="11.5">Failed → immediate PCI; success → PCI ≤ 24 h</text>
+  </g>
+  <text x="450" y="378" text-anchor="middle" font-size="12.5" fill="#555">Remember: <tspan font-weight="bold" fill="#1a1a1a">10 → 30 → 90 → 120</tspan> (diagnose · needle · balloon · transfer limit) · 12 h window</text>
+</svg>

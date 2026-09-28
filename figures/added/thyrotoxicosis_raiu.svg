@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="DejaVu Sans, Arial, sans-serif">
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="400" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Thyrotoxicosis: iodine uptake tells you WHERE the hormone comes from</text>
+  <g font-size="12.5">
+    <rect x="300" y="45" width="300" height="44" rx="8" fill="#dde8f3" stroke="#0b3d6b"/>
+    <text x="450" y="64" text-anchor="middle" font-weight="bold">↓ TSH + ↑ FT4 / T3</text>
+    <text x="450" y="81" text-anchor="middle" font-size="11.5">→ radioactive iodine uptake (RAIU) / scan</text>
+    <line x1="380" y1="89" x2="230" y2="122" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="520" y1="89" x2="670" y2="122" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="30" y="124" width="400" height="44" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="230" y="143" text-anchor="middle" font-weight="bold" fill="#b3261e">↑ UPTAKE = gland is MAKING hormone</text>
+    <text x="230" y="160" text-anchor="middle" font-size="11.5">true hyperthyroidism → antithyroid drugs work</text>
+    <rect x="470" y="124" width="400" height="44" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="670" y="143" text-anchor="middle" font-weight="bold" fill="#2b6cb0">↓ UPTAKE = hormone LEAKING or from OUTSIDE</text>
+    <text x="670" y="160" text-anchor="middle" font-size="11.5">antithyroid drugs are ineffective</text>
+    <rect x="30" y="180" width="130" height="120" rx="8" fill="#fff" stroke="#b3261e"/>
+    <text x="95" y="200" text-anchor="middle" font-weight="bold">Diffuse</text>
+    <text x="95" y="224" text-anchor="middle">Graves</text>
+    <text x="95" y="244" text-anchor="middle" font-size="11">+ TRAb/TSI</text>
+    <text x="95" y="262" text-anchor="middle" font-size="11">ophthalmopathy</text>
+    <rect x="170" y="180" width="130" height="120" rx="8" fill="#fff" stroke="#b3261e"/>
+    <text x="235" y="200" text-anchor="middle" font-weight="bold">Focal / nodular</text>
+    <text x="235" y="224" text-anchor="middle">Toxic adenoma</text>
+    <text x="235" y="244" text-anchor="middle">(1–2 hot areas)</text>
+    <text x="235" y="266" text-anchor="middle">Toxic MNG</text>
+    <text x="235" y="284" text-anchor="middle">(multiple)</text>
+    <rect x="310" y="180" width="120" height="120" rx="8" fill="#fff" stroke="#b3261e"/>
+    <text x="370" y="200" text-anchor="middle" font-weight="bold">Drive ↑</text>
+    <text x="370" y="224" text-anchor="middle" font-size="11.5">TSH-secreting</text>
+    <text x="370" y="240" text-anchor="middle" font-size="11.5">pituitary tumor</text>
+    <text x="370" y="262" text-anchor="middle" font-size="11.5">hCG: mole,</text>
+    <text x="370" y="278" text-anchor="middle" font-size="11.5">choriocarcinoma</text>
+    <rect x="470" y="180" width="130" height="120" rx="8" fill="#fff" stroke="#2b6cb0"/>
+    <text x="535" y="200" text-anchor="middle" font-weight="bold">Leak</text>
+    <text x="535" y="222" text-anchor="middle" font-size="11.5">Subacute (painful,</text>
+    <text x="535" y="238" text-anchor="middle" font-size="11.5">↑ESR)</text>
+    <text x="535" y="258" text-anchor="middle" font-size="11.5">Hashitoxicosis</text>
+    <text x="535" y="278" text-anchor="middle" font-size="11.5">Postpartum/silent</text>
+    <rect x="610" y="180" width="130" height="120" rx="8" fill="#fff" stroke="#2b6cb0"/>
+    <text x="675" y="200" text-anchor="middle" font-weight="bold">Outside</text>
+    <text x="675" y="222" text-anchor="middle" font-size="11.5">Factitious T4</text>
+    <text x="675" y="240" text-anchor="middle" font-size="11.5">(↓ thyroglobulin)</text>
+    <text x="675" y="262" text-anchor="middle" font-size="11.5">Struma ovarii</text>
+    <text x="675" y="278" text-anchor="middle" font-size="11.5">(pelvic uptake)</text>
+    <rect x="750" y="180" width="120" height="120" rx="8" fill="#fff" stroke="#2b6cb0"/>
+    <text x="810" y="200" text-anchor="middle" font-weight="bold">Iodine</text>
+    <text x="810" y="222" text-anchor="middle" font-size="11.5">Jod-Basedow</text>
+    <text x="810" y="240" text-anchor="middle" font-size="11.5">IV contrast</text>
+    <text x="810" y="258" text-anchor="middle" font-size="11.5">amiodarone</text>
+    <text x="810" y="278" text-anchor="middle" font-size="11.5">(↓ uptake)</text>
+    <rect x="30" y="318" width="840" height="60" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="340" text-anchor="middle">Lecture exceptions to "↑ RAIU": <tspan font-weight="bold">thyrotoxicosis factitia · thyroiditis (subacute &amp; chronic) · ectopic thyroid tissue</tspan></text>
+    <text x="450" y="362" text-anchor="middle" font-size="11.5">Exam hook: <tspan font-weight="bold">low uptake + low thyroglobulin = exogenous hormone</tspan>; low uptake + high thyroglobulin = thyroiditis</text>
+  </g>
+</svg>

@@ -25,6 +25,13 @@ LECTURES = {
         17: None, 18: None, 21: (0, .35, 1, 1), 22: None, 24: None, 25: (.53, .23, 1, 1),
         26: (.5, .23, 1, 1), 27: (.63, .23, 1, 1), 29: (.64, .3, 1, 1), 30: (0, .4, 1, 1),
         31: (.38, .23, 1, 1), 32: (.6, .23, 1, 1), 33: (.53, .23, 1, 1), 34: None}),
+    "t1": ("lectures/Thyroid1_Goiter_TFT_Hyperthyroidism.pdf", 0.11, {
+        5: (0, .11, 1, .72), 6: None, 7: (0, .11, 1, .8), 9: (.64, .11, 1, 1), 11: None,
+        14: (.5, .11, 1, 1), 15: (.45, .38, 1, 1), 17: None, 18: (0, .5, 1, 1), 20: (.64, .3, 1, 1),
+        27: (0, .53, 1, 1), 28: (.6, .36, 1, 1), 30: None, 31: None, 39: (0, .44, 1, 1)}),
+    "t2": ("lectures/Thyroid2_Hypothyroidism_Thyroiditis_Cancer_Nodule.pdf", 0.11, {
+        12: None, 14: None, 19: None, 20: None, 28: None, 30: None, 31: None,
+        34: None, 35: None, 37: None, 38: None, 39: None, 40: (0, .02, 1, 1)}),
 }
 
 for tag, (src, head, pages) in LECTURES.items():

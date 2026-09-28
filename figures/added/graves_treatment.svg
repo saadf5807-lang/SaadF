@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="380" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Graves' disease: three definitive options (+ β-blocker for everyone)</text>
+  <g font-size="12">
+    <rect x="30" y="45" width="840" height="34" rx="7" fill="#f2f2f2" stroke="#999"/>
+    <text x="450" y="67" text-anchor="middle"><tspan font-weight="bold">Propranolol</tspan> 20–40 mg q6h (target HR ~80): symptom control + ↓ T4→T3; it does NOT cure</text>
+    <rect x="30" y="92" width="270" height="270" rx="9" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="165" y="114" text-anchor="middle" font-weight="bold" font-size="14" fill="#2e7d32">① Thionamides</text>
+    <text x="42" y="138" font-weight="bold">Choose if:</text>
+    <text x="42" y="156">• Pregnancy (PTU)</text><text x="42" y="174">• Age &lt; 25 · heart failure</text><text x="42" y="192">• Pre-op preparation</text>
+    <text x="42" y="216" font-weight="bold" fill="#b3261e">Avoid if:</text>
+    <text x="42" y="234">• Huge / retrosternal goiter</text><text x="42" y="252">• Suspected malignancy</text>
+    <text x="42" y="276" font-weight="bold">Key facts:</text>
+    <text x="42" y="294">• 1–2 years → ~50% remission</text><text x="42" y="312">• Relapse mostly in 1st year</text>
+    <text x="42" y="330" fill="#b3261e">• Sore throat → CBC</text><text x="54" y="346" fill="#b3261e">(agranulocytosis)</text>
+    <rect x="315" y="92" width="270" height="270" rx="9" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="114" text-anchor="middle" font-weight="bold" font-size="14" fill="#d9822b">② Radioiodine (I-131)</text>
+    <text x="327" y="138" font-weight="bold">Choose if:</text>
+    <text x="327" y="156">• Relapse after surgery</text><text x="327" y="174">• Failed drugs, unfit for surgery</text><text x="327" y="192">• Refuses surgery</text>
+    <text x="327" y="216" font-weight="bold" fill="#b3261e">Avoid if:</text>
+    <text x="327" y="234">• Pregnancy, lactation, children</text><text x="327" y="252">• Huge / retrosternal goiter</text>
+    <text x="327" y="276" font-weight="bold">Key facts:</text>
+    <text x="327" y="294">• Stop ATD 3–5 d before,</text><text x="339" y="310">restart 14 d after</text>
+    <text x="327" y="330">• Hypothyroid &lt;1 mo = transient;</text><text x="339" y="346">&gt;1 y = permanent</text>
+    <rect x="600" y="92" width="270" height="270" rx="9" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="735" y="114" text-anchor="middle" font-weight="bold" font-size="14" fill="#2b6cb0">③ Thyroidectomy</text>
+    <text x="612" y="138" font-weight="bold">Choose if:</text>
+    <text x="612" y="156">• Allergy to ATDs · refuses I-131</text><text x="612" y="174">• Big / retrosternal goiter</text><text x="612" y="192">• Toxic MNG · suspected cancer</text>
+    <text x="612" y="216" font-weight="bold">Prepare:</text>
+    <text x="612" y="234">• ATD for months → euthyroid</text><text x="612" y="252">• KI 7–10 d pre-op (↓ vascularity)</text>
+    <text x="612" y="276" font-weight="bold" fill="#b3261e">Complications:</text>
+    <text x="612" y="294">• Hypothyroidism</text><text x="612" y="312">• Hypoparathyroidism (↓Ca)</text>
+    <text x="612" y="330">• Recurrent laryngeal nerve</text><text x="612" y="346">• Recurrent hyperthyroidism</text>
+  </g>
+</svg>

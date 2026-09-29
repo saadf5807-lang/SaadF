@@ -32,6 +32,10 @@ LECTURES = {
     "t2": ("lectures/Thyroid2_Hypothyroidism_Thyroiditis_Cancer_Nodule.pdf", 0.11, {
         12: None, 14: None, 19: None, 20: None, 28: None, 30: None, 31: None,
         34: None, 35: None, 37: None, 38: None, 39: None, 40: (0, .02, 1, 1)}),
+    "ph": ("lectures/Intro_Physiology.pdf", 0.11, {
+        5: (.62, .11, 1, 1), 6: (.2, .45, 1, 1), 8: (.5, .11, 1, 1), 9: (.47, .28, 1, 1),
+        10: None, 11: (.495, .11, 1, 1), 12: None, 15: (.56, .11, 1, .78), 16: (.52, .11, 1, .78),
+        17: (.51, .22, 1, 1), 18: (.54, .11, 1, .85)}),
 }
 
 for tag, (src, head, pages) in LECTURES.items():

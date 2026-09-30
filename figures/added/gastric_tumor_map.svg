@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="470" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Gastric tumours at a glance</text>
+  <g font-size="11.8">
+    <rect x="15" y="45" width="210" height="330" rx="10" fill="#fdecea" stroke="#b3261e"/>
+    <text x="120" y="67" text-anchor="middle" font-weight="bold" font-size="13.5" fill="#b3261e">Adenoca: INTESTINAL</text>
+    <text x="25" y="92">Origin: precursors (dysplasia,</text><text x="37" y="108">adenoma), H. pylori</text>
+    <text x="25" y="130">Site: antrum, lesser curve</text>
+    <text x="25" y="152">Gross: bulky, exophytic or</text><text x="37" y="168">ulcerated (heaped borders)</text>
+    <text x="25" y="190">Micro: GLANDS, apical mucin,</text><text x="37" y="206">mucin lakes, desmoplasia</text>
+    <text x="25" y="228">Genes: CIN (APC, SMAD4/2,</text><text x="37" y="244">TP53), MSI (MLH1), EBV</text>
+    <text x="25" y="266">Who: high-risk areas,</text><text x="37" y="282">mean 55 y, M:F 2:1</text>
+    <rect x="235" y="45" width="210" height="330" rx="10" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="340" y="67" text-anchor="middle" font-weight="bold" font-size="13.5" fill="#d9822b">Adenoca: DIFFUSE</text>
+    <text x="245" y="92">Origin: NO known precursor</text>
+    <text x="245" y="114">Incidence uniform worldwide</text>
+    <text x="245" y="136">Gross: no mass; stiff, thick</text><text x="257" y="152">wall, flat rugae →</text><text x="257" y="168" font-weight="bold">linitis plastica</text>
+    <text x="245" y="190">Micro: SIGNET-RING cells,</text><text x="257" y="206">discohesive, NO glands</text>
+    <text x="245" y="228" font-weight="bold">Gene: CDH1 (E-cadherin) loss</text>
+    <text x="257" y="244">hereditary: α-catenin</text>
+    <text x="245" y="266">Genomically stable,</text><text x="257" y="282">fewer mutations</text>
+    <rect x="455" y="45" width="210" height="330" rx="10" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="560" y="67" text-anchor="middle" font-weight="bold" font-size="13.5" fill="#2b6cb0">GIST</text>
+    <text x="465" y="92">Most common mesenchymal</text><text x="477" y="108">tumour of abdomen</text>
+    <text x="465" y="130">50% in stomach · peak 60 y</text>
+    <text x="465" y="152">From interstitial cells of</text><text x="477" y="168" font-weight="bold">Cajal (pacemaker)</text>
+    <text x="465" y="190" font-weight="bold">KIT (75%) / PDGFRA (8%)</text>
+    <text x="477" y="206">→ responds to imatinib</text>
+    <text x="465" y="228">Gross: solitary, whorled,</text><text x="477" y="244">up to 30 cm</text>
+    <text x="465" y="266">Micro: spindle / epithelioid</text>
+    <text x="465" y="288" font-weight="bold">IHC: CD117 (KIT)</text>
+    <text x="465" y="310">↑ with NF1</text>
+    <rect x="675" y="45" width="210" height="330" rx="10" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="780" y="67" text-anchor="middle" font-weight="bold" font-size="13.5" fill="#2e7d32">NET (carcinoid)</text>
+    <text x="685" y="92">Well-differentiated NET;</text><text x="697" y="108">high grade = NE carcinoma</text>
+    <text x="685" y="130">&gt;40% in small intestine</text>
+    <text x="685" y="152">Stomach: with atrophic</text><text x="697" y="168">gastritis, MEN1, ZES</text>
+    <text x="685" y="190">Gross: yellow-tan, firm</text><text x="697" y="206">submucosal nodule</text>
+    <text x="685" y="228" font-weight="bold">"Salt &amp; pepper" chromatin</text>
+    <text x="685" y="250" font-weight="bold">Synaptophysin + chromogranin</text>
+    <text x="685" y="272">Foregut rarely spreads ·</text><text x="697" y="288">midgut aggressive ·</text><text x="697" y="304">hindgut almost benign</text>
+    <rect x="15" y="388" width="870" height="68" rx="8" fill="#f2f2f2" stroke="#999"/>
+    <text x="450" y="410" text-anchor="middle" font-weight="bold">Adenocarcinoma metastases (often present at diagnosis)</text>
+    <text x="450" y="430" text-anchor="middle">Virchow node (left supraclavicular) · Sister Mary Joseph nodule (umbilicus) · Krukenberg (ovaries)</text>
+    <text x="450" y="448" text-anchor="middle">left axillary node (Irish node [name added]) · pouch of Douglas (Blumer shelf [name added])</text>
+  </g>
+</svg>

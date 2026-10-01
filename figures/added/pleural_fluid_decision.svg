@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="440" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Pleural effusion: tap it, apply Light's criteria, then read the fluid</text>
+  <g font-size="12">
+    <rect x="300" y="44" width="300" height="40" rx="8" fill="#0b3d6b"/>
+    <text x="450" y="62" text-anchor="middle" fill="#fff" font-weight="bold">New effusion → thoracentesis</text>
+    <text x="450" y="77" text-anchor="middle" fill="#dde8f3" font-size="11">(CXR blunting · US · CT)</text>
+    <line x1="400" y1="84" x2="230" y2="108" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="500" y1="84" x2="670" y2="108" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="30" y="110" width="400" height="135" rx="9" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="230" y="132" text-anchor="middle" font-weight="bold" fill="#2b6cb0" font-size="14">TRANSUDATE: ALL of</text>
+    <text x="45" y="156">Protein F/S ≤ 0.5 · LDH F/S ≤ 0.6 · LDH ≤ ⅔ ULN</text>
+    <text x="45" y="180">Mechanism: ↑ hydrostatic or ↓ oncotic pressure</text>
+    <text x="45" y="202" font-weight="bold">CHF, cirrhosis, nephrotic, hypoalbuminaemia,</text>
+    <text x="45" y="220" font-weight="bold">peritoneal dialysis, atelectasis, PE</text>
+    <text x="45" y="238" fill="#2e7d32">→ diuretics + salt restriction; tap only if massive</text>
+    <rect x="470" y="110" width="400" height="135" rx="9" fill="#fdecea" stroke="#b3261e"/>
+    <text x="670" y="132" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="14">EXUDATE: ANY ONE of</text>
+    <text x="485" y="156">Protein F/S &gt; 0.5 · LDH F/S &gt; 0.6 · LDH &gt; ⅔ ULN</text>
+    <text x="485" y="180">Mechanism: inflammation, ↑ capillary permeability</text>
+    <text x="485" y="202" font-weight="bold">Pneumonia, TB, malignancy, viral, PE,</text>
+    <text x="485" y="220" font-weight="bold">collagen vascular disease</text>
+    <text x="485" y="238" fill="#2e7d32">→ treat the underlying disease</text>
+    <text x="450" y="268" text-anchor="middle" font-weight="bold" font-size="13">Then read the fluid clues</text>
+    <rect x="30" y="278" width="270" height="146" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="42" y="300" font-weight="bold">pH &lt; 7.2 (parapneumonic)</text><text x="54" y="316">→ complicated → DRAIN</text>
+    <text x="42" y="340" font-weight="bold">Pus / bacteria = empyema</text><text x="54" y="356">→ chest tube ± fibrinolytics</text>
+    <text x="42" y="380" font-weight="bold">Glucose &lt; 60</text><text x="54" y="396">complicated or malignant;</text><text x="54" y="412">&lt; 30 → think RA</text>
+    <rect x="315" y="278" width="270" height="146" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="327" y="300" font-weight="bold">Haematocrit &gt; 50% of blood</text><text x="339" y="316">→ haemothorax</text>
+    <text x="327" y="340" font-weight="bold">Triglycerides &gt; 110, milky</text><text x="339" y="356">→ chylothorax (duct injury,</text><text x="339" y="372">lymphoma, cancer, trauma)</text>
+    <text x="327" y="396" font-weight="bold">Amylase ↑</text><text x="339" y="412">pancreatitis, oesophageal tear</text>
+    <rect x="600" y="278" width="270" height="146" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="612" y="300" font-weight="bold">Lymphocytes &gt; 50%</text><text x="624" y="316">→ TB or malignancy</text>
+    <text x="612" y="340" font-weight="bold">Eosinophils &gt; 10%</text><text x="624" y="356">air/blood (mostly</text><text x="624" y="372">pneumothorax), drugs, asbestos</text>
+    <text x="612" y="396" font-weight="bold">Malignant cells</text><text x="624" y="412">mesothelioma / metastases</text>
+  </g>
+</svg>

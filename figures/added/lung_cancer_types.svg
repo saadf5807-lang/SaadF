@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="400" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Lung cancer types: where it sits, what it secretes, how it behaves</text>
+  <g font-size="12">
+    <rect x="15" y="44" width="210" height="40" rx="8" fill="#2e7d32"/><text x="120" y="62" text-anchor="middle" fill="#fff" font-weight="bold">ADENOCARCINOMA</text><text x="120" y="77" text-anchor="middle" fill="#e8f5e9" font-size="11">NSCLC · alveolar type II cells</text>
+    <rect x="235" y="44" width="210" height="40" rx="8" fill="#d9822b"/><text x="340" y="62" text-anchor="middle" fill="#fff" font-weight="bold">SQUAMOUS CELL</text><text x="340" y="77" text-anchor="middle" fill="#fff7e8" font-size="11">NSCLC · basal epithelial cells</text>
+    <rect x="455" y="44" width="210" height="40" rx="8" fill="#6a1b9a"/><text x="560" y="62" text-anchor="middle" fill="#fff" font-weight="bold">LARGE CELL</text><text x="560" y="77" text-anchor="middle" fill="#ede7f6" font-size="11">NSCLC · various epithelial</text>
+    <rect x="675" y="44" width="210" height="40" rx="8" fill="#b3261e"/><text x="780" y="62" text-anchor="middle" fill="#fff" font-weight="bold">SMALL CELL (SCLC)</text><text x="780" y="77" text-anchor="middle" fill="#fdecea" font-size="11">~15% · neuroendocrine</text>
+    <g fill="#1a1a1a">
+      <rect x="15" y="90" width="210" height="250" rx="8" fill="#e8f5e9"/>
+      <text x="25" y="112" font-weight="bold">PERIPHERAL</text>
+      <text x="25" y="134">Most common type</text><text x="25" y="154">Women, NON-smokers</text><text x="25" y="174">Arises in scars</text><text x="25" y="194">Best prognosis</text>
+      <text x="25" y="222" font-weight="bold">Paraneoplastic:</text><text x="25" y="240">Hypertrophic osteo-</text><text x="25" y="256">arthropathy (clubbing)</text><text x="25" y="276">Non-bacterial verrucous</text><text x="25" y="292">endocarditis</text>
+      <rect x="235" y="90" width="210" height="250" rx="8" fill="#fff7e8"/>
+      <text x="245" y="112" font-weight="bold">CENTRAL</text>
+      <text x="245" y="134">Strong smoking link</text><text x="245" y="154">CAVITATES</text><text x="245" y="174">(from a hilar bronchus)</text>
+      <text x="245" y="222" font-weight="bold">Paraneoplastic:</text><text x="245" y="240">PTHrP → HYPERCALCAEMIA</text><text x="245" y="256">(poor prognosis)</text>
+      <rect x="455" y="90" width="210" height="250" rx="8" fill="#ede7f6"/>
+      <text x="465" y="112" font-weight="bold">PERIPHERAL</text>
+      <text x="465" y="134">Strong smoking link</text><text x="465" y="154">Early metastases</text><text x="465" y="174">Poor chemo response</text><text x="465" y="194">Poor prognosis</text>
+      <text x="465" y="222" font-weight="bold">Paraneoplastic:</text><text x="465" y="240">GYNAECOMASTIA (hCG)</text>
+      <rect x="675" y="90" width="210" height="250" rx="8" fill="#fdecea"/>
+      <text x="685" y="112" font-weight="bold">CENTRAL</text>
+      <text x="685" y="134">Strong smoking link</text><text x="685" y="154">Very aggressive,</text><text x="685" y="170">early metastases</text><text x="685" y="190">Staged LIMITED vs</text><text x="685" y="206">EXTENSIVE (not TNM)</text>
+      <text x="685" y="232" font-weight="bold">Paraneoplastic:</text><text x="685" y="250">ACTH → Cushing</text><text x="685" y="268">SIADH → low Na⁺</text><text x="685" y="286">Lambert–Eaton</text><text x="685" y="304">SVC syndrome (more often)</text>
+    </g>
+    <rect x="15" y="350" width="870" height="40" rx="8" fill="#f2f2f2" stroke="#999"/>
+    <text x="450" y="367" text-anchor="middle">Mnemonic: <tspan font-weight="bold">S</tspan>quamous &amp; <tspan font-weight="bold">S</tspan>mall = <tspan font-weight="bold">S</tspan>entral (central) · All cancers: anaemia, DIC, thrombocytosis, dermatomyositis</text>
+    <text x="450" y="383" text-anchor="middle" font-size="11">Pancoast tumour (apical, usually NSCLC) → Horner (ptosis, miosis, anhidrosis), C8–T2 arm pain, hoarseness</text>
+  </g>
+</svg>

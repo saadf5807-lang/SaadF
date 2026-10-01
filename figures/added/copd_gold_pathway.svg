@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="470" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">COPD in one page: confirm → grade → group → treat</text>
+  <g font-size="12.5">
+    <rect x="20" y="45" width="270" height="140" rx="9" fill="#dde8f3" stroke="#0b3d6b"/>
+    <text x="155" y="67" text-anchor="middle" font-weight="bold">① CONFIRM (spirometry)</text>
+    <text x="32" y="92">Post-bronchodilator</text><text x="32" y="110" font-weight="bold">FEV1/FVC &lt; 70% = obstruction</text>
+    <text x="32" y="134">↑ TLC, ↑ FRC, ↑ RV (air trapping)</text>
+    <text x="32" y="156">Emphysema: ↓ DLCO</text>
+    <text x="32" y="176" font-size="11">Screen AAT (esp. young)</text>
+    <rect x="315" y="45" width="270" height="140" rx="9" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="67" text-anchor="middle" font-weight="bold">② GRADE severity (FEV1 %)</text>
+    <text x="330" y="94">GOLD 1 mild ............ ≥ 80%</text>
+    <text x="330" y="116">GOLD 2 moderate ...... 50–79%</text>
+    <text x="330" y="138">GOLD 3 severe .......... 30–49%</text>
+    <text x="330" y="160">GOLD 4 very severe ... &lt; 30%</text>
+    <rect x="610" y="45" width="270" height="140" rx="9" fill="#ede7f6" stroke="#6a1b9a"/>
+    <text x="745" y="67" text-anchor="middle" font-weight="bold">③ GROUP (risk + symptoms)</text>
+    <text x="622" y="92" font-weight="bold">E: ≥ 2 exacerbations or</text><text x="634" y="108" font-weight="bold">≥ 1 hospitalisation / yr</text>
+    <text x="622" y="134">Otherwise, by symptoms:</text>
+    <text x="622" y="154">A: mMRC 0–1 and CAT &lt; 10</text>
+    <text x="622" y="174">B: mMRC ≥ 2 or CAT ≥ 10</text>
+    <line x1="745" y1="185" x2="745" y2="210" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <text x="450" y="226" text-anchor="middle" font-weight="bold" font-size="14">④ TREAT by group</text><text x="450" y="240" text-anchor="middle" font-size="11">All: stop smoking · flu/pneumococcal/COVID vaccines · rehab · inhaler technique · SABA as needed</text>
+    <rect x="20" y="250" width="205" height="110" rx="9" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="122" y="268" text-anchor="middle" font-weight="bold" fill="#2e7d32">Group A</text>
+    <text x="122" y="292" text-anchor="middle">LAMA + SABA prn</text><text x="122" y="310" text-anchor="middle">(preferred)</text><text x="122" y="332" text-anchor="middle" font-size="11">or LABA / SAMA-SABA</text>
+    <rect x="235" y="250" width="205" height="110" rx="9" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="337" y="268" text-anchor="middle" font-weight="bold" fill="#2e7d32">Group B</text>
+    <text x="337" y="292" text-anchor="middle">LAMA + LABA</text><text x="337" y="310" text-anchor="middle">+ SABA prn</text>
+    <rect x="450" y="250" width="205" height="110" rx="9" fill="#fdecea" stroke="#b3261e"/>
+    <text x="552" y="268" text-anchor="middle" font-weight="bold" fill="#b3261e">Group E</text>
+    <text x="552" y="292" text-anchor="middle">LAMA + LABA</text><text x="552" y="310" text-anchor="middle">+ SABA prn</text>
+    <rect x="665" y="250" width="215" height="110" rx="9" fill="#fdecea" stroke="#b3261e"/>
+    <text x="772" y="268" text-anchor="middle" font-weight="bold" fill="#b3261e">Group E + eos ≥ 300</text><text x="772" y="284" text-anchor="middle" font-weight="bold" fill="#b3261e">or hospitalisation</text>
+    <text x="772" y="308" text-anchor="middle">ICS + LAMA + LABA</text><text x="772" y="326" text-anchor="middle">+ SABA prn</text>
+    <rect x="20" y="370" width="860" height="86" rx="9" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="392" text-anchor="middle" font-weight="bold" font-size="12">AECOPD: O₂ to SpO₂ 88–92% · nebulised SABA ± SAMA · systemic steroids · antibiotics if purulent/ventilated</text>
+    <text x="450" y="414" text-anchor="middle">NIPPV if PaCO₂ ≥ 45 + pH ≤ 7.35, severe dyspnoea/fatigue, or persistent hypoxaemia</text>
+    <text x="450" y="436" text-anchor="middle">Intubate if NIPPV contraindicated or failing, confusion, impending arrest, haemodynamic instability</text>
+  </g>
+</svg>

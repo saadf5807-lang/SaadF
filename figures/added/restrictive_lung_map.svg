@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="430" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Restrictive lung disease: spot the pattern, then the disease</text>
+  <g font-size="12">
+    <rect x="15" y="44" width="870" height="56" rx="8" fill="#dde8f3" stroke="#0b3d6b"/>
+    <text x="450" y="64" text-anchor="middle" font-weight="bold">PFT: FEV1/FVC normal or ↑ · ALL volumes ↓ (TLC, FVC, FRC, RV) · DLCO ↓ if parenchymal (normal if extrinsic [added])</text>
+    <text x="450" y="86" text-anchor="middle">Intrinsic = stiff lung (fibrosis, granulomas, alveolar filling) · Extrinsic = pleura, chest-wall deformity, obesity/ascites/pregnancy, weak muscles</text>
+    <g>
+      <rect x="15" y="110" width="210" height="150" rx="8" fill="#fdecea" stroke="#b3261e"/>
+      <text x="120" y="130" text-anchor="middle" font-weight="bold" fill="#b3261e">IPF</text>
+      <text x="25" y="152">&gt; 50 y, slow, no fever</text><text x="25" y="172">Velcro crackles, clubbing</text>
+      <text x="25" y="192">HRCT: basal subpleural</text><text x="25" y="208">HONEYCOMBING (UIP)</text>
+      <text x="25" y="230" font-weight="bold">Pirfenidone / nintedanib</text><text x="25" y="248">transplant · NO steroids</text>
+      <rect x="235" y="110" width="210" height="150" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+      <text x="340" y="130" text-anchor="middle" font-weight="bold" fill="#2e7d32">COP</text>
+      <text x="245" y="152">Days–weeks, flu-like,</text><text x="245" y="168">mimics CAP</text>
+      <text x="245" y="190">Bilateral PATCHY opacities,</text><text x="245" y="206">normal lung volumes</text>
+      <text x="245" y="230" font-weight="bold">Steroid-responsive</text><text x="245" y="248">50% idiopathic</text>
+      <rect x="455" y="110" width="210" height="150" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+      <text x="560" y="130" text-anchor="middle" font-weight="bold" fill="#d9822b">SARCOIDOSIS</text>
+      <text x="465" y="152">Young (&lt; 40), African-</text><text x="465" y="168">American women</text>
+      <text x="465" y="190">NONCASEATING granulomas</text><text x="465" y="206">Bilateral hilar nodes, ↑Ca²⁺</text><text x="465" y="222">↑ ACE, erythema nodosum</text>
+      <text x="465" y="246" font-weight="bold">Steroids ± DMARD</text>
+      <rect x="675" y="110" width="210" height="150" rx="8" fill="#ede7f6" stroke="#6a1b9a"/>
+      <text x="780" y="130" text-anchor="middle" font-weight="bold" fill="#6a1b9a">HYPERSENSITIVITY</text>
+      <text x="780" y="146" text-anchor="middle" font-weight="bold" fill="#6a1b9a">PNEUMONITIS</text>
+      <text x="685" y="168">Organic antigen (birds,</text><text x="685" y="184">mouldy hay, hot tubs)</text>
+      <text x="685" y="206">Acute: fever 4–8 h after</text><text x="685" y="222">exposure; ground glass</text>
+      <text x="685" y="246" font-weight="bold">Avoid agent ± steroids</text>
+    </g>
+    <text x="450" y="284" text-anchor="middle" font-weight="bold" font-size="13">Pneumoconioses (inorganic dust → macrophages → fibrosis)</text>
+    <rect x="15" y="294" width="280" height="122" rx="8" fill="#f2f2f2" stroke="#999"/>
+    <text x="155" y="314" text-anchor="middle" font-weight="bold">ASBESTOSIS</text>
+    <text x="25" y="336">LOWER lobes · &gt; 15–20 y latency</text><text x="25" y="356">Pleural plaques (calcified)</text>
+    <text x="25" y="376">↑ bronchogenic cancer (smoking</text><text x="37" y="392">synergistic) + mesothelioma</text><text x="25" y="410">No specific treatment</text>
+    <rect x="310" y="294" width="280" height="122" rx="8" fill="#f2f2f2" stroke="#999"/>
+    <text x="450" y="314" text-anchor="middle" font-weight="bold">SILICOSIS</text>
+    <text x="320" y="336">UPPER lobes · nodular</text><text x="320" y="356">"Eggshell" calcified hilar nodes</text>
+    <text x="320" y="376">↑ TB (impaired phagolysosome)</text><text x="332" y="392">→ annual TST</text><text x="320" y="410">Mining, sandblasting, glass</text>
+    <rect x="605" y="294" width="280" height="122" rx="8" fill="#f2f2f2" stroke="#999"/>
+    <text x="745" y="314" text-anchor="middle" font-weight="bold">BYSSINOSIS / BERYLLIOSIS</text>
+    <text x="615" y="336">Byssinosis: raw cotton dust</text><text x="627" y="352">(textile workers)</text>
+    <text x="615" y="376">Berylliosis: sarcoid-like</text><text x="627" y="392">granulomas; steroids +</text><text x="627" y="408">avoid beryllium</text>
+  </g>
+</svg>

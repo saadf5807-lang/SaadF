@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="470" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Suppurative lung disease: three diseases side by side</text>
+  <g font-size="12">
+    <rect x="15" y="44" width="125" height="34" fill="#0b3d6b"/>
+    <rect x="145" y="44" width="245" height="34" fill="#b3261e"/><text x="267" y="66" text-anchor="middle" fill="#fff" font-weight="bold">LUNG ABSCESS</text>
+    <rect x="395" y="44" width="245" height="34" fill="#d9822b"/><text x="517" y="66" text-anchor="middle" fill="#fff" font-weight="bold">BRONCHIECTASIS</text>
+    <rect x="645" y="44" width="240" height="34" fill="#2b6cb0"/><text x="765" y="66" text-anchor="middle" fill="#fff" font-weight="bold">CYSTIC FIBROSIS</text>
+    <rect x="15" y="82" width="870" height="42" fill="#f7f9fc"/>
+    <text x="22" y="100" font-weight="bold">What it is</text>
+    <text x="152" y="98">Localised pus + necrosis in</text><text x="152" y="114">lung parenchyma</text>
+    <text x="402" y="98">Permanent dilatation and</text><text x="402" y="114">destruction of bronchial walls</text>
+    <text x="652" y="98">AR CFTR defect → thick</text><text x="652" y="114">secretions in all exocrine glands</text>
+    <text x="22" y="146" font-weight="bold">Key cause</text>
+    <text x="152" y="144">Aspiration (oral anaerobes)</text><text x="152" y="160">septic emboli, IVDU (S. aureus)</text>
+    <text x="402" y="144">Infection/inflammation +</text><text x="402" y="160">poor clearance (40–50% idiopathic)</text>
+    <text x="652" y="144">ΔF508 (Phe508 deletion)</text><text x="652" y="160">misfolded Cl⁻ channel</text>
+    <rect x="15" y="170" width="870" height="42" fill="#f7f9fc"/>
+    <text x="22" y="188" font-weight="bold">Sputum</text>
+    <text x="152" y="186">FOUL-smelling purulent</text><text x="152" y="202">(↑ lying on healthy side)</text>
+    <text x="402" y="186">LARGE volume mucopurulent</text><text x="402" y="202">daily</text>
+    <text x="652" y="186">Chronic productive cough</text><text x="652" y="202">(Pseudomonas, Aspergillus)</text>
+    <text x="22" y="234" font-weight="bold">Imaging</text>
+    <text x="152" y="232">Thick-walled cavity with</text><text x="152" y="248">AIR–FLUID LEVEL (CT confirms)</text>
+    <text x="402" y="232">HRCT: TRAM-TRACK +</text><text x="402" y="248">SIGNET-RING sign</text>
+    <text x="652" y="232">Central cystic bronchiectasis,</text><text x="652" y="248">mucus plugs, hyperinflation</text>
+    <rect x="15" y="258" width="870" height="42" fill="#f7f9fc"/>
+    <text x="22" y="276" font-weight="bold">Key test</text>
+    <text x="152" y="274">Sputum/BAL Gram stain + culture</text><text x="152" y="290">(blood cultures often −)</text>
+    <text x="402" y="274">HRCT; then find the cause</text><text x="402" y="290">(Igs, Aspergillus IgE, AAT)</text>
+    <text x="652" y="274" font-weight="bold">Sweat Cl⁻ ≥ 60 mmol/L</text><text x="652" y="290">+ CFTR genotyping</text>
+    <text x="22" y="322" font-weight="bold">Clubbing</text>
+    <text x="152" y="322">Chronic abscess</text>
+    <text x="402" y="322">Uncommon</text>
+    <text x="652" y="322">Yes (chronic hypoxia)</text>
+    <rect x="15" y="332" width="870" height="58" fill="#f7f9fc"/>
+    <text x="22" y="356" font-weight="bold">Treatment</text>
+    <text x="152" y="352">Anaerobic cover: ampicillin–</text><text x="152" y="368">sulbactam / carbapenem /</text><text x="152" y="384">clindamycin, 3–6 weeks</text>
+    <text x="402" y="352">Physio, mucolytics, vaccines;</text><text x="402" y="368">antibiotics ≥ 3 mo if ≥ 3</text><text x="402" y="384">exacerbations/yr</text>
+    <text x="652" y="352">Airway clearance, DNase,</text><text x="652" y="368">hypertonic saline, anti-</text><text x="652" y="384">Pseudomonas Abx, enzymes</text>
+    <text x="22" y="412" font-weight="bold">If it fails</text>
+    <text x="152" y="412">Drain (bronchoscopic/percut.)</text>
+    <text x="402" y="412">Lobectomy (bleeding)</text>
+    <text x="652" y="412">Double-lung transplant</text>
+    <rect x="15" y="424" width="870" height="36" rx="6" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="450" y="447" text-anchor="middle">Links: CF → bronchiectasis · bronchiectasis → abscess risk · Kartagener (ciliary dyskinesia) → bronchiectasis + situs inversus + sinusitis</text>
+  </g>
+</svg>

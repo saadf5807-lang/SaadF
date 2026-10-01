@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="430" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Asthma vs COPD: the comparison examiners love</text>
+  <g font-size="12.5">
+    <rect x="20" y="45" width="200" height="34" fill="#0b3d6b"/><text x="120" y="67" text-anchor="middle" fill="#fff" font-weight="bold">Feature</text>
+    <rect x="225" y="45" width="320" height="34" fill="#d9822b"/><text x="385" y="67" text-anchor="middle" fill="#fff" font-weight="bold">ASTHMA</text>
+    <rect x="550" y="45" width="330" height="34" fill="#2b6cb0"/><text x="715" y="67" text-anchor="middle" fill="#fff" font-weight="bold">COPD</text>
+    <g>
+      <rect x="20" y="84" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="104" font-weight="bold">Onset</text><text x="235" y="104">Usually &lt; 35 y, often childhood</text><text x="560" y="104">Usually &gt; 50 y</text>
+      <text x="30" y="134" font-weight="bold">Smoking</text><text x="235" y="134">Rarely smokes</text><text x="560" y="134">Smoker / ex-smoker (~90%)</text>
+      <rect x="20" y="144" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="164" font-weight="bold">Symptoms</text><text x="235" y="164">Episodic, variable day to day</text><text x="560" y="164">Persistent, progressive dyspnoea</text>
+      <text x="30" y="194" font-weight="bold">Cough</text><text x="235" y="194">Dry, wheeze, worse at night</text><text x="560" y="194">Chronic productive, worse in morning</text>
+      <rect x="20" y="204" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="224" font-weight="bold">Inflammation</text><text x="235" y="224">Th2, eosinophils, mast cells (type I)</text><text x="560" y="224">Neutrophils, proteases</text>
+      <text x="30" y="254" font-weight="bold">Spirometry</text><text x="235" y="254">FEV1/FVC &lt; 0.7, REVERSIBLE</text><text x="560" y="254">FEV1/FVC &lt; 0.7, NOT reversible</text>
+      <rect x="20" y="264" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="284" font-weight="bold">Reversibility</text><text x="235" y="284">&gt; 12% ↑ FEV1 after bronchodilator</text><text x="560" y="284">Stays &lt; 0.7</text>
+      <text x="30" y="314" font-weight="bold">DLCO [added]</text><text x="235" y="314">Normal or ↑</text><text x="560" y="314">↓ in emphysema</text>
+      <rect x="20" y="324" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="344" font-weight="bold">First controller</text><text x="235" y="344">ICS from step 2 (never LABA alone)</text><text x="560" y="344">LAMA (ICS only if eos ≥ 300 / admitted)</text>
+      <text x="30" y="374" font-weight="bold">Acute O₂ target</text><text x="235" y="374">93–95% (children 94–98%)</text><text x="560" y="374">88–92%</text>
+      <rect x="20" y="384" width="860" height="30" fill="#f7f9fc"/>
+      <text x="30" y="404" font-weight="bold">Bad ABG sign</text><text x="235" y="404">NORMAL or ↑ PaCO₂ (tiring)</text><text x="560" y="404">Acidosis: pH ≤ 7.35 + PaCO₂ ≥ 45 → NIPPV</text>
+    </g>
+  </g>
+</svg>

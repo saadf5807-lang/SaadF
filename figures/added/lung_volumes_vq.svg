@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="420" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Lung volumes and capacities (normal adult)</text>
+  <g font-size="12">
+    <rect x="60" y="50" width="70" height="300" fill="#dde8f3" stroke="#0b3d6b"/>
+    <text x="95" y="205" text-anchor="middle" font-weight="bold" transform="rotate(-90 95 205)">TLC 6–6.5 L</text>
+    <rect x="150" y="50" width="70" height="225" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="185" y="165" text-anchor="middle" font-weight="bold" transform="rotate(-90 185 165)">VC 4.5–5 L</text>
+    <rect x="150" y="275" width="70" height="75" fill="#fdecea" stroke="#b3261e"/>
+    <text x="185" y="317" text-anchor="middle" font-weight="bold">RV</text>
+    <rect x="240" y="50" width="150" height="120" fill="#fff7e8" stroke="#d9822b"/><text x="315" y="105" text-anchor="middle" font-weight="bold">IRV</text><text x="315" y="123" text-anchor="middle" font-size="11">extra in after normal breath</text>
+    <rect x="240" y="170" width="150" height="25" fill="#ede7f6" stroke="#6a1b9a"/><text x="315" y="187" text-anchor="middle" font-weight="bold">TV ~500 mL (7 mL/kg)</text>
+    <rect x="240" y="195" width="150" height="80" fill="#fff7e8" stroke="#d9822b"/><text x="315" y="232" text-anchor="middle" font-weight="bold">ERV</text><text x="315" y="250" text-anchor="middle" font-size="11">extra out after normal breath</text>
+    <rect x="240" y="275" width="150" height="75" fill="#fdecea" stroke="#b3261e"/><text x="315" y="310" text-anchor="middle" font-weight="bold">RV 1–1.5 L</text><text x="315" y="328" text-anchor="middle" font-size="11">left after max exhale</text>
+    <rect x="410" y="195" width="60" height="155" fill="#f2f2f2" stroke="#555"/>
+    <text x="440" y="272" text-anchor="middle" font-weight="bold" transform="rotate(-90 440 272)">FRC 2.5–3 L</text>
+    <text x="270" y="375" text-anchor="middle" font-size="11" fill="#555">TLC = VC + RV · VC = IRV + TV + ERV · FRC = ERV + RV</text>
+    <text x="270" y="395" text-anchor="middle" font-size="11" fill="#b3261e">Spirometry cannot measure RV, FRC or TLC → body plethysmography</text>
+    <rect x="510" y="50" width="375" height="350" rx="10" fill="#f7f9fc" stroke="#9fb3c8"/>
+    <text x="697" y="74" text-anchor="middle" font-weight="bold" font-size="14">V/Q mismatch</text>
+    <rect x="525" y="88" width="345" height="88" rx="8" fill="#fff7e8" stroke="#d9822b"/>
+    <text x="537" y="108" font-weight="bold" fill="#d9822b">SHUNT: perfusion, no ventilation (V = 0)</text>
+    <text x="537" y="128">Blood passes unventilated alveoli</text>
+    <text x="537" y="146">Oedema, ARDS, pneumonia, atelectasis</text>
+    <text x="537" y="164" font-weight="bold">→ hypoxaemia NOT corrected by O₂ [added]</text>
+    <rect x="525" y="186" width="345" height="50" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="537" y="206" font-weight="bold" fill="#2e7d32">NORMAL: V and Q matched</text>
+    <text x="537" y="226">Gas exchange efficient</text>
+    <rect x="525" y="246" width="345" height="88" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="537" y="266" font-weight="bold" fill="#2b6cb0">DEAD SPACE: ventilation, no perfusion (Q = 0)</text>
+    <text x="537" y="286">Air reaches alveoli with no blood flow</text>
+    <text x="537" y="304">Pulmonary embolism, severe PAH</text>
+    <text x="537" y="322" font-weight="bold">→ ↑ physiological dead space</text>
+    <text x="697" y="356" text-anchor="middle" font-size="11">Anatomical dead space = conducting zone (~150 mL [added])</text>
+    <text x="697" y="374" text-anchor="middle" font-size="11">Gas exchange begins at respiratory bronchioles (order 17)</text>
+    <text x="697" y="392" text-anchor="middle" font-size="11">Type I pneumocytes: 95% surface, gas exchange · Type II: surfactant</text>
+  </g>
+</svg>

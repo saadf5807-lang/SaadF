@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="520" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Hypertension: category → action → first drug (AHA/ACC)</text>
+  <g font-size="12">
+    <rect x="20" y="48" width="200" height="70" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="120" y="70" text-anchor="middle" font-weight="bold" fill="#2e7d32" font-size="14">Normal</text>
+    <text x="120" y="88" text-anchor="middle">&lt;120 AND &lt;80</text>
+    <text x="120" y="107" text-anchor="middle" fill="#2e7d32">Reassess in 1 year</text>
+    <rect x="240" y="48" width="200" height="70" rx="8" fill="#fffde7" stroke="#b28704"/>
+    <text x="340" y="70" text-anchor="middle" font-weight="bold" fill="#8a6d00" font-size="14">Elevated</text>
+    <text x="340" y="88" text-anchor="middle">120–129 AND &lt;80</text>
+    <text x="340" y="107" text-anchor="middle" fill="#8a6d00">Lifestyle · reassess 3–6 mo</text>
+    <rect x="460" y="48" width="200" height="70" rx="8" fill="#fff3e0" stroke="#e65100"/>
+    <text x="560" y="70" text-anchor="middle" font-weight="bold" fill="#e65100" font-size="14">Stage 1</text>
+    <text x="560" y="88" text-anchor="middle">130–139 OR 80–89</text>
+    <text x="560" y="107" text-anchor="middle" fill="#e65100">Risk decides (below)</text>
+    <rect x="680" y="48" width="200" height="70" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="780" y="70" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="14">Stage 2</text>
+    <text x="780" y="88" text-anchor="middle">≥140 OR ≥90</text>
+    <text x="780" y="107" text-anchor="middle" fill="#b3261e">Lifestyle + DRUG</text>
+    <line x1="560" y1="118" x2="560" y2="150" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="360" y="152" width="400" height="92" rx="8" fill="#fff" stroke="#e65100" stroke-dasharray="5 3"/>
+    <text x="560" y="172" text-anchor="middle" font-weight="bold">Stage 1: drug if ANY of</text>
+    <text x="375" y="192">• Clinical ASCVD (CHD, stroke, PAD) or HF</text>
+    <text x="375" y="210">• DM or CKD · age ≥65 (2017 list)</text>
+    <text x="375" y="228">• 10-y risk ≥10% (2017 PCE) / PREVENT ≥7.5% (2025)</text>
+    <text x="375" y="240" font-size="10" fill="#555">else lifestyle 3–6 mo, then drug if still ≥130/80</text>
+    <line x1="780" y1="118" x2="780" y2="268" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="560" y1="244" x2="560" y2="268" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="20" y="152" width="320" height="116" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="180" y="172" text-anchor="middle" font-weight="bold" fill="#2b6cb0">Lifestyle for EVERYONE &gt;120/&gt;80</text>
+    <text x="35" y="192">Weight loss (most effective): ~1 mmHg/kg</text>
+    <text x="35" y="209">DASH diet: 11 mmHg</text>
+    <text x="35" y="226">Na &lt;1500 mg/d: 5–6 · K 3.5–5 g/d: 4–5</text>
+    <text x="35" y="243">Aerobic 90–150 min/wk: 5–8 mmHg</text>
+    <text x="35" y="260" fill="#2b6cb0" font-weight="bold">Target: &lt;130/80 for most adults</text>
+    <rect x="360" y="270" width="520" height="120" rx="8" fill="#f3e5f5" stroke="#6a1b9a"/>
+    <text x="620" y="290" text-anchor="middle" font-weight="bold" fill="#6a1b9a" font-size="13">Which first drug? (A · C · D)</text>
+    <text x="375" y="311">≥20/10 above target → START 2 DRUGS: ACEI/ARB + DHP-CCB or thiazide</text>
+    <text x="375" y="330">Stage 1 → monotherapy: ACEI/ARB, thiazide or DHP-CCB</text>
+    <text x="375" y="349">DM + albuminuria / CKD → ACEI or ARB (nephroprotective)</text>
+    <text x="375" y="368">Black patient (no HF/CKD) or isolated systolic HTN → thiazide or CCB</text>
+    <text x="375" y="384" font-size="10" fill="#555">β-blocker first only with a compelling comorbidity (IHD, HF, AF, aortic disease…)</text>
+    <rect x="20" y="290" width="320" height="100" rx="8" fill="#fff8e1" stroke="#8a6d00"/>
+    <text x="180" y="310" text-anchor="middle" font-weight="bold" fill="#8a6d00">Follow-up on drugs</text>
+    <text x="35" y="330">1 month → then every 3–6 months → yearly</text>
+    <text x="35" y="350">Not at goal on 2 drugs → add a 3rd</text>
+    <text x="35" y="370">Uncontrolled on ≥3 (or needs ≥4) = RESISTANT</text>
+    <text x="35" y="384" font-size="10" fill="#555">→ add spironolactone; hunt secondary causes</text>
+    <rect x="20" y="410" width="860" height="96" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="450" y="430" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="13">Look for SECONDARY HTN (RECENT) when:</text>
+    <text x="35" y="452">Onset &lt;30 y · resistant HTN · sudden worsening · hypokalaemia (Conn) · paroxysms + 5 P's (pheo)</text>
+    <text x="35" y="472">Creatinine ↑ ≥50% within 1 week of ACEI/ARB, flash pulmonary oedema, abdominal bruit (renal artery stenosis)</text>
+    <text x="35" y="492">Arm–arm BP difference (dissection) · arm–leg difference (coarctation) · snoring + daytime sleepiness (OSA)</text>
+  </g>
+</svg>

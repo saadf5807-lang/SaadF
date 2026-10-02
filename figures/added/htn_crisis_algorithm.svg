@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="470" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Severe HTN (≥180 and/or ≥120): is there ACUTE organ damage?</text>
+  <g font-size="12">
+    <rect x="300" y="44" width="300" height="40" rx="8" fill="#0b3d6b"/>
+    <text x="450" y="69" text-anchor="middle" fill="#fff" font-weight="bold">SBP ≥180 and/or DBP ≥120</text>
+    <line x1="380" y1="84" x2="230" y2="112" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="520" y1="84" x2="670" y2="112" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <text x="270" y="100" font-weight="bold" fill="#b3261e">YES</text>
+    <text x="610" y="100" font-weight="bold" fill="#2e7d32">NO</text>
+    <rect x="30" y="114" width="400" height="92" rx="9" fill="#fdecea" stroke="#b3261e"/>
+    <text x="230" y="136" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="14">HYPERTENSIVE EMERGENCY → ICU</text>
+    <text x="45" y="158">Encephalopathy, stroke/ICH, MI, acute HF/pulmonary oedema,</text>
+    <text x="45" y="176">dissection, AKI, papilloedema/retinal haemorrhage, MAHA,</text>
+    <text x="45" y="194">eclampsia/pre-eclampsia → IV titratable drugs</text>
+    <rect x="470" y="114" width="400" height="92" rx="9" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="670" y="136" text-anchor="middle" font-weight="bold" fill="#2e7d32" font-size="14">SEVERE HTN / "URGENCY"</text>
+    <text x="485" y="158">Asymptomatic or headache, dizziness, epistaxis</text>
+    <text x="485" y="176">✗ AVOID parenteral or intensified oral therapy acutely</text>
+    <text x="485" y="194">Restart/adjust oral meds → OPD follow-up in ≤4 weeks</text>
+    <line x1="130" y1="206" x2="130" y2="240" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="330" y1="206" x2="330" y2="240" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="30" y="242" width="200" height="120" rx="9" fill="#fff3e0" stroke="#e65100"/>
+    <text x="130" y="262" text-anchor="middle" font-weight="bold" fill="#e65100">Compelling exceptions</text>
+    <text x="42" y="286" font-weight="bold">Aortic dissection:</text>
+    <text x="42" y="304">SBP &lt;120 in 1st hour</text>
+    <text x="42" y="328" font-weight="bold">Pheochromocytoma crisis:</text>
+    <text x="42" y="346">SBP &lt;140 in 1st hour</text>
+    <rect x="250" y="242" width="380" height="120" rx="9" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="440" y="262" text-anchor="middle" font-weight="bold" fill="#2b6cb0">All other emergencies: the 25 → 160 → normal rule</text>
+    <text x="265" y="288"><tspan font-weight="bold">Hour 1:</tspan> ↓ SBP by 25% (no more)</text>
+    <text x="265" y="310"><tspan font-weight="bold">Next 6 h:</tspan> to &lt;160 / 100–110</text>
+    <text x="265" y="332"><tspan font-weight="bold">Next 24–48 h:</tspan> cautiously to normal</text>
+    <text x="265" y="352" font-size="10" fill="#555">Too fast → watershed ischaemia (brain, heart, kidney)</text>
+    <rect x="30" y="382" width="840" height="74" rx="9" fill="#f3e5f5" stroke="#6a1b9a"/>
+    <text x="450" y="402" text-anchor="middle" font-weight="bold" fill="#6a1b9a">Crisis triggers (slide 44)</text>
+    <text x="45" y="424">Non-adherence · cocaine/amphetamine/ecstasy · MAOI + tyramine (cheese, wine, cured meat) or MAOI + SSRI overlap</text>
+    <text x="45" y="444">Pheochromocytoma · hyperthyroidism · rapidly progressive renal disease · SLE/collagen vascular · eclampsia</text>
+  </g>
+</svg>

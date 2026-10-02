@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="470" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Three pericardial syndromes: inflamed → filled → stiff</text>
+  <g font-size="12">
+    <rect x="20" y="46" width="270" height="400" rx="10" fill="#fff3e0" stroke="#e65100"/>
+    <rect x="315" y="46" width="270" height="400" rx="10" fill="#fdecea" stroke="#b3261e"/>
+    <rect x="610" y="46" width="270" height="400" rx="10" fill="#ede7f6" stroke="#4527a0"/>
+    <line x1="290" y1="70" x2="313" y2="70" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="585" y1="70" x2="608" y2="70" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <text x="155" y="70" text-anchor="middle" font-weight="bold" fill="#e65100" font-size="15">ACUTE PERICARDITIS</text>
+    <text x="450" y="70" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="15">EFFUSION → TAMPONADE</text>
+    <text x="745" y="70" text-anchor="middle" font-weight="bold" fill="#4527a0" font-size="15">CONSTRICTIVE</text>
+    <circle cx="155" cy="115" r="30" fill="#f8bbd0" stroke="#e65100" stroke-width="5" stroke-dasharray="4 3"/>
+    <circle cx="450" cy="115" r="22" fill="#f8bbd0"/><circle cx="450" cy="115" r="36" fill="none" stroke="#b3261e" stroke-width="2"/>
+    <circle cx="450" cy="115" r="29" fill="none" stroke="#90caf9" stroke-width="12" opacity=".7"/>
+    <circle cx="745" cy="115" r="28" fill="#f8bbd0" stroke="#4527a0" stroke-width="8"/>
+    <text x="155" y="168" text-anchor="middle" font-size="11" fill="#555">inflamed layers</text>
+    <text x="450" y="168" text-anchor="middle" font-size="11" fill="#555">fluid squeezes all chambers</text>
+    <text x="745" y="168" text-anchor="middle" font-size="11" fill="#555">rigid scarred shell</text>
+    <text x="32" y="192" font-weight="bold">Pain: sharp, pleuritic, positional</text>
+    <text x="32" y="210">↓ sitting up / leaning forward</text>
+    <text x="32" y="228" font-weight="bold">3-component friction rub</text>
+    <text x="32" y="246">Low fever, myalgia (viral prodrome)</text>
+    <text x="32" y="272" font-weight="bold" fill="#e65100">ECG: diffuse ST↑ + PR↓</text>
+    <text x="32" y="290">aVR/V1: ST↓ + PR↑ (reciprocal)</text>
+    <text x="32" y="308">Evolves over days–weeks</text>
+    <text x="32" y="326">Troponin: minimal ↑ · ESR/CRP ↑</text>
+    <text x="32" y="352" font-weight="bold" fill="#2e7d32">Rx: high-dose NSAID</text>
+    <text x="32" y="370" font-weight="bold" fill="#2e7d32">+ colchicine (+ PPI)</text>
+    <text x="32" y="388">2nd line: glucocorticoids</text>
+    <text x="32" y="414" font-size="11" fill="#555">Cause: idiopathic/viral (commonest),</text>
+    <text x="32" y="430" font-size="11" fill="#555">MI, uraemia, CTD, cancer, post-op, RT</text>
+    <text x="327" y="192" font-weight="bold">RATE &gt; volume</text>
+    <text x="327" y="210">200 mL fast kills; &gt;1 L slow tolerated</text>
+    <text x="327" y="228" font-weight="bold">Beck: ↓BP · muffled S · ↑JVP</text>
+    <text x="327" y="246">Pulsus paradoxus (&gt;10 mmHg fall)</text>
+    <text x="327" y="264">Ewart sign · ↑HR · ↑RR</text>
+    <text x="327" y="290" font-weight="bold" fill="#b3261e">ECG: low voltage +</text>
+    <text x="327" y="308" font-weight="bold" fill="#b3261e">electrical alternans</text>
+    <text x="327" y="326">CXR: water-bottle heart</text>
+    <text x="327" y="344">ECHO = modality of choice</text>
+    <text x="327" y="370" font-weight="bold" fill="#2e7d32">Tamponade: urgent pericardio-</text>
+    <text x="327" y="388" font-weight="bold" fill="#2e7d32">centesis + IV fluid (preload)</text>
+    <text x="327" y="406">No compromise → no routine drain</text>
+    <text x="327" y="424">Recurrent → pleuropericardial window</text>
+    <text x="622" y="192" font-weight="bold">Slow right-HF picture:</text>
+    <text x="622" y="210">fatigue, DOE, leg oedema, ASCITES</text>
+    <text x="622" y="228" font-weight="bold">↑JVP + KUSSMAUL sign</text>
+    <text x="622" y="246" font-weight="bold">Pericardial KNOCK (early diastole)</text>
+    <text x="622" y="272" font-weight="bold" fill="#4527a0">ECG: low voltage, LA enlarge.</text>
+    <text x="622" y="290">CXR: pericardial CALCIFICATION</text>
+    <text x="622" y="308">Echo/CT/MRI: thick pericardium</text>
+    <text x="622" y="326">Cath: equal ↑ diastolic pressures,</text>
+    <text x="622" y="344">"dip and plateau" (square root)</text>
+    <text x="622" y="370" font-weight="bold" fill="#2e7d32">Rx: PERICARDIECTOMY</text>
+    <text x="622" y="388" font-weight="bold" fill="#2e7d32">(only definitive)</text>
+    <text x="622" y="406">Non-surgical: Na restriction + diuretic</text>
+    <text x="622" y="430" font-size="11" fill="#555">Cause: TB (classic), surgery, RT, CTD</text>
+  </g>
+</svg>

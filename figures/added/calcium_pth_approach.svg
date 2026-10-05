@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="540" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Abnormal calcium: correct for albumin, then let PTH decide</text>
+  <g font-size="12">
+    <rect x="250" y="42" width="400" height="44" rx="8" fill="#0b3d6b"/>
+    <text x="450" y="61" text-anchor="middle" fill="#fff" font-weight="bold">Corrected Ca = Ca + 0.8 × (4 − albumin g/dL)</text>
+    <text x="450" y="78" text-anchor="middle" fill="#dde8f3" font-size="11">or measure ionized Ca (normal total 8.5–10.5 mg/dL)</text>
+    <line x1="350" y1="86" x2="230" y2="110" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="550" y1="86" x2="670" y2="110" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="20" y="112" width="420" height="38" rx="8" fill="#b3261e"/>
+    <text x="230" y="136" text-anchor="middle" fill="#fff" font-weight="bold" font-size="14">HYPERcalcaemia (&gt;10.5)</text>
+    <rect x="460" y="112" width="420" height="38" rx="8" fill="#2b6cb0"/>
+    <text x="670" y="136" text-anchor="middle" fill="#fff" font-weight="bold" font-size="14">HYPOcalcaemia (&lt;8.5)</text>
+    <rect x="20" y="162" width="205" height="190" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="122" y="182" text-anchor="middle" font-weight="bold" fill="#b3261e">PTH ↑ or "normal"</text>
+    <text x="32" y="204" font-weight="bold">PTH-driven</text>
+    <text x="32" y="224">• 1ry HPT (adenoma 90%)</text>
+    <text x="32" y="242">• 3ry HPT (after CKD)</text>
+    <text x="32" y="260">• MEN 1 / 2A</text>
+    <text x="32" y="278">• Lithium, FHH *</text>
+    <text x="32" y="302" fill="#b3261e">PO₄ ↓ (unless CKD)</text>
+    <text x="32" y="320" fill="#b3261e">Not suppressed by</text>
+    <text x="32" y="338" fill="#b3261e">steroids (Dent test)</text>
+    <rect x="235" y="162" width="205" height="190" rx="8" fill="#fff3e0" stroke="#e65100"/>
+    <text x="337" y="182" text-anchor="middle" font-weight="bold" fill="#e65100">PTH ↓ (suppressed)</text>
+    <text x="247" y="204">• Malignancy: PTHrP,</text>
+    <text x="247" y="220">  osteolytic mets, myeloma</text>
+    <text x="247" y="238">• Vit D: toxicity, lymphoma,</text>
+    <text x="247" y="254">  sarcoid/granuloma</text>
+    <text x="247" y="272">• Milk-alkali, vit A</text>
+    <text x="247" y="290">• Thyrotoxicosis, Addison,</text>
+    <text x="247" y="306">  acromegaly</text>
+    <text x="247" y="324">• Immobilisation (Paget)</text>
+    <text x="247" y="342" fill="#e65100">Steroids work (vit D/myeloma)</text>
+    <rect x="460" y="162" width="205" height="190" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="562" y="182" text-anchor="middle" font-weight="bold" fill="#2b6cb0">PTH ↓ (inappropriate)</text>
+    <text x="472" y="204" font-weight="bold">HYPOparathyroidism</text>
+    <text x="472" y="224">• Post-thyroidectomy</text>
+    <text x="472" y="242">• After adenoma removal</text>
+    <text x="472" y="260">• Autoimmune, DiGeorge</text>
+    <text x="472" y="278">• ¹³¹I, haemochromatosis</text>
+    <text x="472" y="296">• ↓ Mg (PTH release fails)</text>
+    <text x="472" y="320" fill="#2b6cb0" font-weight="bold">PO₄ ↑</text>
+    <text x="472" y="338" fill="#2b6cb0">ALP normal</text>
+    <rect x="675" y="162" width="205" height="190" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="777" y="182" text-anchor="middle" font-weight="bold" fill="#2e7d32">PTH ↑ (appropriate)</text>
+    <text x="687" y="204">• Vit D deficiency /</text>
+    <text x="687" y="220">  malabsorption → PO₄ ↓,</text>
+    <text x="687" y="236">  ALP ↑ (osteomalacia)</text>
+    <text x="687" y="256">• CKD → PO₄ ↑ (2ry HPT)</text>
+    <text x="687" y="276">• Pseudohypopara → PO₄ ↑,</text>
+    <text x="687" y="292">  AHO phenotype</text>
+    <text x="687" y="312">• Pancreatitis, tumour lysis,</text>
+    <text x="687" y="328">  rhabdo (↑PO₄), transfusion</text>
+    <text x="687" y="344">• Loop diuretics</text>
+    <rect x="20" y="368" width="420" height="158" rx="8" fill="#fff" stroke="#b3261e" stroke-dasharray="5 3"/>
+    <text x="230" y="388" text-anchor="middle" font-weight="bold" fill="#b3261e">Picture: "stones, bones, groans, moans, thrones"</text>
+    <text x="32" y="410">Short QT · polyuria (Ca diabetes) · dehydration</text>
+    <text x="32" y="430">Constipation, PUD, pancreatitis · confusion → coma</text>
+    <text x="32" y="454" font-weight="bold">Crisis (&gt;13–14 mg/dL):</text>
+    <text x="32" y="474">1. IV 0.9% saline 4–6 L/day (FIRST)</text>
+    <text x="32" y="494">2. Furosemide only AFTER rehydration · calcitonin</text>
+    <text x="32" y="514">3. IV bisphosphonate (pamidronate) · steroids if vit D/myeloma</text>
+    <rect x="460" y="368" width="420" height="158" rx="8" fill="#fff" stroke="#2b6cb0" stroke-dasharray="5 3"/>
+    <text x="670" y="388" text-anchor="middle" font-weight="bold" fill="#2b6cb0">Picture: TETANY (↑ neuromuscular excitability)</text>
+    <text x="472" y="410">Latent (7–8.5): Chvostek, Trousseau, Erb</text>
+    <text x="472" y="430">Overt (&lt;7): carpopedal spasm, laryngospasm, fits</text>
+    <text x="472" y="450">Long QT · cataract · basal ganglia Ca · dry skin/nails</text>
+    <text x="472" y="474" font-weight="bold">Acute: IV Ca gluconate 10% slowly</text>
+    <text x="472" y="494">Correct Mg first if low (refractory otherwise)</text>
+    <text x="472" y="514">Chronic: oral Ca + calcitriol (1α-vit D) ± thiazide</text>
+  </g>
+  <text x="20" y="536" font-size="9.5" fill="#555">* FHH = familial hypocalciuric hypercalcaemia (added). Alkalosis ↓ ionized Ca with normal total Ca, so tetany without "hypocalcaemia".</text>
+</svg>

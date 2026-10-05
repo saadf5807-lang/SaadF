@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="380" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Hyperparathyroidism: who started it, and what is the calcium?</text>
+  <g font-size="12">
+    <rect x="20" y="48" width="270" height="250" rx="10" fill="#fdecea" stroke="#b3261e"/>
+    <text x="155" y="72" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="15">PRIMARY</text>
+    <text x="155" y="92" text-anchor="middle" font-size="11">gland is the problem</text>
+    <text x="32" y="116">Adenoma 90% · hyperplasia</text>
+    <text x="32" y="134">carcinoma · MEN 1 / 2A</text>
+    <text x="32" y="162" font-weight="bold">Ca ↑ · PO₄ ↓ · ALP ↑ · PTH ↑/=</text>
+    <text x="32" y="186">Stones, bones, groans, moans</text>
+    <text x="32" y="204">Osteitis fibrosa cystica</text>
+    <text x="32" y="232" fill="#2e7d32" font-weight="bold">Rx: SURGERY (first line)</text>
+    <text x="32" y="250">Screen for MEN</text>
+    <text x="32" y="268">Unfit: cinacalcet + alendronate</text>
+    <text x="32" y="286" font-size="11" fill="#555">Post-op: hungry bone syndrome</text>
+    <rect x="315" y="48" width="270" height="250" rx="10" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="450" y="72" text-anchor="middle" font-weight="bold" fill="#2b6cb0" font-size="15">SECONDARY</text>
+    <text x="450" y="92" text-anchor="middle" font-size="11">normal gland responding to low Ca</text>
+    <text x="327" y="116">CKD (renal osteodystrophy)</text>
+    <text x="327" y="134">Malabsorption, post-gastrectomy</text>
+    <text x="327" y="152">Vit D deficiency</text>
+    <text x="327" y="180" font-weight="bold">Ca ↓/= · PO₄ ↑ (CKD) · ALP ↑ · PTH ↑</text>
+    <text x="327" y="204">Bone pain, fractures</text>
+    <text x="327" y="232" fill="#2e7d32" font-weight="bold">Rx: MEDICAL (treat cause)</text>
+    <text x="327" y="250">PO₄ binder (sevelamer)</text>
+    <text x="327" y="268">Ca supplement · vit D (calcitriol)</text>
+    <rect x="610" y="48" width="270" height="250" rx="10" fill="#ede7f6" stroke="#4527a0"/>
+    <text x="745" y="72" text-anchor="middle" font-weight="bold" fill="#4527a0" font-size="15">TERTIARY</text>
+    <text x="745" y="92" text-anchor="middle" font-size="11">secondary that went autonomous</text>
+    <text x="622" y="116">Long-standing 2ry HPT (CKD)</text>
+    <text x="622" y="134">e.g. persists after transplant *</text>
+    <text x="622" y="162" font-weight="bold">Ca ↑ · PO₄ ↑ · ALP ↑ · PTH ↑↑</text>
+    <text x="622" y="186">Hypercalcaemia despite CKD</text>
+    <text x="622" y="232" fill="#2e7d32" font-weight="bold">Rx: SURGERY (first line)</text>
+    <text x="622" y="250">Cinacalcet as adjunct</text>
+    <line x1="585" y1="180" x2="608" y2="180" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="20" y="312" width="860" height="56" rx="8" fill="#fff8e1" stroke="#8a6d00"/>
+    <text x="35" y="334" font-weight="bold">Key discriminator = serum Ca:</text>
+    <text x="250" y="334">1ry ↑ with PO₄ ↓ · 2ry ↓ or normal · 3ry ↑ with PO₄ ↑ (on a CKD background)</text>
+    <text x="35" y="356">Ectopic PTH (bronchogenic carcinoma, hypernephroma) is very rare. Most malignancy secretes PTHrP, so true PTH is LOW.</text>
+  </g>
+  <text x="622" y="290" font-size="9.5" fill="#555">* added</text>
+</svg>

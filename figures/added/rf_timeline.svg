@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="380" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Rheumatic fever: sore throat → silent weeks → JONES → scarred valves</text>
+  <g font-size="12">
+    <line x1="30" y1="90" x2="870" y2="90" stroke="#333" stroke-width="3" marker-end="url(#a)"/>
+    <circle cx="70" cy="90" r="9" fill="#b3261e"/>
+    <circle cx="300" cy="90" r="9" fill="#e65100"/>
+    <circle cx="520" cy="90" r="9" fill="#6a1b9a"/>
+    <circle cx="760" cy="90" r="9" fill="#2b6cb0"/>
+    <text x="70" y="70" text-anchor="middle" font-weight="bold" fill="#b3261e">Day 0</text>
+    <text x="185" y="80" text-anchor="middle" fill="#555">latent 2–4 weeks</text>
+    <text x="300" y="70" text-anchor="middle" font-weight="bold" fill="#e65100">2–4 weeks</text>
+    <text x="520" y="70" text-anchor="middle" font-weight="bold" fill="#6a1b9a">1–8 months</text>
+    <text x="760" y="70" text-anchor="middle" font-weight="bold" fill="#2b6cb0">Years–decades</text>
+    <rect x="20" y="110" width="200" height="150" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="120" y="130" text-anchor="middle" font-weight="bold" fill="#b3261e">GAS PHARYNGITIS</text>
+    <text x="30" y="152">S. pyogenes, untreated</text>
+    <text x="30" y="170">(skin GAS → PSGN, not RF)</text>
+    <text x="30" y="194" font-weight="bold">Molecular mimicry:</text>
+    <text x="30" y="212">anti-M protein antibodies</text>
+    <text x="30" y="230">cross-react with heart,</text>
+    <text x="30" y="248">joints, brain (type II HSR)</text>
+    <rect x="230" y="110" width="200" height="150" rx="8" fill="#fff3e0" stroke="#e65100"/>
+    <text x="330" y="130" text-anchor="middle" font-weight="bold" fill="#e65100">ACUTE RF</text>
+    <text x="240" y="152">Migratory polyarthritis</text>
+    <text x="240" y="170">PANcarditis (MR murmur)</text>
+    <text x="240" y="188">Subcutaneous nodules</text>
+    <text x="240" y="206">Erythema marginatum</text>
+    <text x="240" y="224">Fever, ↑ESR/CRP, ↑PR</text>
+    <text x="240" y="248" font-weight="bold">Aschoff bodies</text>
+    <rect x="440" y="110" width="200" height="150" rx="8" fill="#f3e5f5" stroke="#6a1b9a"/>
+    <text x="540" y="130" text-anchor="middle" font-weight="bold" fill="#6a1b9a">SYDENHAM CHOREA</text>
+    <text x="450" y="152">Late, may be ISOLATED</text>
+    <text x="450" y="170">(ASO may have normalised)</text>
+    <text x="450" y="188">Milkmaid grip, choreic hand</text>
+    <text x="450" y="206">Jerky speech, ballismus</text>
+    <text x="450" y="224">Emotional lability</text>
+    <rect x="650" y="110" width="230" height="150" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="765" y="130" text-anchor="middle" font-weight="bold" fill="#2b6cb0">RHEUMATIC HEART DISEASE</text>
+    <text x="660" y="152">Mitral 65% · aortic 25% · tric 10%</text>
+    <text x="660" y="170">EARLY: MR / prolapse</text>
+    <text x="660" y="188" font-weight="bold">LATE: MITRAL STENOSIS</text>
+    <text x="660" y="206">(RF = #1 cause of MS)</text>
+    <text x="660" y="224">→ AF, pulmonary HTN, IE</text>
+    <rect x="20" y="276" width="860" height="94" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="450" y="296" text-anchor="middle" font-weight="bold" fill="#2e7d32">Where antibiotics act</text>
+    <text x="35" y="318"><tspan font-weight="bold">Primary:</tspan> treat strep throat (penicillin V) → prevents RF</text>
+    <text x="35" y="338"><tspan font-weight="bold">Eradication</tspan> at diagnosis: penicillin V (allergy: cephalosporin / macrolide)</text>
+    <text x="35" y="358"><tspan font-weight="bold">Secondary:</tspan> IM benzathine penicillin G q4 weeks: no carditis 5 y/21 · carditis 10 y/21 · valve disease 10 y/40 (whichever LONGER)</text>
+  </g>
+</svg>

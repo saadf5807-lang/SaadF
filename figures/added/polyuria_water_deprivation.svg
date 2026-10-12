@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+  <rect width="900" height="430" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Polyuria (≥ 3 L/day): glucose first, then the water deprivation test</text>
+  <g font-size="12">
+    <rect x="250" y="42" width="400" height="44" rx="8" fill="#0b3d6b"/>
+    <text x="450" y="61" text-anchor="middle" fill="#fff" font-weight="bold">Polyuria + polydipsia</text>
+    <text x="450" y="78" text-anchor="middle" fill="#dde8f3" font-size="11">Check glucose (DM), Ca²⁺ (↑), K⁺ (↓), creatinine, drugs (lithium)</text>
+    <line x1="450" y1="86" x2="450" y2="108" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="200" y="110" width="500" height="52" rx="8" fill="#fff" stroke="#333"/>
+    <text x="450" y="130" text-anchor="middle" font-weight="bold">Water deprivation 4–18 h (stop at plateau or 5% weight loss)</text>
+    <text x="450" y="150" text-anchor="middle">Then give ADH / desmopressin and recheck urine osmolality</text>
+    <line x1="300" y1="162" x2="150" y2="192" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="450" y1="162" x2="450" y2="192" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <line x1="600" y1="162" x2="750" y2="192" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+    <rect x="15" y="194" width="275" height="160" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+    <text x="152" y="214" text-anchor="middle" font-weight="bold" fill="#2e7d32">Normal / PSYCHOGENIC polydipsia</text>
+    <text x="27" y="238">Deprivation: urine osm ↑ (concentrates)</text>
+    <text x="27" y="256">After ADH: no further rise</text>
+    <text x="27" y="280" font-size="11">Plasma Na/osm LOW-normal</text>
+    <text x="27" y="298" font-size="11">No nocturia, emotional disturbance</text>
+    <text x="27" y="322" font-weight="bold">Rx: restrict fluid, psychiatric care</text>
+    <rect x="312" y="194" width="275" height="160" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="450" y="214" text-anchor="middle" font-weight="bold" fill="#2b6cb0">CENTRAL DI (no ADH)</text>
+    <text x="324" y="238">Deprivation: urine stays DILUTE</text>
+    <text x="324" y="256" font-weight="bold">After ADH: urine osm RISES ↑</text>
+    <text x="324" y="280" font-size="11">Head trauma, surgery, tumour,</text>
+    <text x="324" y="298" font-size="11">hypopituitarism causes, Wolfram</text>
+    <text x="324" y="322" font-weight="bold">Rx: DESMOPRESSIN (DDAVP)</text>
+    <text x="324" y="340" font-size="11">± chlorpropamide, carbamazepine, clofibrate</text>
+    <rect x="610" y="194" width="275" height="160" rx="8" fill="#fdecea" stroke="#b3261e"/>
+    <text x="747" y="214" text-anchor="middle" font-weight="bold" fill="#b3261e">NEPHROGENIC DI (no response)</text>
+    <text x="622" y="238">Deprivation: urine stays DILUTE</text>
+    <text x="622" y="256" font-weight="bold">After ADH: NO change</text>
+    <text x="622" y="280" font-size="11">"4 D": Disturbed electrolytes (↓K, ↑Ca),</text>
+    <text x="622" y="296" font-size="11">Drugs (LITHIUM, demeclocycline),</text>
+    <text x="622" y="312" font-size="11">Diseased kidney, Disorders (MM, SCA)</text>
+    <text x="622" y="334" font-weight="bold">Rx: THIAZIDE; AMILORIDE (lithium)</text>
+    <rect x="15" y="368" width="870" height="52" rx="8" fill="#fff8e1" stroke="#8a6d00"/>
+    <text x="27" y="388" font-weight="bold">Opposite problem, SIADH:</text>
+    <text x="215" y="388">too much ADH → euvolaemic hyponatraemia (Na &lt; 135), plasma osm &lt; 275,</text>
+    <text x="27" y="408">urine osm &gt; 100, urine Na &gt; 20–30 → restrict water (&lt; 500 mL below output), demeclocycline, 3% saline if severe (≤ 10–12 mmol/L/24 h)</text>
+  </g>
+</svg>

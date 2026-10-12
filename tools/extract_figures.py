@@ -119,6 +119,14 @@ LECTURES = {
         35: (.48, .15, 1, 1), 37: (.62, .2, 1, .8), 43: (.38, .18, 1, 1), 44: (.43, .2, 1, .65), 48: None,
         49: (.52, .2, 1, 1), 51: (.2, .4, .95, 1), 55: None, 57: None, 58: None}),
     "ar": ("lectures/Reihan_Arrhythmia.pdf", 0.11, {13: None, 15: None, 16: None, 17: None, 18: None, 19: None, 20: None, 21: None, 22: None, 23: None, 26: None, 27: None, 28: None, 29: None, 30: None, 31: None, 32: None, 33: None, 34: (0, 0.11, 1, 0.7), 35: None, 36: None, 37: None, 38: None, 47: None, 48: None, 50: (0.48, 0.17, 1, 1), 53: None, 59: (0, 0.18, 1, 1), 61: None, 62: (0.62, 0.17, 1, 0.95), 63: None, 65: None, 67: None, 68: None, 69: (0.63, 0.15, 1, 0.92), 73: None, 74: (0.5, 0.15, 1, 0.75), 76: None, 81: None, 84: None}),
+    "pt1": ("lectures/Pituitary1_Hypothalamus_Prolactinoma_Acromegaly.pdf", 0.11, {
+        6: (.6, .11, 1, 1), 8: None, 11: None, 13: None, 18: None, 19: None, 20: (.47, .18, 1, 1),
+        24: (0, .4, 1, .84), 27: (0, .21, 1, 1), 32: (.58, .15, 1, 1), 33: None, 35: None, 39: None,
+        40: None, 41: None, 45: (.6, .2, 1, 1), 46: (.62, .15, 1, .5), 48: None}),
+    "pt2": ("lectures/Pituitary2_Hypopituitarism.pdf", 0.11, {
+        7: None, 8: None, 11: None, 12: None, 19: (.62, .15, 1, .9)}),
+    "pt3": ("lectures/Pituitary3_Posterior_Pituitary.pdf", 0.11, {
+        4: (.6, .11, 1, .9), 7: (0, .37, 1, 1), 12: None, 19: (0, .52, 1, 1), 21: None, 23: (0, .11, 1, .68)}),
 }
 
 import sys

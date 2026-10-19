@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="900" height="360" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Typical vs atypical CAP at a glance</text>
+  <g font-size="12">
+    <rect x="20" y="44" width="420" height="300" rx="10" fill="#fdecea" stroke="#b3261e"/>
+    <text x="230" y="68" text-anchor="middle" font-weight="bold" fill="#b3261e" font-size="15">TYPICAL (lobar)</text>
+    <text x="32" y="94" font-weight="bold">S. pneumoniae 60% · H. influenzae 15%</text>
+    <text x="32" y="112">Klebsiella / GNR 6–10% · S. aureus 2–10%</text>
+    <text x="32" y="138">Acute fever + SHAKING CHILLS</text>
+    <text x="32" y="156">PRODUCTIVE purulent sputum</text>
+    <text x="32" y="174">Pleuritic chest pain, dyspnoea</text>
+    <text x="32" y="200" font-weight="bold">Consolidation signs:</text>
+    <text x="32" y="218">bronchial breathing, ↑ fremitus, dullness,</text>
+    <text x="32" y="236">late inspiratory crackles ± pleural rub</text>
+    <text x="32" y="262" font-weight="bold">CXR: LOBAR consolidation, air bronchogram</text>
+    <text x="32" y="280">(multilobar = severe)</text>
+    <text x="32" y="306">Gram stain: organisms + neutrophils</text>
+    <text x="32" y="324">Responds to β-lactams (penicillin)</text>
+    <rect x="460" y="44" width="420" height="300" rx="10" fill="#e3f2fd" stroke="#2b6cb0"/>
+    <text x="670" y="68" text-anchor="middle" font-weight="bold" fill="#2b6cb0" font-size="15">ATYPICAL ("walking pneumonia")</text>
+    <text x="472" y="94" font-weight="bold">Mycoplasma (most common) · Chlamydia</text>
+    <text x="472" y="112">pneumoniae / psittaci · Coxiella · Legionella · viruses</text>
+    <text x="472" y="138">INSIDIOUS: headache, sore throat, myalgia</text>
+    <text x="472" y="156">DRY cough · fever, chills uncommon</text>
+    <text x="472" y="174" font-weight="bold">Pulse–temperature dissociation</text>
+    <text x="472" y="200" font-weight="bold">Few chest signs:</text>
+    <text x="472" y="218">wheeze, rhonchi, crackles</text>
+    <text x="472" y="236">(exam milder than the CXR)</text>
+    <text x="472" y="262" font-weight="bold">CXR: diffuse RETICULONODULAR infiltrate</text>
+    <text x="472" y="280">little or no consolidation</text>
+    <text x="472" y="306">Gram stain: few organisms</text>
+    <text x="472" y="324">NO response to penicillin → macrolide/doxy/FQ</text>
+  </g>
+</svg>

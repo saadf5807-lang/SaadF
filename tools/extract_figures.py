@@ -133,6 +133,7 @@ LECTURES = {
         18: (0, .23, 1, 1), 20: (.5, .23, 1, 1), 21: (0, .28, 1, 1), 22: (.25, .23, 1, 1), 23: (.36, .23, 1, 1),
         24: (0, .3, 1, .82), 25: (.42, .25, 1, 1), 26: (.2, .37, 1, 1), 27: (.15, .28, .9, 1), 28: (.4, .23, 1, .9),
         29: (0, .16, 1, 1), 31: (.65, .55, 1, 1)}),
+    "ecg": ("lectures/ECG.pdf", 0.09, {4: None, 7: None, 8: None, 11: None, 12: None, 13: None, 16: None, 17: None, 19: None, 20: None, 23: None, 24: None, 28: None, 30: None, 31: None, 32: None, 34: None, 35: None, 36: None, 37: None, 39: None, 40: None, 41: None, 44: None, 45: None, 47: None, 48: None, 49: None, 50: None, 51: None, 52: None, 53: None, 54: None, 55: None, 57: None, 58: None, 61: None, 66: None, 68: (0.0, 0.09, 1, 1), 71: None, 72: None, 73: None, 74: None, 75: None, 77: None, 78: None, 79: None, 80: None, 81: None, 82: None, 85: None, 86: None, 87: None, 88: None, 89: None, 91: None, 93: None, 94: None, 95: None, 97: None, 98: None, 99: None, 100: None, 101: None, 102: None, 104: None, 107: None, 108: None, 109: None, 110: None, 111: None, 112: None, 113: None, 114: None, 115: None, 116: None, 117: None, 120: None}),
 }
 
 import sys

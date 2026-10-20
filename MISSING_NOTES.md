@@ -4,7 +4,7 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 
 ## W1
 - ✅ COPD · ✅ Asthma · ✅ Chest anatomy & investigations
-- ⬜ **ECG**
+- ✅ ECG
 
 ## W2
 - ✅ Thyroid 1 · ✅ Reihan CAD · ✅ Reihan CVD RR · ✅ Lung abscess/CF/bronchiectasis · ✅ Pleura
@@ -52,4 +52,4 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ⬜ **13 – Adrenal insufficiency, CAH, pheochromocytoma**
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 29 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 28 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

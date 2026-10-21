@@ -48,8 +48,8 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 
 ## W7
 - ⬜ **Reihan heart failure**
-- ⬜ **12 – Adrenal physiology & Cushing syndrome**
-- ⬜ **13 – Adrenal insufficiency, CAH, pheochromocytoma**
+- ✅ 12 – Adrenal physiology & Cushing syndrome
+- ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 28 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 26 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

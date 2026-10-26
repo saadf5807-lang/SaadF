@@ -23,9 +23,9 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 ## W4
 - ✅ Thyroid 1 & 2 · ✅ Pulmonary vascular · ✅ IE · ✅ RHD · ✅ VHD · ✅ Arrhythmia (6879824)
 - ✅ 11 – Pneumonia (Kotb)
-- ⬜ **Tuberculosis** (Kotb, file 6828405)
-- ⬜ **Sleep apnoea / OHS** (Kotb, file 6828406)
-- ⬜ **Respiratory failure / ARDS** (Kotb, file 6828407)
+- ✅ Tuberculosis (Kotb, file 6828405)
+- ✅ Sleep apnoea / OHS (Kotb, file 6828406)
+- ✅ Respiratory failure / ARDS (Kotb, file 6828407)
 
 ## W5
 - ✅ Hyperparathyroidism (6879620) · ✅ Hypoparathyroidism (6874501) · ✅ Arrhythmia (6879824 2)
@@ -52,4 +52,4 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 18 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 15 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

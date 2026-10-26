@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="540" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Hypoxaemia (PaO₂ &lt; 60): which of the 5 mechanisms?</text>
+<rect x="310" y="45" width="280" height="46" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="1.5"/>
+<text x="450.0" y="65.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Check PaCO₂</text>
+<text x="450.0" y="81.0" text-anchor="middle" font-size="12.5" fill="#222">(Type 1 vs Type 2)</text>
+<line x1="380" y1="91" x2="190" y2="140" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="130" y="112" font-size="12" font-weight="bold" fill="#c62828">PaCO₂ ↑ (Type 2)</text>
+<line x1="520" y1="91" x2="700" y2="140" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="640" y="108" font-size="12" font-weight="bold" fill="#c62828">PaCO₂ normal/↓ (Type 1)</text>
+<rect x="40" y="142" width="300" height="62" rx="8" fill="#ede7f6" stroke="#5e35b1" stroke-width="1.5"/>
+<text x="190.0" y="162.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#222">A–a gradient NORMAL</text>
+<text x="190.0" y="178.0" text-anchor="middle" font-size="12" fill="#222">→ HYPOVENTILATION</text>
+<text x="190.0" y="194.0" text-anchor="middle" font-size="12" fill="#222">(CNS depression, neuromuscular, chest wall)</text>
+<rect x="40" y="214" width="300" height="46" rx="8" fill="#ede7f6" stroke="#5e35b1" stroke-width="1.5"/>
+<text x="190.0" y="234.0" text-anchor="middle" font-size="11.5" fill="#222">(A–a ↑ with ↑ CO₂ → airway disease:</text>
+<text x="190.0" y="250.0" text-anchor="middle" font-size="11.5" fill="#222">AECOPD, severe asthma, OSA/OHS)</text>
+<rect x="520" y="142" width="360" height="46" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.5"/>
+<text x="700.0" y="162.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">A–a gradient RAISED</text>
+<text x="700.0" y="178.0" text-anchor="middle" font-size="12.5" fill="#222">→ give 100% O₂: does PaO₂ rise?</text>
+<line x1="600" y1="188" x2="560" y2="245" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="545" y="222" font-size="12" font-weight="bold" fill="#c62828">YES</text>
+<line x1="800" y1="188" x2="800" y2="245" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="810" y="222" font-size="12" font-weight="bold" fill="#c62828">NO</text>
+<rect x="420" y="247" width="280" height="74" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="560.0" y="265.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#222">V/Q MISMATCH</text>
+<text x="560.0" y="281.0" text-anchor="middle" font-size="12" fill="#222">(pneumonia, PE, asthma, COPD)</text>
+<text x="560.0" y="297.0" text-anchor="middle" font-size="12" fill="#222">or DIFFUSION defect</text>
+<text x="560.0" y="313.0" text-anchor="middle" font-size="12" fill="#222">(IPF, oedema)</text>
+<rect x="710" y="247" width="170" height="74" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.5"/>
+<text x="795.0" y="265.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#222">SHUNT</text>
+<text x="795.0" y="281.0" text-anchor="middle" font-size="12" fill="#222">(ARDS, Eisenmenger,</text>
+<text x="795.0" y="297.0" text-anchor="middle" font-size="12" fill="#222">tension PTX,</text>
+<text x="795.0" y="313.0" text-anchor="middle" font-size="12" fill="#222">AVM)</text>
+<rect x="40" y="280" width="300" height="46" rx="8" fill="#fafafa" stroke="#757575" stroke-width="1.5"/>
+<text x="190.0" y="300.0" text-anchor="middle" font-size="12" fill="#222">Type 1 but A–a NORMAL → low FiO₂</text>
+<text x="190.0" y="316.0" text-anchor="middle" font-size="12" fill="#222">(altitude, asphyxia)</text>
+<rect x="20" y="345" width="860" height="180" rx="8" fill="#f5f9ff" stroke="#2b6cb0"/>
+<text x="40" y="372" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">A–a gradient</tspan> = PAO₂ − PaO₂;  PAO₂ = FiO₂ × (760 − 47) − PaCO₂/0.8  (room air ≈ 150 − 1.25 × PaCO₂)</text>
+<text x="40" y="398" font-size="12.5" fill="#0b3d6b">Normal A–a ≈ (age/4) + 4 mmHg  (roughly &lt; 15–20 in the young)</text>
+<text x="40" y="424" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">Type 1</tspan>: PaO₂ &lt; 60, PaCO₂ normal/↓ → lung (oxygenation) failure → O₂ / HFNC</text>
+<text x="40" y="450" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">Type 2</tspan>: PaCO₂ &gt; 45–50 → pump (ventilation) failure → NIV / mechanical ventilation</text>
+<text x="40" y="476" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">Acute vs chronic Type 2</tspan>: acute → pH low, HCO₃⁻ normal;  chronic → pH near-normal, HCO₃⁻ ↑ (renal)</text>
+<text x="40" y="502" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">ARDS</tspan>: bilateral infiltrates + P/F ≤ 300 within 7 days, not cardiac → refractory shunt</text>
+</svg>

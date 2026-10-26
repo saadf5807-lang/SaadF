@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="470" fill="#fff"/>
+<text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">HOCM murmur: smaller LV cavity = louder (opposite of aortic stenosis)</text>
+<text x="450" y="50" text-anchor="middle" font-size="12.5" fill="#444">Rule: anything that ↓ preload or ↓ afterload shrinks the LV → septum and mitral leaflet (SAM) meet → more LVOT obstruction</text>
+<rect x="20" y="66" width="260" height="34" fill="#0b3d6b"/>
+<text x="150.0" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">Manoeuvre</text>
+<rect x="280" y="66" width="240" height="34" fill="#0b3d6b"/>
+<text x="400.0" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">Effect on LV volume</text>
+<rect x="520" y="66" width="190" height="34" fill="#0b3d6b"/>
+<text x="615.0" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">HOCM murmur</text>
+<rect x="710" y="66" width="170" height="34" fill="#0b3d6b"/>
+<text x="795.0" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">AS murmur</text>
+<rect x="20" y="100" width="260" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="150.0" y="125" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Valsalva (strain phase)</text>
+<rect x="280" y="100" width="240" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="400.0" y="125" text-anchor="middle" font-size="12.5" fill="#222">↓ preload</text>
+<rect x="520" y="100" width="190" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="615.0" y="125" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c62828">↑ LOUDER</text>
+<rect x="710" y="100" width="170" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="795.0" y="125" text-anchor="middle" font-size="12.5" fill="#2e7d32">↓ softer</text>
+<rect x="20" y="140" width="260" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="150.0" y="165" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Standing from squatting</text>
+<rect x="280" y="140" width="240" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="400.0" y="165" text-anchor="middle" font-size="12.5" fill="#222">↓ preload</text>
+<rect x="520" y="140" width="190" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="615.0" y="165" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c62828">↑ LOUDER</text>
+<rect x="710" y="140" width="170" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="795.0" y="165" text-anchor="middle" font-size="12.5" fill="#2e7d32">↓ softer</text>
+<rect x="20" y="180" width="260" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="150.0" y="205" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Nitrates / amyl nitrite, dehydration</text>
+<rect x="280" y="180" width="240" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="400.0" y="205" text-anchor="middle" font-size="12.5" fill="#222">↓ preload / ↓ afterload</text>
+<rect x="520" y="180" width="190" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="615.0" y="205" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c62828">↑ LOUDER</text>
+<rect x="710" y="180" width="170" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="795.0" y="205" text-anchor="middle" font-size="12.5" fill="#222">↑ (↓ afterload)</text>
+<rect x="20" y="220" width="260" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="150.0" y="245" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Squatting / passive leg raise</text>
+<rect x="280" y="220" width="240" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="400.0" y="245" text-anchor="middle" font-size="12.5" fill="#222">↑ preload (+ ↑ afterload)</text>
+<rect x="520" y="220" width="190" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="615.0" y="245" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2e7d32">↓ softer</text>
+<rect x="710" y="220" width="170" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="795.0" y="245" text-anchor="middle" font-size="12.5" fill="#222">↑ louder</text>
+<rect x="20" y="260" width="260" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="150.0" y="285" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Handgrip</text>
+<rect x="280" y="260" width="240" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="400.0" y="285" text-anchor="middle" font-size="12.5" fill="#222">↑ afterload</text>
+<rect x="520" y="260" width="190" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="615.0" y="285" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2e7d32">↓ softer</text>
+<rect x="710" y="260" width="170" height="40" fill="#f5f9ff" stroke="#cfd8dc"/>
+<text x="795.0" y="285" text-anchor="middle" font-size="12.5" fill="#2e7d32">↓ softer</text>
+<rect x="20" y="300" width="260" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="150.0" y="325" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">β-blocker (slows HR, ↑ filling)</text>
+<rect x="280" y="300" width="240" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="400.0" y="325" text-anchor="middle" font-size="12.5" fill="#222">↑ filling time</text>
+<rect x="520" y="300" width="190" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="615.0" y="325" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2e7d32">↓ softer</text>
+<rect x="710" y="300" width="170" height="40" fill="#ffffff" stroke="#cfd8dc"/>
+<text x="795.0" y="325" text-anchor="middle" font-size="12.5" fill="#222">—</text>
+<rect x="20" y="352" width="860" height="104" rx="8" fill="#fff8e1" stroke="#f57f17"/>
+<text x="34" y="376" font-size="12.5" fill="#5d4037"><tspan font-weight="bold">HOCM murmur</tspan>: harsh systolic crescendo–decrescendo at the left sternal edge, NO carotid radiation; + MR murmur (SAM)</text>
+<text x="34" y="399" font-size="12.5" fill="#5d4037"><tspan font-weight="bold">Avoid</tspan> in HOCM: nitrates, diuretics (↓ preload), digoxin/inotropes, vasodilators (dihydropyridines)</text>
+<text x="34" y="422" font-size="12.5" fill="#5d4037"><tspan font-weight="bold">Treat</tspan>: β-blocker → verapamil → disopyramide/mavacamten → myectomy or alcohol ablation; ICD if high risk</text>
+<text x="34" y="445" font-size="12.5" fill="#5d4037"><tspan font-weight="bold">Hypotension in HOCM</tspan>: fluids + phenylephrine (pure α), NOT inotropes · whole table [added]</text>
+</svg>

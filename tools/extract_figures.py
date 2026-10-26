@@ -154,6 +154,8 @@ LECTURES = {
         5: None, 6: None, 8: None, 15: None, 18: None, 20: None, 22: None, 27: None, 28: None, 32: None, 36: None, 37: None, 38: None, 54: None, 55: None, 63: None, 64: None, 65: None}),
     "sud": ("lectures/Psych_Substance_Use_Disorders.pdf", 0.13, {
         6: None, 8: None, 10: None, 14: None, 15: None, 17: None, 18: None, 24: None, 27: None, 29: None, 32: None, 36: None, 40: None, 51: None, 65: None, 69: None, 70: None, 71: None}),
+    "ptm": ("lectures/Psych_Psychotropic_Medication.pdf", 0.13, {
+        7: None, 8: None, 10: None, 14: None, 18: None, 19: None, 20: None, 23: None, 27: None, 36: None, 39: None, 42: None, 43: None, 44: None, 46: None, 48: None, 55: None, 56: None, 60: None, 62: None, 63: None, 64: None, 65: None}),
 }
 
 import sys

@@ -31,17 +31,17 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ Hyperparathyroidism (6879620) · ✅ Hypoparathyroidism (6874501) · ✅ Arrhythmia (6879824 2)
 - ⬜ **HIV/AIDS** (Alnabulsi, file 6870613)
 - ⬜ **Viral infections: cold, influenza, COVID, IM** (Alnabulsi, file 6870611)
-- ⬜ **Substance use disorders** (Khrad, file 6870344)
-- ⬜ **Psychotic disorders & schizophrenia** (Khrad, file 6870345)
-- ⬜ **Anxiety, OCD & stress-related disorders** (Khrad, file 6870343)
+- ✅ Substance use disorders (Khrad, file 6870344)
+- ✅ Psychotic disorders & schizophrenia (Khrad, file 6870345)
+- ✅ Anxiety, OCD & stress-related disorders (Khrad, file 6870343)
 - ✅ Personality disorders (Khrad, file 6891716)
 
 ## W6
 - ✅ Pituitary 9, 10, 11
-- ⬜ **History-taking (psychiatry)**
-- ⬜ **Mental status examination**
-- ⬜ **Mood disorders**
-- ⬜ **Psychotropic medication**
+- ✅ History-taking (psychiatry)
+- ✅ Mental status examination
+- ✅ Mood disorders (file 6870348)
+- ✅ Psychotropic medication
 - ⬜ **Healthcare-associated infections – C. difficile**
 - ⬜ **UTIs 2.0**
 - ⬜ **Sepsis 2.0** (also duplicated in W7)
@@ -52,4 +52,4 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 25 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 18 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

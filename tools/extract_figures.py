@@ -162,6 +162,8 @@ LECTURES = {
         6: None, 8: None, 9: None, 10: None, 11: None, 12: None, 13: None, 15: None, 16: None, 18: None, 19: None, 21: None, 22: None, 25: None, 26: None}),
     "rf": ("lectures/Kotb_Resp_Failure_ARDS.pdf", 0.16, {
         6: None, 8: None, 9: None, 10: None, 12: None, 13: None, 17: None, 18: None, 20: None, 21: None, 23: None, 24: None, 25: None, 26: None, 28: None, 29: None}),
+    "hf": ("lectures/Reihan_Heart_Failure.pdf", 0.09, {
+        10: None, 11: None, 12: None, 13: None, 14: None, 15: None, 16: None, 17: None, 20: None, 23: None, 24: None, 25: None, 26: None, 29: None, 30: None, 32: None, 33: None, 34: None, 35: None, 40: None}),
 }
 
 import sys

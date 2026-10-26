@@ -144,6 +144,8 @@ LECTURES = {
         6: None, 8: None, 9: None, 11: None, 15: None, 16: None, 17: None, 18: None, 19: None, 23: None, 24: None, 25: None, 26: None, 27: None, 28: None, 29: None, 30: None, 31: None, 36: None, 37: None, 38: None, 43: None, 48: None, 49: None, 50: None, 51: None, 52: None, 53: None}),
     "hx": ("lectures/Psych_History_Taking.pdf", 0.13, {
         9: None, 10: None, 14: None, 15: None, 16: None, 18: None, 27: None, 32: None, 33: None, 34: None}),
+    "mse": ("lectures/Psych_Mental_Status_Examination.pdf", 0.13, {
+        4: None, 8: None, 9: None, 14: None, 15: None, 19: None, 20: None, 23: None, 25: None, 28: None, 29: None, 32: None, 34: None}),
 }
 
 import sys

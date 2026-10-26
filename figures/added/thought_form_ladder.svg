@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="500" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Thought FORM: how far does the train of thought leave the track?</text>
+<text x="30" y="62" font-size="12" font-weight="bold" fill="#555">GOAL REACHED · LINKS CLEAR</text>
+<text x="870" y="62" text-anchor="end" font-size="12" font-weight="bold" fill="#555">NO GOAL · NO LINKS</text>
+<line x1="30" y1="72" x2="870" y2="72" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<rect x="30" y="88" width="160" height="170" rx="8" fill="#2e7d32" fill-opacity="0.15" stroke="#2e7d32" stroke-width="2"/>
+<text x="110" y="112" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Circumstantiality</text>
+<text x="110" y="150" text-anchor="middle" font-size="11.5" fill="#333">over-detailed, but</text>
+<text x="110" y="166" text-anchor="middle" font-size="11.5" fill="#333">REACHES the goal</text>
+<text x="110" y="222" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#2e7d32">→ OCD, epilepsy,</text>
+<text x="110" y="238" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#2e7d32">verbose normal</text>
+<rect x="200" y="118" width="160" height="170" rx="8" fill="#689f38" fill-opacity="0.15" stroke="#689f38" stroke-width="2"/>
+<text x="280" y="142" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Tangentiality</text>
+<text x="280" y="180" text-anchor="middle" font-size="11.5" fill="#333">veers off, NEVER</text>
+<text x="280" y="196" text-anchor="middle" font-size="11.5" fill="#333">returns</text>
+<text x="280" y="252" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#689f38">→ schizophrenia,</text>
+<text x="280" y="268" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#689f38">mania, organic</text>
+<rect x="370" y="148" width="160" height="170" rx="8" fill="#f9a825" fill-opacity="0.15" stroke="#f9a825" stroke-width="2"/>
+<text x="450" y="172" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Flight of ideas</text>
+<text x="450" y="210" text-anchor="middle" font-size="11.5" fill="#333">fast shifts, links</text>
+<text x="450" y="226" text-anchor="middle" font-size="11.5" fill="#333">still TRACEABLE (±</text>
+<text x="450" y="242" text-anchor="middle" font-size="11.5" fill="#333">clang)</text>
+<text x="450" y="282" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#f9a825">→ MANIA</text>
+<rect x="540" y="178" width="160" height="170" rx="8" fill="#ef6c00" fill-opacity="0.15" stroke="#ef6c00" stroke-width="2"/>
+<text x="620" y="202" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Loosening</text>
+<text x="620" y="218" text-anchor="middle" font-size="11" fill="#444">(derailment)</text>
+<text x="620" y="240" text-anchor="middle" font-size="11.5" fill="#333">jumps with little or</text>
+<text x="620" y="256" text-anchor="middle" font-size="11.5" fill="#333">NO logical link</text>
+<text x="620" y="312" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#ef6c00">→ SCHIZOPHRENIA</text>
+<rect x="710" y="208" width="160" height="170" rx="8" fill="#c62828" fill-opacity="0.15" stroke="#c62828" stroke-width="2"/>
+<text x="790" y="232" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Word salad</text>
+<text x="790" y="248" text-anchor="middle" font-size="11" fill="#444">(incoherence)</text>
+<text x="790" y="270" text-anchor="middle" font-size="11.5" fill="#333">jumbled words, no</text>
+<text x="790" y="286" text-anchor="middle" font-size="11.5" fill="#333">structure at all</text>
+<text x="790" y="342" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#c62828">→ severe</text>
+<text x="790" y="358" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#c62828">schizophrenia</text>
+<rect x="30" y="400" width="840" height="86" rx="8" fill="#e3f2fd" stroke="#2b6cb0"/>
+<text x="450" y="424" text-anchor="middle" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">Also:</tspan> clang = rhyme links (mania) · neologisms, thought blocking (schizophrenia)</text>
+<text x="450" y="446" text-anchor="middle" font-size="12.5" fill="#0b3d6b">perseveration (organic / frontal, dementia) · poverty of thought (depression; negative symptoms)</text>
+<text x="450" y="468" text-anchor="middle" font-size="12.5" fill="#0b3d6b"><tspan font-weight="bold">Rule:</tspan> RHYME + SPEED = mania · DISCONNECTION + INVENTED WORDS = schizophrenia · STUCK = organic</text>
+</svg>

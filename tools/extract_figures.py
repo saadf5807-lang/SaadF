@@ -158,6 +158,8 @@ LECTURES = {
         7: None, 8: None, 10: None, 14: None, 18: None, 19: None, 20: None, 23: None, 27: None, 36: None, 39: None, 42: None, 43: None, 44: None, 46: None, 48: None, 55: None, 56: None, 60: None, 62: None, 63: None, 64: None, 65: None}),
     "tb": ("lectures/Kotb_Tuberculosis.pdf", 0.16, {
         5: None, 6: None, 7: None, 11: None, 13: None, 14: None, 21: None, 23: None, 24: None, 26: None, 33: None}),
+    "sa": ("lectures/Kotb_Sleep_Apnea.pdf", 0.16, {
+        6: None, 8: None, 9: None, 10: None, 11: None, 12: None, 13: None, 15: None, 16: None, 18: None, 19: None, 21: None, 22: None, 25: None, 26: None}),
 }
 
 import sys

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="520" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">OSA: from a collapsing pharynx to a failing right heart</text>
+<rect x="300" y="45" width="300" height="46" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="1.5"/>
+<text x="450.0" y="65.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#222">Pharyngeal collapse in sleep</text>
+<text x="450.0" y="81.0" text-anchor="middle" font-size="12.5" fill="#222">(obesity, big tonsils, alcohol, supine)</text>
+<line x1="450" y1="91" x2="450" y2="113" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<rect x="300" y="115" width="300" height="40" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="1.5"/>
+<text x="450.0" y="140.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Apnoea / hypopnoea ≥ 10 s</text>
+<line x1="450" y1="155" x2="450" y2="177" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<rect x="300" y="179" width="300" height="40" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.5"/>
+<text x="450.0" y="204.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#222">↓ PaO₂  +  ↑ PaCO₂</text>
+<line x1="375" y1="219" x2="140" y2="262" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<line x1="450" y1="219" x2="450" y2="262" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<line x1="525" y1="219" x2="760" y2="262" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<rect x="20" y="264" width="240" height="56" rx="8" fill="#fce4ec" stroke="#ad1457" stroke-width="1.5"/>
+<text x="140.0" y="289.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Hypoxic pulmonary</text>
+<text x="140.0" y="305.0" text-anchor="middle" font-size="13" fill="#222">vasoconstriction</text>
+<rect x="330" y="264" width="240" height="56" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.5"/>
+<text x="450.0" y="289.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">↑ Sympathetic surges</text>
+<text x="450.0" y="305.0" text-anchor="middle" font-size="13" fill="#222">+ arousal from sleep</text>
+<rect x="640" y="264" width="240" height="56" rx="8" fill="#ede7f6" stroke="#5e35b1" stroke-width="1.5"/>
+<text x="760.0" y="289.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222">Respiratory acidosis</text>
+<text x="760.0" y="305.0" text-anchor="middle" font-size="13" fill="#222">(↑ CO₂)</text>
+<line x1="140" y1="320" x2="140" y2="348" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<line x1="450" y1="320" x2="450" y2="348" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<line x1="760" y1="320" x2="760" y2="348" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<rect x="20" y="350" width="240" height="64" rx="8" fill="#fce4ec" stroke="#ad1457" stroke-width="1.5"/>
+<text x="140.0" y="371.0" text-anchor="middle" font-size="12" fill="#222">Pulmonary HTN →</text>
+<text x="140.0" y="387.0" text-anchor="middle" font-size="12" fill="#222">COR PULMONALE</text>
+<text x="140.0" y="403.0" text-anchor="middle" font-size="12" fill="#222">(JVD, oedema, RAD on ECG)</text>
+<rect x="330" y="350" width="240" height="64" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.5"/>
+<text x="450.0" y="371.0" text-anchor="middle" font-size="12" fill="#222">Secondary HTN, arrhythmia,</text>
+<text x="450.0" y="387.0" text-anchor="middle" font-size="12" fill="#222">fragmented sleep → daytime</text>
+<text x="450.0" y="403.0" text-anchor="middle" font-size="12" fill="#222">sleepiness, headache</text>
+<rect x="640" y="350" width="240" height="64" rx="8" fill="#ede7f6" stroke="#5e35b1" stroke-width="1.5"/>
+<text x="760.0" y="371.0" text-anchor="middle" font-size="12" fill="#222">Renal compensation:</text>
+<text x="760.0" y="387.0" text-anchor="middle" font-size="12" fill="#222">↑ HCO₃⁻ retention</text>
+<text x="760.0" y="403.0" text-anchor="middle" font-size="12" fill="#222">(+ polycythaemia from hypoxia)</text>
+<rect x="20" y="432" width="860" height="74" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+<text x="450" y="456" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1b5e20">Treat: weight loss · no alcohol/sedatives · non-supine · CPAP (1st line) · oral appliance · UPPP · tracheostomy (last)</text>
+<text x="450" y="480" text-anchor="middle" font-size="12.5" fill="#1b5e20">Daytime ↑ PaCO₂ + BMI ≥ 30 = OHS (Pickwickian; ~90% also have OSA) → PAP/NIV + weight loss</text>
+<text x="450" y="499" text-anchor="middle" font-size="12.5" fill="#1b5e20">No respiratory EFFORT during the apnoea = CENTRAL apnoea (HF, stroke, opioids; Cheyne–Stokes)</text>
+</svg>

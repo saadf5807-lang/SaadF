@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="520" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" viewBox="0 0 10 10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<text x="450" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">Shock at the bedside: skin temperature + JVP/IVC sort the four types</text>
+<rect x="300" y="44" width="300" height="48" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="1.5"/>
+<text x="450.0" y="66" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#222">Hypotension + hypoperfusion</text>
+<text x="450.0" y="83" text-anchor="middle" font-size="12.5" fill="#222">(↑ lactate, oliguria, confusion)</text>
+<line x1="380" y1="92" x2="200" y2="132" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="140" y="116" font-size="12" font-weight="bold" fill="#c62828">COLD, clammy (↑ SVR)</text>
+<line x1="520" y1="92" x2="700" y2="132" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="610" y="116" font-size="12" font-weight="bold" fill="#c62828">WARM, flushed (↓ SVR)</text>
+<rect x="40" y="134" width="320" height="46" rx="8" fill="#eceff1" stroke="#546e7a" stroke-width="1.5"/>
+<text x="200.0" y="156" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#222">Low-output shock</text>
+<text x="200.0" y="173" text-anchor="middle" font-size="12.5" fill="#222">→ check JVP / IVC</text>
+<line x1="110" y1="180" x2="90" y2="212" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="40" y="200" font-size="12" font-weight="bold" fill="#c62828">JVP ↓</text>
+<line x1="290" y1="180" x2="310" y2="212" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+<text x="315" y="200" font-size="12" font-weight="bold" fill="#c62828">JVP ↑</text>
+<rect x="20" y="214" width="170" height="92" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.5"/>
+<text x="105.0" y="236" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#222">HYPOVOLAEMIC</text>
+<text x="105.0" y="253" text-anchor="middle" font-size="11.5" fill="#222">CO ↓ PCWP ↓ SVR ↑</text>
+<text x="105.0" y="270" text-anchor="middle" font-size="11.5" fill="#222">haemorrhage, GI,</text>
+<text x="105.0" y="287" text-anchor="middle" font-size="11.5" fill="#222">burns, 3rd space</text>
+<rect x="200" y="214" width="330" height="92" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.5"/>
+<text x="365.0" y="236" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#222">JVP ↑: CARDIOGENIC vs OBSTRUCTIVE</text>
+<text x="365.0" y="253" text-anchor="middle" font-size="11.5" fill="#222">Cardiogenic: CO ↓↓ PCWP ↑ (wet lungs)</text>
+<text x="365.0" y="270" text-anchor="middle" font-size="11.5" fill="#222">Obstructive: tamponade, tension PTX,</text>
+<text x="365.0" y="287" text-anchor="middle" font-size="11.5" fill="#222">massive PE (lungs often clear)</text>
+<rect x="560" y="134" width="320" height="172" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="720.0" y="156" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#222">DISTRIBUTIVE (CO ↑ early, SVR ↓↓)</text>
+<text x="720.0" y="173" text-anchor="middle" font-size="11.5" fill="#222">Septic: fever, source, warm early</text>
+<text x="720.0" y="190" text-anchor="middle" font-size="11.5" fill="#222">Anaphylactic: urticaria, wheeze,</text>
+<text x="720.0" y="207" text-anchor="middle" font-size="11.5" fill="#222">angio-oedema → IM adrenaline</text>
+<text x="720.0" y="224" text-anchor="middle" font-size="11.5" fill="#222">Neurogenic: BRADYCARDIA + warm,</text>
+<text x="720.0" y="241" text-anchor="middle" font-size="11.5" fill="#222">spinal cord injury / high spinal block</text>
+<text x="720.0" y="258" text-anchor="middle" font-size="11.5" fill="#222">→ fluids, vasopressor, atropine</text>
+<rect x="20" y="322" width="860" height="186" rx="8" fill="#f5f9ff" stroke="#2b6cb0"/>
+<text x="34" y="346" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Cardiogenic (MI commonest)</tspan>: revascularise · norepinephrine → + dobutamine/milrinone if hypoperfused · diuretic once SBP &gt; 90</text>
+<text x="34" y="370" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Cold–dry</tspan>: small fluid challenge (250–500 mL) if PCWP &lt; 15 → vasopressor → inotrope</text>
+<text x="34" y="394" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Cold–wet</tspan>: inotrope ± norepinephrine; NO fluids; MCS (IABP/Impella/VA-ECMO) if refractory</text>
+<text x="34" y="418" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Obstructive</tspan>: pericardiocentesis · needle decompression → chest drain · thrombolysis for massive PE</text>
+<text x="34" y="442" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Hypovolaemic</tspan>: stop bleeding, blood products (1:1:1), crystalloid for non-haemorrhagic loss</text>
+<text x="34" y="466" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">Refractory shock</tspan>: hydrocortisone · bicarbonate (severe acidosis) · mechanical circulatory support / ECMO</text>
+<text x="34" y="490" font-size="12" fill="#0b3d6b"><tspan font-weight="bold">MAP target ≥ 65 mmHg</tspan>; lactate trend; urine output ≥ 0.5 mL/kg/h  [targets added]</text>
+</svg>

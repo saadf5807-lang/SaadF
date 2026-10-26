@@ -47,9 +47,9 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ⬜ **Sepsis 2.0** (also duplicated in W7)
 
 ## W7
-- ⬜ **Reihan heart failure**
+- ✅ Reihan heart failure · ✅ Reihan cardiomyopathies · ✅ Reihan cardiogenic shock (extra, not on the original list)
 - ✅ 12 – Adrenal physiology & Cushing syndrome
 - ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 15 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 14 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

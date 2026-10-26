@@ -34,7 +34,7 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ⬜ **Substance use disorders** (Khrad, file 6870344)
 - ⬜ **Psychotic disorders & schizophrenia** (Khrad, file 6870345)
 - ⬜ **Anxiety, OCD & stress-related disorders** (Khrad, file 6870343)
-- ⬜ **Personality disorders** (Khrad, file 6891716)
+- ✅ Personality disorders (Khrad, file 6891716)
 
 ## W6
 - ✅ Pituitary 9, 10, 11
@@ -52,4 +52,4 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
-**Total missing: 26 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.
+**Total missing: 25 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

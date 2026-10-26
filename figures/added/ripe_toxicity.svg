@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="900" height="470" fill="#fff"/>
+<text x="450" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#0b3d6b">RIPE: one signature toxicity per drug</text>
+<text x="450" y="52" text-anchor="middle" font-size="12" fill="#444">2 months RIPE (intensive) → 4 months RI (continuation) · DOT · restart if interrupted ≥ 14 days in intensive phase</text>
+<rect x="20" y="70" width="205" height="300" rx="10" fill="#c62828" fill-opacity="0.08" stroke="#c62828" stroke-width="2"/>
+<circle cx="122.5" cy="110" r="28" fill="#c62828"/>
+<text x="122.5" y="121" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">R</text>
+<text x="122.5" y="164" text-anchor="middle" font-size="15" font-weight="bold" fill="#c62828">Rifampicin</text>
+<text x="32" y="196" font-size="12.5" fill="#222">• Orange urine/tears</text>
+<text x="32" y="226" font-size="12.5" fill="#222">• Hepatitis</text>
+<text x="32" y="256" font-size="12.5" fill="#222">• CYP INDUCER: OCP,</text>
+<text x="32" y="286" font-size="12.5" fill="#222">  warfarin, ARVs fail</text>
+<text x="32" y="316" font-size="12.5" fill="#222">• Flu-like / thrombocytopenia</text>
+<rect x="238" y="70" width="205" height="300" rx="10" fill="#1565c0" fill-opacity="0.08" stroke="#1565c0" stroke-width="2"/>
+<circle cx="340.5" cy="110" r="28" fill="#1565c0"/>
+<text x="340.5" y="121" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">I</text>
+<text x="340.5" y="164" text-anchor="middle" font-size="15" font-weight="bold" fill="#1565c0">Isoniazid</text>
+<text x="250" y="196" font-size="12.5" fill="#222">• Neuropathy (↓ B6)</text>
+<text x="250" y="226" font-size="12.5" fill="#222">  → give PYRIDOXINE</text>
+<text x="250" y="256" font-size="12.5" fill="#222">• Hepatitis (age, alcohol)</text>
+<text x="250" y="286" font-size="12.5" fill="#222">• Drug-induced lupus</text>
+<text x="250" y="316" font-size="12.5" fill="#222">• CYP inhibitor (↑ phenytoin)</text>
+<rect x="456" y="70" width="205" height="300" rx="10" fill="#6a1b9a" fill-opacity="0.08" stroke="#6a1b9a" stroke-width="2"/>
+<circle cx="558.5" cy="110" r="28" fill="#6a1b9a"/>
+<text x="558.5" y="121" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">P</text>
+<text x="558.5" y="164" text-anchor="middle" font-size="15" font-weight="bold" fill="#6a1b9a">Pyrazinamide</text>
+<text x="468" y="196" font-size="12.5" fill="#222">• HEPATOTOXIC (most)</text>
+<text x="468" y="226" font-size="12.5" fill="#222">• Hyperuricaemia → GOUT</text>
+<text x="468" y="256" font-size="12.5" fill="#222">• Arthralgia</text>
+<text x="468" y="286" font-size="12.5" fill="#222">• Photosensitive rash</text>
+<rect x="674" y="70" width="205" height="300" rx="10" fill="#2e7d32" fill-opacity="0.08" stroke="#2e7d32" stroke-width="2"/>
+<circle cx="776.5" cy="110" r="28" fill="#2e7d32"/>
+<text x="776.5" y="121" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">E</text>
+<text x="776.5" y="164" text-anchor="middle" font-size="15" font-weight="bold" fill="#2e7d32">Ethambutol</text>
+<text x="686" y="196" font-size="12.5" fill="#222">• Optic neuritis</text>
+<text x="686" y="226" font-size="12.5" fill="#222">  ↓ acuity, RED-GREEN</text>
+<text x="686" y="256" font-size="12.5" fill="#222">  colour blindness</text>
+<text x="686" y="286" font-size="12.5" fill="#222">• Baseline + monthly vision;</text>
+<text x="686" y="316" font-size="12.5" fill="#222">  dose by renal function</text>
+<rect x="20" y="385" width="860" height="70" rx="8" fill="#fff8e1" stroke="#f57f17"/>
+<text x="450" y="410" text-anchor="middle" font-size="13" fill="#5d4037"><tspan font-weight="bold">Hepatotoxic: P &gt; I &gt; R</tspan> (E is not) → baseline and follow-up LFTs; stop if ALT &gt; 3× ULN with symptoms or &gt; 5× without</text>
+<text x="450" y="436" text-anchor="middle" font-size="13" fill="#5d4037">Mnemonic: <tspan font-weight="bold">R</tspan>ed body fluids · <tspan font-weight="bold">I</tspan>njures nerves · <tspan font-weight="bold">P</tspan>odagra (gout) · <tspan font-weight="bold">E</tspan>yes</text>
+</svg>

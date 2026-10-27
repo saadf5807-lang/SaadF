@@ -3,7 +3,7 @@ Usage: python3 tools/build_pdf.py   (requires: pip install markdown)"""
 import glob, os, re, subprocess, sys, markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium-1243/chrome-linux64/chrome")
 
 CSS = """
 @page { size: A4; margin: 14mm 12mm 16mm 12mm; }

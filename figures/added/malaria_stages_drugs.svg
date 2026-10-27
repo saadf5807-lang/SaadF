@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" font-family="Arial, Helvetica, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#44546a"/></marker></defs>
+<rect width="880" height="520" fill="#ffffff"/>
+<text x="440" y="30" font-size="19" text-anchor="middle" fill="#1b2733" font-weight="bold">Malaria: where each drug acts, and why symptoms come back</text>
+<rect x="20" y="70" width="170" height="90" rx="10" fill="#eef3f8" stroke="#44546a" stroke-width="2"/>
+<text x="105" y="100" font-size="15" text-anchor="middle" fill="#1b2733" font-weight="bold">Anopheles bite</text>
+<text x="105" y="122" font-size="14" text-anchor="middle" fill="#1b2733">(female) injects</text>
+<text x="105" y="142" font-size="14" text-anchor="middle" fill="#1b2733">sporozoites</text>
+<rect x="250" y="60" width="250" height="200" rx="10" fill="#fdf3e3" stroke="#c98a1b" stroke-width="2"/>
+<text x="375" y="88" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">LIVER STAGE</text>
+<text x="375" y="110" font-size="14" text-anchor="middle" fill="#1b2733">sporozoites → hepatic schizont</text>
+<text x="375" y="130" font-size="14" text-anchor="middle" fill="#1b2733">→ merozoites (silent, no fever)</text>
+<rect x="268" y="150" width="214" height="95" rx="10" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+<text x="375" y="172" font-size="14" text-anchor="middle" fill="#c0392b" font-weight="bold">HYPNOZOITES (dormant)</text>
+<text x="375" y="193" font-size="14" text-anchor="middle" fill="#1b2733">P. vivax + P. ovale ONLY</text>
+<text x="375" y="213" font-size="14" text-anchor="middle" fill="#1b2733">reactivate months later</text>
+<text x="375" y="233" font-size="14" text-anchor="middle" fill="#c0392b" font-weight="bold">= RELAPSE</text>
+<rect x="560" y="60" width="300" height="200" rx="10" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<text x="710" y="88" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">BLOOD STAGE</text>
+<text x="710" y="110" font-size="14" text-anchor="middle" fill="#1b2733">merozoites → RBC → ring → trophozoite</text>
+<text x="710" y="130" font-size="14" text-anchor="middle" fill="#1b2733">→ RBC schizont → RBC rupture</text>
+<text x="710" y="155" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">cyclical fever + haemolysis</text>
+<text x="710" y="178" font-size="14" text-anchor="middle" fill="#1b2733">48 h vivax/ovale/falciparum*</text>
+<text x="710" y="198" font-size="14" text-anchor="middle" fill="#1b2733">72 h malariae · 24 h knowlesi</text>
+<text x="710" y="222" font-size="14" text-anchor="middle" fill="#1b2733">falciparum: cytoadherence →</text>
+<text x="710" y="242" font-size="14" text-anchor="middle" fill="#1b2733">severe / cerebral malaria</text>
+<rect x="560" y="290" width="300" height="70" rx="10" fill="#eef3f8" stroke="#44546a" stroke-width="2"/>
+<text x="710" y="318" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Gametocytes (falciparum: crescents)</text>
+<text x="710" y="340" font-size="14" text-anchor="middle" fill="#1b2733">→ taken up by next mosquito</text>
+<line x1="190" y1="115" x2="248" y2="115" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<line x1="500" y1="110" x2="558" y2="110" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<line x1="710" y1="260" x2="710" y2="288" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M482,200 C530,200 530,150 558,150" fill="none" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#a)"/>
+<rect x="250" y="290" width="250" height="110" rx="10" fill="#e9f7ef" stroke="#1e8449" stroke-width="2"/>
+<text x="375" y="315" font-size="14" text-anchor="middle" fill="#1e8449" font-weight="bold">Kill hypnozoites (radical cure)</text>
+<text x="375" y="338" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">PRIMAQUINE / tafenoquine</text>
+<text x="375" y="360" font-size="14" text-anchor="middle" fill="#1b2733">⚠ check G6PD first</text>
+<text x="375" y="382" font-size="14" text-anchor="middle" fill="#1b2733">(haemolysis if deficient)</text>
+<rect x="560" y="380" width="300" height="120" rx="10" fill="#e9f7ef" stroke="#1e8449" stroke-width="2"/>
+<text x="710" y="405" font-size="14" text-anchor="middle" fill="#1e8449" font-weight="bold">Kill blood stage</text>
+<text x="710" y="428" font-size="14" text-anchor="middle" fill="#1b2733">vivax/ovale/malariae: chloroquine</text>
+<text x="710" y="450" font-size="14" text-anchor="middle" fill="#1b2733">falciparum: assume CQ-resistant</text>
+<text x="710" y="472" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">severe: IV ARTESUNATE</text>
+<text x="710" y="492" font-size="14" text-anchor="middle" fill="#1b2733">repeat smear at 48 h (>75% ↓)</text>
+<rect x="20" y="420" width="480" height="85" rx="10" fill="#f7f7f7" stroke="#888" stroke-width="2"/>
+<text x="30" y="445" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">Relapse = hypnozoites (vivax/ovale), no new travel</text>
+<text x="30" y="467" font-size="13" text-anchor="start" fill="#1b2733">Recrudescence = surviving blood stage (inadequate Rx / resistance)</text>
+<text x="30" y="489" font-size="13" text-anchor="start" fill="#1b2733">Reinfection = new bite, new exposure</text>
+<text x="20" y="200" font-size="12" text-anchor="start" fill="#666">*falciparum: irregular</text>
+<text x="20" y="218" font-size="12" text-anchor="start" fill="#666">per slide 14</text>
+</svg>

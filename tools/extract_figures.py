@@ -168,6 +168,11 @@ LECTURES = {
         6: None, 7: None, 8: None, 10: None, 12: None, 14: None, 15: None, 17: None, 19: None, 20: None, 24: None, 25: None}),
     "cs": ("lectures/Reihan_Cardiogenic_Shock.pdf", 0.09, {
         8: None, 9: None, 13: None, 15: None, 21: None, 22: None, 26: None}),
+    "fuo": ("lectures/ID_FUO_Travel_Medicine_1.pdf", 0.23, {
+        7: None, 8: None, 10: None, 11: None, 14: None, 15: (.38, .23, 1, 1),
+        18: None, 19: None, 21: None, 26: None, 27: None, 28: None, 39: (.66, .655, .98, 1)}),
+    "tm2": ("lectures/ID_Travel_Medicine_2.pdf", 0.23, {
+        6: None, 8: None, 10: None, 19: None, 21: None, 25: None, 31: None}),
 }
 
 import sys

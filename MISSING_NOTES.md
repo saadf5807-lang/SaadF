@@ -52,4 +52,7 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ 13 – Adrenal insufficiency, CAH, pheochromocytoma
 - ⬜ **Neutropenic fever 2.0**
 
+## Extras (not on the original list)
+- ✅ FUO & Travel medicine Pt 1 (Alnabulsi) · ✅ Travel medicine Pt 2 (Alnabulsi)
+
 **Total missing: 14 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" font-family="Arial, Helvetica, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#44546a"/></marker></defs>
+<rect width="880" height="500" fill="#fff"/>
+<text x="440" y="30" font-size="19" text-anchor="middle" fill="#1b2733" font-weight="bold">B12 vs folate: why MMA separates them</text>
+<rect x="20" y="55" width="520" height="270" rx="10" fill="#eef3f8" stroke="#44546a" stroke-width="2"/>
+<text x="280" y="80" font-size="15" text-anchor="middle" fill="#1b2733" font-weight="bold">Reaction 1 — methionine synthase (needs BOTH)</text>
+<rect x="40" y="100" width="190" height="50" rx="10" fill="#fff" stroke="#2e86c1" stroke-width="2"/>
+<text x="135" y="130" font-size="14" text-anchor="middle" fill="#2e86c1" font-weight="bold">5-methyl-THF (folate)</text>
+<rect x="330" y="100" width="190" height="50" rx="10" fill="#fff" stroke="#2e86c1" stroke-width="2"/>
+<text x="425" y="130" font-size="14" text-anchor="middle" fill="#2e86c1" font-weight="bold">THF → DNA (thymidine)</text>
+<line x1="230" y1="125" x2="328" y2="125" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="280" y="117" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">B12</text>
+<rect x="40" y="200" width="190" height="50" rx="10" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+<text x="135" y="230" font-size="15" text-anchor="middle" fill="#c0392b" font-weight="bold">Homocysteine</text>
+<rect x="330" y="200" width="190" height="50" rx="10" fill="#fff" stroke="#1e8449" stroke-width="2"/>
+<text x="425" y="230" font-size="15" text-anchor="middle" fill="#1e8449" font-weight="bold">Methionine</text>
+<line x1="230" y1="225" x2="328" y2="225" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="280" y="217" font-size="12" text-anchor="middle" fill="#1b2733">CH₃ from folate</text>
+<text x="280" y="280" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">No B12 → folate trapped as methyl-THF ("folate trap")</text>
+<text x="280" y="302" font-size="13" text-anchor="middle" fill="#1b2733">→ ↓ DNA synthesis → megaloblasts in BOTH deficiencies</text>
+<rect x="560" y="55" width="300" height="270" rx="10" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<text x="710" y="80" font-size="15" text-anchor="middle" fill="#1b2733" font-weight="bold">Reaction 2 — B12 ONLY</text>
+<rect x="590" y="110" width="240" height="50" rx="10" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+<text x="710" y="140" font-size="15" text-anchor="middle" fill="#c0392b" font-weight="bold">Methylmalonyl-CoA</text>
+<rect x="590" y="210" width="240" height="50" rx="10" fill="#fff" stroke="#1e8449" stroke-width="2"/>
+<text x="710" y="240" font-size="15" text-anchor="middle" fill="#1e8449" font-weight="bold">Succinyl-CoA</text>
+<line x1="710" y1="160" x2="710" y2="208" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="725" y="190" font-size="13" text-anchor="start" fill="#c0392b" font-weight="bold">B12 (mutase)</text>
+<text x="710" y="285" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Blocked → ↑ MMA + abnormal</text>
+<text x="710" y="305" font-size="13" text-anchor="middle" fill="#1b2733">fatty acids in myelin → SCD [added]</text>
+<rect x="20" y="345" width="840" height="140" rx="10" fill="#fff" stroke="#7d3c98" stroke-width="2"/>
+<text x="170" y="372" font-size="14" text-anchor="middle" fill="#1b2733"></text>
+<text x="330" y="372" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Homocysteine</text>
+<text x="520" y="372" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">MMA</text>
+<text x="710" y="372" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Neurology (SCD)</text>
+<text x="40" y="402" font-size="14" text-anchor="start" fill="#c0392b" font-weight="bold">B12 deficiency</text>
+<text x="330" y="402" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">↑</text>
+<text x="520" y="402" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">↑</text>
+<text x="710" y="402" font-size="14" text-anchor="middle" fill="#c0392b" font-weight="bold">YES</text>
+<text x="40" y="432" font-size="14" text-anchor="start" fill="#2e86c1" font-weight="bold">Folate deficiency</text>
+<text x="330" y="432" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">↑</text>
+<text x="520" y="432" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Normal</text>
+<text x="710" y="432" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">No</text>
+<text x="440" y="470" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">Folic acid alone in B12 deficiency: blood picture improves, nerves keep degenerating (slide 18) — give B12 first</text>
+</svg>

@@ -173,6 +173,12 @@ LECTURES = {
         18: None, 19: None, 21: None, 26: None, 27: None, 28: None, 39: (.66, .655, .98, 1)}),
     "tm2": ("lectures/ID_Travel_Medicine_2.pdf", 0.23, {
         6: None, 8: None, 10: None, 19: None, 21: None, 25: None, 31: None}),
+    "cbc": ("lectures/Heme_1_Hematopoiesis_CBC_IDA.pdf", 0.11, {
+        5: None, 6: None, 8: None, 10: None, 11: None, 15: None, 16: None, 18: None, 19: None,
+        20: None, 22: None, 28: None, 31: None, 36: None, 37: None, 40: None, 42: None}),
+    "meg": ("lectures/Heme_2_Megaloblastic_Aplastic_Hemoglobinopathies.pdf", 0.11, {
+        7: None, 11: None, 12: None, 13: None, 15: None, 23: None, 26: None, 29: None, 30: None,
+        34: None, 36: None, 37: None, 38: None, 40: None}),
 }
 
 import sys

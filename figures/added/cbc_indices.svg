@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 470" font-family="Arial, Helvetica, sans-serif">
+<rect width="880" height="470" fill="#fff"/>
+<text x="440" y="30" font-size="19" text-anchor="middle" fill="#1b2733" font-weight="bold">Red-cell indices: three measured values → three calculated ones</text>
+<rect x="20" y="50" width="840" height="70" rx="10" fill="#eef3f8" stroke="#44546a" stroke-width="2"/>
+<text x="440" y="76" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">MEASURED (worked example, normal adult man)</text>
+<text x="150" y="103" font-size="15" text-anchor="middle" fill="#c0392b" font-weight="bold">Hb = 15 g/dL</text>
+<text x="440" y="103" font-size="15" text-anchor="middle" fill="#2e86c1" font-weight="bold">Hct (PCV) = 45 %</text>
+<text x="730" y="103" font-size="15" text-anchor="middle" fill="#1e8449" font-weight="bold">RBC = 5 × 10⁶/mm³</text>
+<rect x="20" y="140" width="270" height="200" rx="10" fill="#fff" stroke="#7d3c98" stroke-width="2"/>
+<text x="155" y="170" font-size="20" text-anchor="middle" fill="#7d3c98" font-weight="bold">MCV</text>
+<text x="155" y="192" font-size="13" text-anchor="middle" fill="#1b2733">(size)</text>
+<text x="155" y="228" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">Hct ÷ RBC × 10</text>
+<text x="155" y="258" font-size="15" text-anchor="middle" fill="#1b2733">45 ÷ 5 × 10 = 90 fL</text>
+<text x="155" y="288" font-size="13" text-anchor="middle" fill="#555">slide: 78–98 fL</text>
+<text x="155" y="318" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">&lt;78–80 microcytic · &gt;100 macrocytic</text>
+<rect x="305" y="140" width="270" height="200" rx="10" fill="#fff" stroke="#7d3c98" stroke-width="2"/>
+<text x="440" y="170" font-size="20" text-anchor="middle" fill="#7d3c98" font-weight="bold">MCH</text>
+<text x="440" y="192" font-size="13" text-anchor="middle" fill="#1b2733">(Hb per cell)</text>
+<text x="440" y="228" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">Hb ÷ RBC × 10</text>
+<text x="440" y="258" font-size="15" text-anchor="middle" fill="#1b2733">15 ÷ 5 × 10 = 30 pg</text>
+<text x="440" y="288" font-size="13" text-anchor="middle" fill="#555">slide: ~30 pg</text>
+<text x="440" y="318" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">↓ = hypochromic (tracks MCV)</text>
+<rect x="590" y="140" width="270" height="200" rx="10" fill="#fff" stroke="#7d3c98" stroke-width="2"/>
+<text x="725" y="170" font-size="20" text-anchor="middle" fill="#7d3c98" font-weight="bold">MCHC</text>
+<text x="725" y="192" font-size="13" text-anchor="middle" fill="#1b2733">(Hb concentration)</text>
+<text x="725" y="228" font-size="16" text-anchor="middle" fill="#1b2733" font-weight="bold">Hb ÷ Hct × 100</text>
+<text x="725" y="258" font-size="15" text-anchor="middle" fill="#1b2733">15 ÷ 45 × 100 = 33 %</text>
+<text x="725" y="288" font-size="13" text-anchor="middle" fill="#555">slide: 32–36 %</text>
+<text x="725" y="318" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">↑ only in spherocytosis</text>
+<rect x="20" y="360" width="840" height="95" rx="10" fill="#fdf3e3" stroke="#c98a1b" stroke-width="2"/>
+<text x="40" y="385" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">Rule of 3 (quick check): Hb × 3 ≈ Hct, RBC × 3 ≈ Hb — breaks when cells are micro/macrocytic [added]</text>
+<text x="40" y="410" font-size="13" text-anchor="start" fill="#1b2733">MCHC is the most stable index: it barely moves in IDA early on and is HIGH only in hereditary spherocytosis [added]</text>
+<text x="40" y="435" font-size="13" text-anchor="start" fill="#1b2733">RDW ↑ = anisocytosis → IDA, mixed deficiency; RDW normal + microcytosis → thalassaemia trait [added]</text>
+</svg>

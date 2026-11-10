@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 600" font-family="Arial, Helvetica, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#44546a"/></marker></defs>
+<rect width="880" height="600" fill="#fff"/>
+<text x="440" y="28" font-size="18" text-anchor="middle" fill="#1b2733" font-weight="bold">Heartburn → GERD → Barrett: the decision path (slides 14–20)</text>
+<rect x="290" y="45" width="300" height="46" rx="10" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<text x="440" y="66" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Chest pain / heartburn</text>
+<text x="440" y="84" font-size="12" text-anchor="middle" fill="#c0392b" font-weight="bold">FIRST rule out ACS</text>
+<line x1="440" y1="91" x2="440" y2="113" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="290" y="115" width="300" height="40" rx="10" fill="#eef3f8" stroke="#44546a" stroke-width="2"/>
+<text x="440" y="140" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Red flags or Barrett risk factors?</text>
+<line x1="290" y1="135" x2="200" y2="135" stroke="#44546a" stroke-width="2.5"/><line x1="200" y1="135" x2="200" y2="168" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="245" y="128" font-size="12" text-anchor="middle" fill="#1b2733" font-weight="bold">NO</text>
+<line x1="590" y1="135" x2="680" y2="135" stroke="#44546a" stroke-width="2.5"/><line x1="680" y1="135" x2="680" y2="168" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="635" y="128" font-size="12" text-anchor="middle" fill="#c0392b" font-weight="bold">YES</text>
+<rect x="40" y="170" width="320" height="112" rx="10" fill="#e9f7ef" stroke="#1e8449" stroke-width="2"/>
+<text x="200" y="192" font-size="14" text-anchor="middle" fill="#1e8449" font-weight="bold">Empiric once-daily PPI × 8 weeks</text>
+<text x="200" y="214" font-size="13" text-anchor="middle" fill="#1b2733">+ lifestyle: weight loss, elevate bed head,</text>
+<text x="200" y="232" font-size="13" text-anchor="middle" fill="#1b2733">stop tobacco / alcohol / caffeine</text>
+<text x="200" y="254" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Relief → GERD likely</text>
+<text x="200" y="272" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">No relief → EGD</text>
+<rect x="520" y="170" width="320" height="112" rx="10" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<text x="680" y="192" font-size="14" text-anchor="middle" fill="#c0392b" font-weight="bold">EGD BEFORE treatment</text>
+<text x="680" y="214" font-size="13" text-anchor="middle" fill="#1b2733">Red flags: dysphagia, odynophagia, anaemia/</text>
+<text x="680" y="232" font-size="13" text-anchor="middle" fill="#1b2733">GI bleed, weight loss, vomiting</text>
+<text x="680" y="254" font-size="13" text-anchor="middle" fill="#1b2733">or &gt; 1 Barrett risk: male, White, ≥ 50,</text>
+<text x="680" y="272" font-size="13" text-anchor="middle" fill="#1b2733">obesity, symptoms ≥ 5 y</text>
+<line x1="360" y1="262" x2="518" y2="262" stroke="#44546a" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a)"/>
+<line x1="680" y1="282" x2="680" y2="308" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="290" y="310" width="550" height="44" rx="10" fill="#fdf3e3" stroke="#c98a1b" stroke-width="2"/>
+<text x="565" y="330" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Salmon-coloured mucosa → 4-quadrant biopsies every 2 cm</text>
+<text x="565" y="347" font-size="12" text-anchor="middle" fill="#1b2733">Columnar epithelium + goblet cells = Barrett (intestinal metaplasia)</text>
+<line x1="565" y1="354" x2="565" y2="374" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<line x1="160" y1="374" x2="700" y2="374" stroke="#44546a" stroke-width="2.5"/>
+<line x1="170" y1="374" x2="170" y2="392" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="40" y="394" width="260" height="110" rx="10" fill="#e9f7ef" stroke="#1e8449" stroke-width="2"/>
+<text x="170" y="418" font-size="15" text-anchor="middle" fill="#1e8449" font-weight="bold">No dysplasia</text>
+<text x="170" y="444" font-size="13" text-anchor="middle" fill="#1b2733">PPI</text>
+<text x="170" y="466" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Surveillance EGD</text>
+<text x="170" y="488" font-size="13" text-anchor="middle" fill="#1b2733">every 3–5 y [added]</text>
+<line x1="440" y1="374" x2="440" y2="392" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="310" y="394" width="260" height="110" rx="10" fill="#fdf3e3" stroke="#c98a1b" stroke-width="2"/>
+<text x="440" y="418" font-size="15" text-anchor="middle" fill="#c98a1b" font-weight="bold">Low-grade dysplasia</text>
+<text x="440" y="444" font-size="13" text-anchor="middle" fill="#1b2733">0.7 %/year → cancer</text>
+<text x="440" y="466" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Endoscopic eradication (RFA)</text>
+<text x="440" y="488" font-size="13" text-anchor="middle" fill="#1b2733">or EGD every 12 months</text>
+<line x1="710" y1="374" x2="710" y2="392" stroke="#44546a" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="580" y="394" width="260" height="110" rx="10" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<text x="710" y="418" font-size="15" text-anchor="middle" fill="#c0392b" font-weight="bold">High-grade dysplasia</text>
+<text x="710" y="444" font-size="13" text-anchor="middle" fill="#1b2733">7 %/year → cancer</text>
+<text x="710" y="466" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Endoscopic mucosal resection</text>
+<text x="710" y="488" font-size="13" text-anchor="middle" fill="#1b2733">± radiofrequency ablation</text>
+<rect x="40" y="520" width="800" height="64" rx="10" fill="#f7f7f7" stroke="#888" stroke-width="2"/>
+<text x="440" y="544" font-size="13" text-anchor="middle" fill="#1b2733" font-weight="bold">Surgery (Nissen fundoplication): severe oesophagitis, strictures, recurrent aspiration</text>
+<text x="440" y="566" font-size="12" text-anchor="middle" fill="#1b2733">Obese + reflux needing bariatric surgery → Roux-en-Y gastric bypass (sleeve gastrectomy worsens reflux) [added]</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 560" font-family="Arial, Helvetica, sans-serif">
+<rect width="880" height="560" fill="#fff"/>
+<text x="440" y="28" font-size="18" text-anchor="middle" fill="#1b2733" font-weight="bold">Primary skin lesions: describe by FEEL, CONTENT, then SIZE [added]</text>
+<text x="270" y="58" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">&lt; 1 cm</text>
+<text x="500" y="58" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">≥ 1 cm</text>
+<text x="730" y="58" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Example</text>
+<rect x="20" y="72" width="840" height="52" rx="10" fill="#fdf3e3" stroke="#999" stroke-width="2"/>
+<text x="30" y="103" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">FLAT (not palpable)</text>
+<text x="270" y="103" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Macule</text>
+<text x="500" y="103" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Patch</text>
+<text x="730" y="103" font-size="12" text-anchor="middle" fill="#1b2733">Vitiligo, freckle, café-au-lait</text>
+<rect x="20" y="132" width="840" height="52" rx="10" fill="#eef3f8" stroke="#999" stroke-width="2"/>
+<text x="30" y="163" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">RAISED, solid</text>
+<text x="270" y="163" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Papule</text>
+<text x="500" y="163" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Plaque</text>
+<text x="730" y="163" font-size="12" text-anchor="middle" fill="#1b2733">Psoriasis plaque, lichen planus papule</text>
+<rect x="20" y="192" width="840" height="52" rx="10" fill="#eef3f8" stroke="#999" stroke-width="2"/>
+<text x="30" y="223" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">DEEP, solid</text>
+<text x="270" y="223" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Nodule (≥ 0.5–1 cm, deep)</text>
+<text x="500" y="223" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Tumour (large)</text>
+<text x="730" y="223" font-size="12" text-anchor="middle" fill="#1b2733">Nodular melanoma, erythema nodosum</text>
+<rect x="20" y="252" width="840" height="52" rx="10" fill="#e9f7ef" stroke="#999" stroke-width="2"/>
+<text x="30" y="283" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">FLUID: clear</text>
+<text x="270" y="283" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Vesicle</text>
+<text x="500" y="283" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Bulla</text>
+<text x="730" y="283" font-size="12" text-anchor="middle" fill="#1b2733">HSV/VZV vesicle; pemphigoid bulla</text>
+<rect x="20" y="312" width="840" height="52" rx="10" fill="#fdecea" stroke="#999" stroke-width="2"/>
+<text x="30" y="343" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">FLUID: pus</text>
+<text x="270" y="343" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Pustule</text>
+<text x="500" y="343" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Abscess (deep)</text>
+<text x="730" y="343" font-size="12" text-anchor="middle" fill="#1b2733">Folliculitis, acne, pustular psoriasis</text>
+<rect x="20" y="372" width="840" height="52" rx="10" fill="#f4ecf7" stroke="#999" stroke-width="2"/>
+<text x="30" y="403" font-size="13" text-anchor="start" fill="#1b2733" font-weight="bold">TRANSIENT, oedematous</text>
+<text x="300" y="403" font-size="14" text-anchor="middle" fill="#7d3c98" font-weight="bold">Wheal (any size, &lt; 24 h)</text>
+<text x="730" y="403" font-size="12" text-anchor="middle" fill="#1b2733">Urticaria, dermatographism</text>
+<rect x="20" y="437" width="840" height="118" rx="10" fill="#fff" stroke="#c98a1b" stroke-width="2"/>
+<text x="440" y="460" font-size="14" text-anchor="middle" fill="#1b2733" font-weight="bold">Secondary lesions (evolve from primary or are caused by scratching/healing)</text>
+<text x="40" y="484" font-size="12" text-anchor="start" fill="#1b2733">Scale (psoriasis, tinea) · Crust (dried exudate — impetigo) · Erosion (loss of epidermis, heals without scar)</text>
+<text x="40" y="506" font-size="12" text-anchor="start" fill="#1b2733">Ulcer (into dermis, heals with scar) · Fissure · Excoriation (scratch) · Lichenification (chronic rubbing — eczema)</text>
+<text x="40" y="528" font-size="12" text-anchor="start" fill="#1b2733" font-weight="bold">Atrophy · Scar · Then add: COLOUR, SHAPE (annular, target), ARRANGEMENT (grouped, linear), DISTRIBUTION (slide 21)</text>
+</svg>

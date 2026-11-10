@@ -56,5 +56,6 @@ Source: Google Drive `QUIZ IM / Lecs` (W1–W7), checked 2026-10-19.
 - ✅ FUO & Travel medicine Pt 1 (Alnabulsi) · ✅ Travel medicine Pt 2 (Alnabulsi)
 - ✅ Haematology 1: haematopoiesis, CBC, IDA · ✅ Haematology 2: megaloblastic, aplastic, haemolytic (HS, G6PD); thalassaemia/sickle cell not in deck
 - ✅ Approach to skin lesions (Habibullah) · ✅ GERD / heartburn (Reihan)
+- ✅ Acid–base disorders (Kotb)
 
 **Total missing: 14 lectures.** Already done but not in Drive: Physiology 01–06, Gastric tumours.

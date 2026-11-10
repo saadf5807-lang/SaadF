@@ -184,6 +184,8 @@ LECTURES = {
         33: None, 35: None, 36: None, 37: None, 42: None, 44: None, 45: None, 46: None, 51: None, 53: None}),
     "gerd": ("lectures/GI_GERD.pdf", 0.11, {
         12: None, 13: None, 17: None, 18: None, 19: None, 21: None, 22: None}),
+    "ab": ("lectures/Acid_Base.pdf", 0.16, {
+        5: None, 9: None, 11: None, 13: None, 15: None, 16: None, 18: None, 23: None, 24: None, 26: None}),
 }
 
 import sys
